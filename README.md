@@ -31,6 +31,7 @@ List of projects that provide terminal user interfaces
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
+- [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 
