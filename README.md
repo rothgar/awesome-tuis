@@ -26,6 +26,7 @@ List of projects that provide terminal user interfaces
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
+- [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 
 ## <a name="development"></a>Development
