@@ -47,7 +47,8 @@ List of projects that provide terminal user interfaces
 - [NetHack](https://github.com/NetHack/NetHack) dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
-- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
+- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku gam
+- [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 
 ## <a name="libraries"></a>Libraries
 
