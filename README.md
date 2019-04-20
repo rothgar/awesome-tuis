@@ -36,6 +36,7 @@ List of projects that provide terminal user interfaces
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
+- [vctui](https://github.com/thebsdbox/vctui) Consule interface for vCenter
 
 ## <a name="games"></a>Games
 
