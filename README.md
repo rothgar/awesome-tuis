@@ -68,6 +68,7 @@ List of projects that provide terminal user interfaces
 ## <a name="miscellaneous"></a>Miscellaneous
 
 - [gif-for-cli](https://github.com/google/gif-for-cli)
+- [termshark](https://github.com/gcla/termshark) terminal UI for tshark
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 
