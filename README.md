@@ -71,6 +71,7 @@ List of projects that provide terminal user interfaces
 - [termshark](https://github.com/gcla/termshark) terminal UI for tshark
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
+- [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 
 ## <a name="multimedia"></a>Multimedia
 
