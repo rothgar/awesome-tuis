@@ -67,6 +67,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="miscellaneous"></a>Miscellaneous
 
+- [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli)
 - [termshark](https://github.com/gcla/termshark) terminal UI for tshark
 - [wego](https://github.com/schachmat/wego) Weather app
