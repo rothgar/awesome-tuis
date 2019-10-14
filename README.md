@@ -78,6 +78,7 @@ List of projects that provide terminal user interfaces
 - [Image Editor](https://github.com/nhnent/tui.image-editor) Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 
