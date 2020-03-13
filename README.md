@@ -44,6 +44,7 @@ List of projects that provide terminal user interfaces
 - [bastet](https://github.com/fph/bastet) Evil falling block game
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
+- [moon-buggy](https://github.com/seehuhn/moon-buggy) drive some car across the moon 
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
 - [NetHack](https://github.com/NetHack/NetHack) dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
