@@ -16,6 +16,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="dashboards"></a>Dashboards
 
+- [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
