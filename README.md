@@ -34,6 +34,7 @@ List of projects that provide terminal user interfaces
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
+- [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
