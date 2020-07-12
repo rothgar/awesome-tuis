@@ -61,6 +61,7 @@ List of projects that provide terminal user interfaces
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [ncurses](https://www.gnu.org/software/ncurses/) 
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications
+- [tui-rs](https://github.com/fdehau/tui-rs) terminal user interfaces and dashboards using Rust
 
 ## <a name="messaging"></a>Messaging
 
@@ -74,6 +75,7 @@ List of projects that provide terminal user interfaces
 
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli)
+- [oha](https://github.com/hatoo/oha) HTTP load generator
 - [termshark](https://github.com/gcla/termshark) terminal UI for tshark
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
