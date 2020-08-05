@@ -37,6 +37,7 @@ List of projects that provide terminal user interfaces
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
+- [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Consule interface for vCenter
