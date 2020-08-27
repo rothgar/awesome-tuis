@@ -76,6 +76,7 @@ List of projects that provide terminal user interfaces
 
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli)
+- [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) Ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [termshark](https://github.com/gcla/termshark) terminal UI for tshark
 - [wego](https://github.com/schachmat/wego) Weather app
