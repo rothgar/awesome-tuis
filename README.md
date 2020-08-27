@@ -24,6 +24,7 @@ List of projects that provide terminal user interfaces
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker 
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
@@ -36,6 +37,7 @@ List of projects that provide terminal user interfaces
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
+- [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
