@@ -22,6 +22,7 @@ List of projects that provide terminal user interfaces
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
+- [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker 
