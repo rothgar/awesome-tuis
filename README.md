@@ -35,13 +35,14 @@ List of projects that provide terminal user interfaces
 ## <a name="development"></a>Development
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
-- [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
+- [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
+- [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Consule interface for vCenter
 
