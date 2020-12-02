@@ -60,6 +60,7 @@ List of projects that provide terminal user interfaces
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku gam
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
+- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
 
 ## <a name="libraries"></a>Libraries
 
@@ -96,6 +97,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="productivity"></a>Productivity
 
+- [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
