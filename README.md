@@ -35,7 +35,6 @@ List of projects that provide terminal user interfaces
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 
-
 ## <a name="development"></a>Development
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
@@ -62,7 +61,6 @@ List of projects that provide terminal user interfaces
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
-- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku gam
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 
@@ -106,7 +104,6 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [topydo](https://github.com/topydo/topydo) topydo is a powerful todo list application using the todo.txt format.
-
 
 ## <a name="web"></a>Web
 
