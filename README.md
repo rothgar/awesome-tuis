@@ -22,7 +22,7 @@ List of projects that provide terminal user interfaces
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
-- [Glow](https://github.com/nicolargo/glances) Render markdown on the CLI, with pizzazz!
+- [Glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz!
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [gotop](https://github.com/cjbassi/gotop/) A terminal based graphical activity monitor inspired by gtop and vtop
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
