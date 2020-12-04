@@ -20,8 +20,11 @@ List of projects that provide terminal user interfaces
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
+- [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
+- [Glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz!
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
+- [gotop](https://github.com/cjbassi/gotop/) A terminal based graphical activity monitor inspired by gtop and vtop
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
@@ -57,7 +60,7 @@ List of projects that provide terminal user interfaces
 - [NetHack](https://github.com/NetHack/NetHack) dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
-- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku gam
+- [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 
@@ -99,6 +102,8 @@ List of projects that provide terminal user interfaces
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
+- [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
+- [topydo](https://github.com/topydo/topydo) topydo is a powerful todo list application using the todo.txt format.
 
 ## <a name="web"></a>Web
 
