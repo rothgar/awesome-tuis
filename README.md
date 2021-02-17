@@ -77,6 +77,8 @@ List of projects that provide terminal user interfaces
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [TelegramTUI](https://github.com/bad-day/TelegramTUI) Telegram client
+- [Cordless](https://github.com/Bios-Marcel/cordless) Discord Client
+- [Gomuks](https://github.com/tulir/gomuks) Matrix Client
 - [Weechat](https://weechat.org/) Extensible chat client
 
 ## <a name="miscellaneous"></a>Miscellaneous
