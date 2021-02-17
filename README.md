@@ -90,7 +90,7 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 
 ## <a name="multimedia"></a>Multimedia
-
+- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses client, vlc --intf ncurses
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
