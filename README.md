@@ -68,7 +68,7 @@ List of projects that provide terminal user interfaces
 
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [ncurses](https://www.gnu.org/software/ncurses/) 
-- [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications
+- [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) terminal user interfaces and dashboards using Rust
 
 ## <a name="messaging"></a>Messaging
