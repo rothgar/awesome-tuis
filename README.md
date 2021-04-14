@@ -104,6 +104,7 @@ List of projects that provide terminal user interfaces
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
+- [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [topydo](https://github.com/topydo/topydo) topydo is a powerful todo list application using the todo.txt format.
 
