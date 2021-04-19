@@ -28,6 +28,7 @@ List of projects that provide terminal user interfaces
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker 
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
