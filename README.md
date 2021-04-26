@@ -112,6 +112,7 @@ List of projects that provide terminal user interfaces
 ## <a name="web"></a>Web
 
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
+- [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
