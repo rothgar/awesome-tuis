@@ -44,6 +44,7 @@ List of projects that provide terminal user interfaces
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
+- [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using [py_cui](https://github.com/jwlodek/py_cui)
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
@@ -70,6 +71,7 @@ List of projects that provide terminal user interfaces
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [ncurses](https://www.gnu.org/software/ncurses/) 
 - [pterm](https://github.com/pterm/pterm/) a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more rocket It's completely configurable and 100% cross-platform compatible.
+- [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) terminal user interfaces and dashboards using Rust
 
