@@ -88,7 +88,7 @@ List of projects that provide terminal user interfaces
 ## <a name="miscellaneous"></a>Miscellaneous
 
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
-- [gif-for-cli](https://github.com/google/gif-for-cli)
+- [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) Ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [termshark](https://github.com/gcla/termshark) terminal UI for tshark
@@ -111,7 +111,9 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
+- [tmux](https://github.com/tmux/tmux) terminal multiplexer
 - [topydo](https://github.com/topydo/topydo) topydo is a powerful todo list application using the todo.txt format.
+- [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
 ## <a name="web"></a>Web
 
