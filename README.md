@@ -104,6 +104,7 @@ List of projects that provide terminal user interfaces
 ## <a name="multimedia"></a>Multimedia
 
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
+- [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
