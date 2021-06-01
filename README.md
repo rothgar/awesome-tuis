@@ -130,3 +130,7 @@ List of projects that provide terminal user interfaces
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
+
+---
+
+Didn't find something specific? check out this massive [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
