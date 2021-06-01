@@ -45,6 +45,7 @@ List of projects that provide terminal user interfaces
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
+- [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using [py_cui](https://github.com/jwlodek/py_cui)
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
