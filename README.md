@@ -96,6 +96,7 @@ List of projects that provide terminal user interfaces
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
+- [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
