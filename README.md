@@ -119,17 +119,19 @@ List of projects that provide terminal user interfaces
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
-- [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
+- [taswarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
+- [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
 ## <a name="web"></a>Web
 
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
+- [googlit](https://github.com/peterjschroeder/googlit) A TUI frontend to [googler](https://github.com/jarun/googler)
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
