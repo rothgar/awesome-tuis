@@ -144,4 +144,5 @@ There's a crazy amount of TUI projects out there, and we can't list them all (th
 For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/projects/tui) page. 
 
 Looking for lightweight but not necessarily TUI? check out mayfrost's [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
-ENjoy Vim keybinds and don't want to learn new ones? check out the [Big Pile of Vim-like](https://vim.reversed.top)
+
+Enjoy Vim keybinds and don't want to learn new ones? check out the [Big Pile of Vim-like](https://vim.reversed.top)
