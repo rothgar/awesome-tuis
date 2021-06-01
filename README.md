@@ -44,7 +44,7 @@ List of projects that provide terminal user interfaces
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
-- [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
+- [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using [py_cui](https://github.com/jwlodek/py_cui)
@@ -52,7 +52,7 @@ List of projects that provide terminal user interfaces
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
-- [vctui](https://github.com/thebsdbox/vctui) Consule interface for vCenter
+- [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 
 ## <a name="games"></a>Games
 
@@ -60,9 +60,9 @@ List of projects that provide terminal user interfaces
 - [bastet](https://github.com/fph/bastet) Evil falling block game
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
-- [moon-buggy](https://github.com/seehuhn/moon-buggy) drive some car across the moon 
+- [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon 
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
-- [NetHack](https://github.com/NetHack/NetHack) dungeon exploration game
+- [NetHack](https://github.com/NetHack/NetHack) Dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
@@ -73,10 +73,10 @@ List of projects that provide terminal user interfaces
 
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [ncurses](https://www.gnu.org/software/ncurses/) 
-- [pterm](https://github.com/pterm/pterm/) a modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and many more rocket It's completely configurable and 100% cross-platform compatible.
+- [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
-- [tui-rs](https://github.com/fdehau/tui-rs) terminal user interfaces and dashboards using Rust
+- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
 
 ## <a name="messaging"></a>Messaging
 
@@ -91,9 +91,9 @@ List of projects that provide terminal user interfaces
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
-- [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) Ncurses network manager
+- [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
-- [termshark](https://github.com/gcla/termshark) terminal UI for tshark
+- [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
@@ -115,8 +115,8 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
-- [tmux](https://github.com/tmux/tmux) terminal multiplexer
-- [topydo](https://github.com/topydo/topydo) topydo is a powerful todo list application using the todo.txt format.
+- [tmux](https://github.com/tmux/tmux) Terminal multiplexer
+- [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format.
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
 ## <a name="web"></a>Web
