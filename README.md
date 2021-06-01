@@ -90,6 +90,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="miscellaneous"></a>Miscellaneous
 
+- [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that ecrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
