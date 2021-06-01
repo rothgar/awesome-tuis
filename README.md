@@ -83,6 +83,7 @@ List of projects that provide terminal user interfaces
 
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
+- [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [TelegramTUI](https://github.com/bad-day/TelegramTUI) Telegram client
 - [Weechat](https://weechat.org/) Extensible chat client
