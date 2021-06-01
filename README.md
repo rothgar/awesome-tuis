@@ -116,7 +116,8 @@ List of projects that provide terminal user interfaces
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
-- [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format.
+- [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
+- [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
 ## <a name="web"></a>Web
