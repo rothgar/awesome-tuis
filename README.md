@@ -114,6 +114,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="productivity"></a>Productivity
 
+- [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
