@@ -135,6 +135,7 @@ List of projects that provide terminal user interfaces
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 
 ---
-There's a crazy amount of TUI projects out there, and we can't list them all (though we try!) For more,see awesome-opensoruce's [TUI Projects](https://awesomeopensource.com/projects/tui) page. 
+There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)   
+For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/projects/tui) page. 
 
 Looking for lightweight but not necessarily TUI? check out mayfrost's [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
