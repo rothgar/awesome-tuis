@@ -147,3 +147,7 @@ For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/
 Looking for lightweight but not necessarily TUI? check out mayfrost's [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
 
 Enjoy Vim keybinds and don't want to learn new ones? check out the [Big Pile of Vim-like](https://vim.reversed.top)
+
+First-hand reviews for a lot of these tools and many, many more at k.mandla's [Inconsolation blog](https://inconsolation.wordpress.com/index/). The site also has a "surprise me with a random tool" link!
+
+[Tim's blog](http://tim.thechases.com/posts/cli/software-for-a-command-line-world/) cover more tools for no X, over ssh, and all CLI (not necessarily TUI tho).
