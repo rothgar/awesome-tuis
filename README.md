@@ -12,7 +12,7 @@ List of projects that provide terminal user interfaces
 - [Miscellaneous](#miscellaneous)
 - [Multimedia](#multimedia)
 - [Productivity](#productivity)
-- [Web](#web)e
+- [Web](#web)
 
 ## <a name="dashboards"></a>Dashboards
 
