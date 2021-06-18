@@ -101,6 +101,7 @@ List of projects that provide terminal user interfaces
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
+- [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [wego](https://github.com/schachmat/wego) Weather app
