@@ -81,6 +81,7 @@ List of projects that provide terminal user interfaces
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
+- [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
 
 ## <a name="messaging"></a>Messaging
 
