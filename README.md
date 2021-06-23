@@ -91,6 +91,8 @@ List of projects that provide terminal user interfaces
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [TelegramTUI](https://github.com/bad-day/TelegramTUI) Telegram client
+- [Cordless](https://github.com/Bios-Marcel/cordless) Discord Client
+- [Gomuks](https://github.com/tulir/gomuks) Matrix Client
 - [Weechat](https://weechat.org/) Extensible chat client
 
 ## <a name="miscellaneous"></a>Miscellaneous
@@ -110,7 +112,7 @@ List of projects that provide terminal user interfaces
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
 ## <a name="multimedia"></a>Multimedia
-
+- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses client, vlc --intf ncurses
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
