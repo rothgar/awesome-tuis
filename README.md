@@ -123,12 +123,14 @@ List of projects that provide terminal user interfaces
 ## <a name="productivity"></a>Productivity
 
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
+- [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taswarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
+- [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
@@ -141,6 +143,7 @@ List of projects that provide terminal user interfaces
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
+- [newsboat](https://github.com/newsboat/newsboat) An RSS/Atom feed reader for the text console
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
