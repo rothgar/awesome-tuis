@@ -77,6 +77,7 @@ List of projects that provide terminal user interfaces
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 C++ Functional Terminal User Interface. ❤️
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [ncurses](https://www.gnu.org/software/ncurses/) 
+- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
 - [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
@@ -98,11 +99,13 @@ List of projects that provide terminal user interfaces
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
+- [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
+- [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [wego](https://github.com/schachmat/wego) Weather app
