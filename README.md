@@ -17,6 +17,7 @@ List of projects that provide terminal user interfaces
 ## <a name="dashboards"></a>Dashboards
 
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
+- [chkservice](https://github.com/linuxenko/chkservice) Systemd units manager with ncurses, terminal interface
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
@@ -33,6 +34,7 @@ List of projects that provide terminal user interfaces
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker 
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
+- [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
