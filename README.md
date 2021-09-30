@@ -54,6 +54,7 @@ List of projects that provide terminal user interfaces
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
+- [turbo](https://github.com/magiblot/turbo) An  experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 
 ## <a name="games"></a>Games
