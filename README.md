@@ -111,6 +111,7 @@ List of projects that provide terminal user interfaces
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
+- [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
