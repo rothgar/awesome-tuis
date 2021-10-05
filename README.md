@@ -97,6 +97,7 @@ List of projects that provide terminal user interfaces
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [TelegramTUI](https://github.com/bad-day/TelegramTUI) Telegram client
+- [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [Weechat](https://weechat.org/) Extensible chat client
 
 ## <a name="miscellaneous"></a>Miscellaneous
