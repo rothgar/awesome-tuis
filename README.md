@@ -63,6 +63,7 @@ List of projects that provide terminal user interfaces
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [bastet](https://github.com/fph/bastet) Evil falling block game
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
+- [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon 
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
@@ -117,6 +118,7 @@ List of projects that provide terminal user interfaces
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
+- [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
