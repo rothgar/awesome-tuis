@@ -83,6 +83,7 @@ List of projects that provide terminal user interfaces
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A Go framework based on Elm to build functional and stateful TUI apps
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 C++ Functional Terminal User Interface. ❤️
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
+- [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ncurses](https://www.gnu.org/software/ncurses/) 
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
 - [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
