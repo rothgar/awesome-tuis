@@ -135,6 +135,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="multimedia"></a>Multimedia
 
+- [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
