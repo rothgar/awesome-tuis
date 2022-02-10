@@ -111,6 +111,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="miscellaneous"></a>Miscellaneous
 
+- [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
@@ -133,12 +134,12 @@ List of projects that provide terminal user interfaces
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
-- [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 
 ## <a name="multimedia"></a>Multimedia
 
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
+- [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
@@ -146,7 +147,6 @@ List of projects that provide terminal user interfaces
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
-- [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 
 ## <a name="productivity"></a>Productivity
 
