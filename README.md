@@ -112,6 +112,7 @@ List of projects that provide terminal user interfaces
 ## <a name="miscellaneous"></a>Miscellaneous
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
+- [bat](https://github.com/sharkdp/bat) A cat(1) clone with syntax highlighting and Git integration.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
