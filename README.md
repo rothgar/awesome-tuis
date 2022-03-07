@@ -124,6 +124,7 @@ List of projects that provide terminal user interfaces
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
+- [portal](https://github.com/ZinoKader/portal) Portal is a TUI file transfer utility to send files from any computer to another.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
