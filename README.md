@@ -95,10 +95,12 @@ List of projects that provide terminal user interfaces
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in Python 
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
+- [tcell](https://github.com/gdamore/tcell) Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development. 
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
 - [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
+- [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
 
 ## <a name="messaging"></a>Messaging
