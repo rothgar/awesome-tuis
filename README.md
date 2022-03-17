@@ -14,7 +14,7 @@ List of projects that provide terminal user interfaces
 - [Productivity](#productivity)
 - [Web](#web)
 
-## <a name="dashboards"></a>Dashboards
+## Dashboards
 
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
@@ -45,7 +45,7 @@ List of projects that provide terminal user interfaces
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 
-## <a name="development"></a>Development
+## Development
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
@@ -63,7 +63,7 @@ List of projects that provide terminal user interfaces
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 
-## <a name="games"></a>Games
+## Games
 
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [bastet](https://github.com/fph/bastet) Evil falling block game
@@ -82,7 +82,7 @@ List of projects that provide terminal user interfaces
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 
-## <a name="libraries"></a>Libraries
+## Libraries
 
 - [blessings](https://github.com/erikrose/blessings) A Python wrapper lib for ncurses that makes your code pretty to look at, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A Go framework based on Elm to build functional and stateful TUI apps
@@ -105,7 +105,7 @@ List of projects that provide terminal user interfaces
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
 
-## <a name="messaging"></a>Messaging
+## Messaging
 
 - [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
@@ -119,7 +119,7 @@ List of projects that provide terminal user interfaces
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [Weechat](https://weechat.org/) Extensible chat client
 
-## <a name="miscellaneous"></a>Miscellaneous
+## Miscellaneous
 
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
@@ -148,7 +148,7 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
-## <a name="multimedia"></a>Multimedia
+## Multimedia
 
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
@@ -162,7 +162,7 @@ List of projects that provide terminal user interfaces
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 
-## <a name="productivity"></a>Productivity
+## Productivity
 
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
@@ -178,7 +178,7 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
-## <a name="web"></a>Web
+## Web
 
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
 - [googlit](https://github.com/peterjschroeder/googlit) A TUI frontend to [googler](https://github.com/jarun/googler)
