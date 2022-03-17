@@ -102,6 +102,8 @@ List of projects that provide terminal user interfaces
 - [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
+- [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
+- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for node.js.
 
 ## <a name="messaging"></a>Messaging
 
