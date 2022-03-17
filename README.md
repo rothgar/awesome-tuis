@@ -132,6 +132,7 @@ List of projects that provide terminal user interfaces
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
+- [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
