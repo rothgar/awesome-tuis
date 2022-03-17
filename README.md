@@ -107,6 +107,7 @@ List of projects that provide terminal user interfaces
 
 - [aerc](https://aerc-mail.org/) Email client
 - [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
+- [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
