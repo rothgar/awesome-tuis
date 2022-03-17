@@ -43,6 +43,7 @@ List of projects that provide terminal user interfaces
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
+- [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
 
 ## <a name="development"></a>Development
 
