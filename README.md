@@ -107,8 +107,10 @@ List of projects that provide terminal user interfaces
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
+- [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
+- [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [Weechat](https://weechat.org/) Extensible chat client
 
