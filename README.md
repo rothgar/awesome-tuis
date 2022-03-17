@@ -174,6 +174,7 @@ List of projects that provide terminal user interfaces
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
+- [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 
 ## <a name="web"></a>Web
 
