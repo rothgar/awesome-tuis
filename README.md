@@ -190,6 +190,7 @@ List of projects that provide terminal user interfaces
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
+- [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
 ---
