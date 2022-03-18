@@ -37,6 +37,7 @@ List of projects that provide terminal user interfaces
 - [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [kui](https://github.com/kubernetes-sigs/kui) CLI driven graphics for Kubernetes that responds to 'kubectl' commands
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
