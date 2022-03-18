@@ -44,6 +44,7 @@ List of projects that provide terminal user interfaces
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
+- [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
 
 ## <a name="development"></a>Development
 
@@ -107,8 +108,11 @@ List of projects that provide terminal user interfaces
 
 ## <a name="messaging"></a>Messaging
 
+- [aerc](https://aerc-mail.org/) Email client
 - [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
+- [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
+- [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) - XMPP (Jabber) client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
@@ -177,6 +181,7 @@ List of projects that provide terminal user interfaces
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
+- [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 
 ## <a name="web"></a>Web
 
@@ -189,6 +194,7 @@ List of projects that provide terminal user interfaces
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
+- [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
 ---
