@@ -48,21 +48,25 @@ List of projects that provide terminal user interfaces
 
 ## <a name="development"></a>Development
 
-- [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
-- [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using [py_cui](https://github.com/jwlodek/py_cui)
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
-- [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
-- [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
+
+## <a name="editors"></a>Editors
+
+- [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
+- [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
+- [o](https://github.com/xyproto/o) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
+- [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
+- [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 
 ## <a name="games"></a>Games
 
@@ -161,6 +165,7 @@ List of projects that provide terminal user interfaces
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
+- [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
@@ -205,7 +210,8 @@ List of projects that provide terminal user interfaces
 
 ---
 
-There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)  
+There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)
+
 For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/projects/tui) page.
 
 Looking for lightweight but not necessarily TUI? check out mayfrost's [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
