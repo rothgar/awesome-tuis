@@ -158,6 +158,7 @@ List of projects that provide terminal user interfaces
 
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
+- [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
