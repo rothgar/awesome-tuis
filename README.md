@@ -87,6 +87,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="libraries"></a>Libraries
 
+- [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in Swift
 - [blessings](https://github.com/erikrose/blessings) A Python wrapper lib for ncurses that makes your code pretty to look at, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A Go framework based on Elm to build functional and stateful TUI apps
 - [FINAL CUT](https://github.com/gansm/finalcut) Library for creating terminal applications with text-based widgets
