@@ -107,6 +107,7 @@ List of projects that provide terminal user interfaces
 
 - [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
+- [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
