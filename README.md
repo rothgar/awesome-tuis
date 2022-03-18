@@ -27,6 +27,7 @@ List of projects that provide terminal user interfaces
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
+- [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz!
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
@@ -36,7 +37,7 @@ List of projects that provide terminal user interfaces
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
-- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker 
+- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
@@ -60,17 +61,18 @@ List of projects that provide terminal user interfaces
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
-- [turbo](https://github.com/magiblot/turbo) An  experimental text editor for the terminal, based on Scintilla and Turbo Vision
+- [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 
 ## <a name="games"></a>Games
 
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [bastet](https://github.com/fph/bastet) Evil falling block game
+- [botany](https://github.com/jifunks/botany/) Virtual plant buddy
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
-- [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon 
+- [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
 - [NetHack](https://github.com/NetHack/NetHack) Dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
@@ -89,15 +91,15 @@ List of projects that provide terminal user interfaces
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 C++ Functional Terminal User Interface. ❤️
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
-- [ncurses](https://www.gnu.org/software/ncurses/) 
+- [ncurses](https://www.gnu.org/software/ncurses/)
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
 - [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your Python (3.7+) applications.
-- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in Python 
+- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in Python
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
 - [tcell](https://github.com/gdamore/tcell) Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
-- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development. 
+- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
 - [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
@@ -111,6 +113,7 @@ List of projects that provide terminal user interfaces
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
+- [mcabber](https://mcabber.com/) - XMPP (Jabber) client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
@@ -195,8 +198,9 @@ List of projects that provide terminal user interfaces
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
 ---
-There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)   
-For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/projects/tui) page. 
+
+There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)  
+For more, see awesome-opensource's [TUI Projects](https://awesomeopensource.com/projects/tui) page.
 
 Looking for lightweight but not necessarily TUI? check out mayfrost's [alternatives list](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md)!
 
