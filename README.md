@@ -6,6 +6,7 @@ List of projects that provide terminal user interfaces
 
 - [Dashboards](#dashboards)
 - [Development](#development)
+- [Editors](#editors)
 - [Games](#games)
 - [Libraries](#libraries)
 - [Messaging](#messaging)
