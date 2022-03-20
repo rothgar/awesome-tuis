@@ -200,6 +200,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="web"></a>Web
 
+- [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
 - [googlit](https://github.com/peterjschroeder/googlit) A TUI frontend to [googler](https://github.com/jarun/googler)
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
