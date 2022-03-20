@@ -187,6 +187,7 @@ List of projects that provide terminal user interfaces
 
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
+- [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
