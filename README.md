@@ -140,6 +140,7 @@ List of projects that provide terminal user interfaces
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
+- [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
