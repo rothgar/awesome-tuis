@@ -206,6 +206,7 @@ List of projects that provide terminal user interfaces
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
 - [newsboat](https://github.com/newsboat/newsboat) An RSS/Atom feed reader for the text console
 - [Rainbowstream](https://github.com/orakaro/rainbowstream) A smart and nice Twitter client on terminal written in Python
+- [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [rtv](https://github.com/michael-lazar/rtv) Browse Reddit from your terminal
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
