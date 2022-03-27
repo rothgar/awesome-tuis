@@ -118,6 +118,7 @@ List of projects that provide terminal user interfaces
 - [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
+- [Thermage](https://github.com/thermage/thermage) Thermage is a PHP library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 
 ## <a name="messaging"></a>Messaging
 
