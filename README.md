@@ -40,6 +40,7 @@ List of projects that provide terminal user interfaces
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
+- [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
@@ -124,6 +125,7 @@ List of projects that provide terminal user interfaces
 
 - [aerc](https://aerc-mail.org/) Email client
 - [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
+- [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
@@ -134,6 +136,7 @@ List of projects that provide terminal user interfaces
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
+- [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [Weechat](https://weechat.org/) Extensible chat client
 
@@ -206,11 +209,13 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
+- [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 
 ## <a name="web"></a>Web
 
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
+- [Canard](https://github.com/mrusme/canard) A command line TUI client for the [Journalist](https://github.com/mrusme/journalist) RSS aggregator.
 - [googlit](https://github.com/peterjschroeder/googlit) A TUI frontend to [googler](https://github.com/jarun/googler)
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
