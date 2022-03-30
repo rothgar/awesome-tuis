@@ -114,6 +114,7 @@ List of projects that provide terminal user interfaces
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
 - [tcell](https://github.com/gdamore/tcell) Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Thermage](https://github.com/thermage/thermage) Thermage is a PHP library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
 - [tuibox](https://github.com/Cubified/tuibox) A single-header terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
