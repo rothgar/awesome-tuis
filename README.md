@@ -73,6 +73,7 @@ List of projects that provide terminal user interfaces
 - [o](https://github.com/xyproto/o) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
+- [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
 ## <a name="games"></a>Games
 
