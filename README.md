@@ -41,6 +41,7 @@ List of projects that provide terminal user interfaces
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
+- [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
