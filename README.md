@@ -171,6 +171,7 @@ List of projects that provide terminal user interfaces
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
+- [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [wego](https://github.com/schachmat/wego) Weather app
