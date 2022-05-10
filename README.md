@@ -59,7 +59,7 @@ List of projects that provide terminal user interfaces
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
-- [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using [py_cui](https://github.com/jwlodek/py_cui)
+- [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
