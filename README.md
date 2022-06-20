@@ -111,6 +111,7 @@ List of projects that provide terminal user interfaces
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for .NET applications
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ncurses](https://www.gnu.org/software/ncurses/)
+- [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
 - [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
