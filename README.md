@@ -128,6 +128,7 @@ List of projects that provide terminal user interfaces
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
 - [UniCurses](https://github.com/unicurses/unicurses) A Python module that is aimed at providing the Curses functionality on all operating systems.
+- [urwid](https://github.com/urwid/urwid) A console user interface library for Python on Linux, OSX, Cygwin or other unix-like OS.
 
 ## <a name="messaging"></a>Messaging
 
