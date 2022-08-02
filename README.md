@@ -124,7 +124,6 @@ List of projects that provide terminal user interfaces
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust
 - [tuibox](https://github.com/Cubified/tuibox) A single-header terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
-- [Terminal.Gui](https://github.com/migueldeicaza/gui.cs) Cross Platform Terminal GUI toolkit for .NET
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
 - [UniCurses](https://github.com/unicurses/unicurses) A Python module that is aimed at providing the Curses functionality on all operating systems.
@@ -133,7 +132,6 @@ List of projects that provide terminal user interfaces
 ## <a name="messaging"></a>Messaging
 
 - [aerc](https://aerc-mail.org/) Email client
-- [Alpine](https://alpine.x10host.com) Email client. Fork of Pine by University of Washington.
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
