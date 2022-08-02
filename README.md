@@ -19,6 +19,7 @@ List of projects that provide terminal user interfaces
 
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
+- [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
 - [chkservice](https://github.com/linuxenko/chkservice) Systemd units manager with ncurses, terminal interface
