@@ -134,6 +134,7 @@ List of projects that provide terminal user interfaces
 
 - [aerc](https://aerc-mail.org/) Email client
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
+- [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
