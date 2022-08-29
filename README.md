@@ -93,6 +93,7 @@ List of projects that provide terminal user interfaces
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
+- [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 - [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) Sudoku built with tui-rs
