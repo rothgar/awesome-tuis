@@ -205,6 +205,7 @@ List of projects that provide terminal user interfaces
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
+ - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast.
 
 ## <a name="productivity"></a>Productivity
 
@@ -245,7 +246,7 @@ List of projects that provide terminal user interfaces
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
-- [castero](https://github.com/xgi/castero) A TUI app to listen to podcast.
+
 
 ---
 
