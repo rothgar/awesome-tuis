@@ -158,6 +158,7 @@ List of projects that provide terminal user interfaces
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
+- [dblab](https://github.com/danvergara/dblab) An interactive cross-plataform database client for PostgreSQL, MySQL and SQLite3 written in Go.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
@@ -187,7 +188,6 @@ List of projects that provide terminal user interfaces
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
-- [dblab](https://github.com/danvergara/dblab) An interactive cross-plataform database client for PostgreSQL, MySQL and SQLite3 written in Go.
 
 ## <a name="multimedia"></a>Multimedia
 
