@@ -141,7 +141,8 @@ List of projects that provide terminal user interfaces
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
-- [mcabber](https://mcabber.com/) - XMPP (Jabber) client
+- [mcabber](https://mcabber.com/) XMPP (Jabber) client
+- [meli](https://meli.delivery/) Email client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
