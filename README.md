@@ -187,6 +187,7 @@ List of projects that provide terminal user interfaces
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+- [dblab](https://github.com/danvergara/dblab) An interactive cross-plataform database client for PostgreSQL, MySQL and SQLite3 written in Go.
 
 ## <a name="multimedia"></a>Multimedia
 
