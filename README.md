@@ -214,6 +214,7 @@ List of projects that provide terminal user interfaces
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
+- [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
