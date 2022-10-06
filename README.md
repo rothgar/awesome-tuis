@@ -240,7 +240,6 @@ List of projects that provide terminal user interfaces
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
 - [Canard](https://github.com/mrusme/canard) A command line TUI client for the [Journalist](https://github.com/mrusme/journalist) RSS aggregator.
-- [googlit](https://github.com/peterjschroeder/googlit) A TUI frontend to [googler](https://github.com/jarun/googler)
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
