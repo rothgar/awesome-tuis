@@ -218,6 +218,8 @@ List of projects that provide terminal user interfaces
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
+- [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
+  with heavy inspiration from ranger file manager.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
