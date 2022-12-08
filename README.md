@@ -210,6 +210,7 @@ List of projects that provide terminal user interfaces
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
+- [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 
 ## <a name="productivity"></a>Productivity
 
