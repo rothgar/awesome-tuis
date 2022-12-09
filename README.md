@@ -28,6 +28,7 @@ List of projects that provide terminal user interfaces
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
+- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
