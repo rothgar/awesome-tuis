@@ -15,7 +15,7 @@ List of projects that provide terminal user interfaces
 - [Productivity](#productivity)
 - [Web](#web)
 
-## <a name="dashboards"></a>Dashboards
+## Dashboards
 
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
@@ -53,7 +53,7 @@ List of projects that provide terminal user interfaces
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
 
-## <a name="development"></a>Development
+## Development
 
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
@@ -69,7 +69,7 @@ List of projects that provide terminal user interfaces
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 
-## <a name="editors"></a>Editors
+## Editors
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [helix](https://helix-editor.com/) A post-modern text editor.
@@ -80,7 +80,7 @@ List of projects that provide terminal user interfaces
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
-## <a name="games"></a>Games
+## Games
 
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [bastet](https://github.com/fph/bastet) Evil falling block game
@@ -105,7 +105,7 @@ List of projects that provide terminal user interfaces
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
 
-## <a name="libraries"></a>Libraries
+## Libraries
 
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in Swift
 - [blessings](https://github.com/erikrose/blessings) A Python wrapper lib for ncurses that makes your code pretty to look at
@@ -135,7 +135,7 @@ List of projects that provide terminal user interfaces
 - [UniCurses](https://github.com/unicurses/unicurses) A Python module that is aimed at providing the Curses functionality on all operating systems.
 - [urwid](https://github.com/urwid/urwid) A console user interface library for Python on Linux, OSX, Cygwin or other unix-like OS.
 
-## <a name="messaging"></a>Messaging
+## Messaging
 
 - [aerc](https://aerc-mail.org/) Email client
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
@@ -157,7 +157,7 @@ List of projects that provide terminal user interfaces
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
 - [Weechat](https://weechat.org/) Extensible chat client
 
-## <a name="miscellaneous"></a>Miscellaneous
+## Miscellaneous
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
@@ -193,7 +193,7 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 
-## <a name="multimedia"></a>Multimedia
+## Multimedia
 
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
@@ -214,7 +214,7 @@ List of projects that provide terminal user interfaces
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 
-## <a name="productivity"></a>Productivity
+## Productivity
 
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
@@ -242,7 +242,7 @@ List of projects that provide terminal user interfaces
 - [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 
-## <a name="web"></a>Web
+## Web
 
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
