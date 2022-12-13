@@ -108,6 +108,7 @@ List of projects that provide terminal user interfaces
 ## Libraries
 
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in Swift
+- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for node.js
 - [blessings](https://github.com/erikrose/blessings) A Python wrapper lib for ncurses that makes your code pretty to look at
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A Go framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
@@ -116,6 +117,7 @@ List of projects that provide terminal user interfaces
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for .NET applications
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
+- [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
 - [ncurses](https://www.gnu.org/software/ncurses/)
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
@@ -187,6 +189,7 @@ List of projects that provide terminal user interfaces
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
+- [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
@@ -211,6 +214,7 @@ List of projects that provide terminal user interfaces
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
+- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses client, vlc --intf ncurses
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 
@@ -247,6 +251,7 @@ List of projects that provide terminal user interfaces
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
 - [Canard](https://github.com/mrusme/canard) A command line TUI client for the [Journalist](https://github.com/mrusme/journalist) RSS aggregator.
+- [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
