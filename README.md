@@ -173,6 +173,7 @@ List of projects that provide terminal user interfaces
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
+- [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
