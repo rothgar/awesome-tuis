@@ -214,7 +214,7 @@ List of projects that provide terminal user interfaces
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
-- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses client, vlc --intf ncurses
+- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses client, `vlc --intf ncurses`
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 
