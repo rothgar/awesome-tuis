@@ -237,6 +237,7 @@ List of projects that provide terminal user interfaces
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
+- [tmt](https://github.com/sitaramc/notes/blob/master/tmt) time tracker using `fzf` as the UI. Usage screencast: <https://asciinema.org/a/392147>
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
