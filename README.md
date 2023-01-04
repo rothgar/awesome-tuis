@@ -223,6 +223,7 @@ List of projects that provide terminal user interfaces
 
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [qalc](https://github.com/Qalculate/libqalculate) powerful CLI calculator
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
