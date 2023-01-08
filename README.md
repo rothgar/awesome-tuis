@@ -103,6 +103,7 @@ List of projects that provide terminal user interfaces
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
+- [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
 
 ## Libraries
