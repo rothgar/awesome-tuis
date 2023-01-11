@@ -104,6 +104,7 @@ List of projects that provide terminal user interfaces
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
 - [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
+- [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 - [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) Sudoku built with tui-rs
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
@@ -241,6 +242,7 @@ List of projects that provide terminal user interfaces
 
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
