@@ -129,6 +129,7 @@ List of projects that provide terminal user interfaces
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for .NET applications
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
+- [Lanterna](https://github.com/mabe02/lanterna) A Java library for creating text-based UIs, very similar to the C library curses but with more functionality.
 - [ncurses](https://www.gnu.org/software/ncurses/)
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
