@@ -127,6 +127,7 @@ List of projects that provide terminal user interfaces
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 C++ Functional Terminal User Interface. ❤️
 - [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
 - [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for .NET applications
+- [gum](https://github.com/charmbracelet/gum) A tool for glamorous shell scripts
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
 - [Lanterna](https://github.com/mabe02/lanterna) A Java library for creating text-based UIs, very similar to the C library curses but with more functionality.
