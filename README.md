@@ -209,6 +209,7 @@ List of projects that provide terminal user interfaces
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
+- [WG Commander](https://github.com/andrianbdn/wg-cmd) A TUI for a simple WireGuard VPN setup - peer management, QR codes, setup wizard.
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
