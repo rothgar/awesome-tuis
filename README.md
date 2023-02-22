@@ -137,6 +137,7 @@ List of projects that provide terminal user interfaces
 - [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
 - [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your Python (3.7+) applications.
+- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for Python with a QT-like API semantics
 - [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in Python
 - [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
 - [tcell](https://github.com/gdamore/tcell) Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
