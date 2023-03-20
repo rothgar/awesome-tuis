@@ -61,6 +61,7 @@ List of projects that provide terminal user interfaces
 
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
+- [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
