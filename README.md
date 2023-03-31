@@ -206,7 +206,6 @@ List of projects that provide terminal user interfaces
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
-- [s-tui](https://github.com/amanusk/s-tui) Terminal-based CPU stress and monitoring utility
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
