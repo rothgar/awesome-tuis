@@ -277,6 +277,7 @@ List of projects that provide terminal user interfaces
 - [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
+- [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
 ---
 </details>
 
