@@ -25,6 +25,7 @@ List of projects that provide terminal user interfaces
 - [chkservice](https://github.com/linuxenko/chkservice) Systemd units manager with ncurses, terminal interface
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
+- [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
