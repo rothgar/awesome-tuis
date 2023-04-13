@@ -37,7 +37,7 @@ List of projects that provide terminal user interfaces
 - [gotop](https://github.com/xxxserxxx/gotop) A terminal based graphical activity monitor inspired by gtop and vtop
 - [gping](https://github.com/orf/gping) Ping, but with a graph
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
-- [htop](https://github.com/hishamhm/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
+- [htop](https://github.com/htop-dev/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
