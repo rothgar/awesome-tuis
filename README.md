@@ -85,7 +85,7 @@ List of projects that provide terminal user interfaces
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
-- [o](https://github.com/xyproto/o) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
+- [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
