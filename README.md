@@ -259,6 +259,7 @@ List of projects that provide terminal user interfaces
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
+- [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
   with heavy inspiration from ranger file manager.
