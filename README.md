@@ -83,6 +83,7 @@ List of projects that provide terminal user interfaces
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [helix](https://helix-editor.com/) A post-modern text editor.
+- [frogmouth](https://github.com/Textualize/frogmouth)A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
