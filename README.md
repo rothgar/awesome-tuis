@@ -31,6 +31,7 @@ List of projects that provide terminal user interfaces
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
+- [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz!
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
