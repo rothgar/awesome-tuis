@@ -112,6 +112,7 @@ List of projects that provide terminal user interfaces
 - [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
 - [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
+- [sshtron](https://github.com/zachlatta/sshtron) multiplayer lightcycle game that runs through SSH
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 - [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) Sudoku built with tui-rs
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
