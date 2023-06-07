@@ -153,7 +153,7 @@ List of projects that provide terminal user interfaces
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a PHP library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
-- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust (no longer maintained, use [ratatui](https://github.com/tui-rs-revival/ratatui) instead).
+- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust (no longer maintained, use Ratatui instead).
 - [tuibox](https://github.com/Cubified/tuibox) A single-header terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
 - [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
