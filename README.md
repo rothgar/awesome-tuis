@@ -184,6 +184,7 @@ List of projects that provide terminal user interfaces
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
+- [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
 - [Weechat](https://weechat.org/) Extensible chat client
 ---
 </details>
