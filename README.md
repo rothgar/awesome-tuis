@@ -22,7 +22,6 @@ List of projects that provide terminal user interfaces
 - [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
-- [chkservice](https://github.com/linuxenko/chkservice) Systemd units manager with ncurses, terminal interface
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
