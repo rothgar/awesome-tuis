@@ -72,11 +72,12 @@ List of projects that provide terminal user interfaces
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
+- [runme](https://github.com/stateful/runme) Discover and run code snippets directly from your README.md or other markdowns
 - [sls-dev-tools](https://github.com/Theodo-UK/sls-dev-tools) Dev Tools for the Serverless World
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
-- [runme](https://github.com/stateful/runme) Discover and run code snippets directly from your README.md or other markdowns
+- [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 ---
 </details>
 
