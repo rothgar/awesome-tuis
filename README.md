@@ -193,6 +193,7 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Miscellaneous</h2></summary>
 
+- [kaydet](https://github.com/miratcan/kaydet) Simple terminal designed to help you preserve your daily thoughts, experiences, and memories.
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [adguardian](github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
