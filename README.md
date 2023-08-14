@@ -71,6 +71,7 @@ List of projects that provide terminal user interfaces
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
+- [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [runme](https://github.com/stateful/runme) Discover and run code snippets directly from your README.md or other markdowns
