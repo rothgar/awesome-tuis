@@ -61,6 +61,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Development</h2></summary>
 
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
+- [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
