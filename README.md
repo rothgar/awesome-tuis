@@ -52,6 +52,7 @@ List of projects that provide terminal user interfaces
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
+- [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
