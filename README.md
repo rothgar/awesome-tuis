@@ -105,6 +105,7 @@ List of projects that provide terminal user interfaces
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [bastet](https://github.com/fph/bastet) Evil falling block game
 - [botany](https://github.com/jifunks/botany/) Virtual plant buddy
+- [BrogueCE](https://github.com/tmewett/BrogueCE) Beautiful roguelike dungeon crawler
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) A bonsai tree generator
 - [clidle](https://github.com/ajeetdsouza/clidle) Play Wordle in your terminal. Also works over SSH!
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
