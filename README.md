@@ -202,7 +202,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Miscellaneous</h2></summary>
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
-- [adguardian](github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
+- [adguardian](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
@@ -301,7 +301,7 @@ List of projects that provide terminal user interfaces
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
-- [zelliji](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
+- [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 ---
