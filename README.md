@@ -66,6 +66,7 @@ List of projects that provide terminal user interfaces
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
+- [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
@@ -257,10 +258,12 @@ List of projects that provide terminal user interfaces
 - [mpvc](https://github.com/gmt4/mpvc) A mpc-like control interface for mpv
 - [ncspot](https://github.com/hrkfdn/ncspot) Cross-platform ncurses Spotify client written in Rust
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
+- [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
+- [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
