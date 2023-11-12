@@ -318,6 +318,7 @@ List of projects that provide terminal user interfaces
 - [carbonyl](https://github.com/fathyb/carbonyl) Chromium running inside your terminal
 - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
+- [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
 - [newsboat](https://github.com/newsboat/newsboat) An RSS/Atom feed reader for the text console
