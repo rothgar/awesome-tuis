@@ -150,7 +150,7 @@ List of projects that provide terminal user interfaces
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
-- [ncurses](https://www.gnu.org/software/ncurses/) A classic **C** library with bindings for many languages
+- [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
 - [pterm](https://github.com/pterm/pterm/) A modern **Go** module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
