@@ -137,39 +137,39 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Libraries</h2></summary>
 
-- [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in Swift
-- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for node.js
-- [blessings](https://github.com/erikrose/blessings) A Python wrapper lib for ncurses that makes your code pretty to look at
-- [bubbletea](https://github.com/charmbracelet/bubbletea) A Go framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
-- [CursedGL](https://github.com/saccharineboi/CursedGL) A notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
-- [FINAL CUT](https://github.com/gansm/finalcut) Library for creating terminal applications with text-based widgets
-- [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 C++ Functional Terminal User Interface. ❤️
-- [gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces
-- [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for .NET applications
-- [gum](https://github.com/charmbracelet/gum) A tool for glamorous shell scripts
-- [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface library, supporting 256 ANSI colors and mouse/keyboard input.
-- [ink](https://github.com/vadimdemedes/ink) React for interactive command-line apps
-- [Lanterna](https://github.com/mabe02/lanterna) A Java library for creating text-based UIs, very similar to the C library curses but with more functionality.
-- [ncurses](https://www.gnu.org/software/ncurses/)
-- [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser
-- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library. definitely not curses
-- [pterm](https://github.com/pterm/pterm/) A modern go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
-- [py_cui](https://github.com/jwlodek/py_cui) Python library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
-- [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your Python (3.7+) applications.
-- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for Python with a QT-like API semantics
-- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in Python
-- [Ratatui](https://github.com/tui-rs-revival/ratatui) A Rust crate for building Terminal UIs (actively maintained fork of tui-rs).
-- [Rich](https://github.com/willmcgugan/rich) is a Python library for rich text and beautiful formatting in the terminal.
-- [tcell](https://github.com/gdamore/tcell) Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
-- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for Python inspired by modern web development.
-- [Thermage](https://github.com/thermage/thermage) Thermage is a PHP library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
-- [tui-go](https://github.com/marcusolsson/tui-go) A UI library for terminal applications (deprecated)
-- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using Rust (no longer maintained, use Ratatui instead).
-- [tuibox](https://github.com/Cubified/tuibox) A single-header terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
-- [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in Golang
-- [tvision](https://github.com/magiblot/tvision) A modern port of Turbo Vision 2.0, cross-platform and Unicode support.
-- [UniCurses](https://github.com/unicurses/unicurses) A Python module that is aimed at providing the Curses functionality on all operating systems.
-- [urwid](https://github.com/urwid/urwid) A console user interface library for Python on Linux, OSX, Cygwin or other unix-like OS.
+- [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
+- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
+- [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
+- [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
+- [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
+- [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
+- [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
+- [gocui](https://github.com/jroimartin/gocui) Minimalist **Go** package aimed at creating Console User Interfaces
+- [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for **.NET** applications
+- [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
+- [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
+- [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
+- [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
+- [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
+- [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
+- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
+- [pterm](https://github.com/pterm/pterm/) A modern **Go** module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
+- [py_cui](https://github.com/jwlodek/py_cui) **Python** library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
+- [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
+- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for **Python** with a QT-like API semantics
+- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
+- [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
+- [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
+- [tcell](https://github.com/gdamore/tcell) Tcell is an alternate **Go** terminal package, similar in some ways to termbox, but better in others.
+- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
+- [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+- [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
+- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
+- [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
+- [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in **Go**
+- [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
+- [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
+- [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
 ---
 </details>
 
