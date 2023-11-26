@@ -213,6 +213,7 @@ List of projects that provide terminal user interfaces
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
+- [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
