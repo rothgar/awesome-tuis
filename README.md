@@ -139,6 +139,7 @@ List of projects that provide terminal user interfaces
 
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
+- [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
