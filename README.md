@@ -288,6 +288,7 @@ List of projects that provide terminal user interfaces
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
+- [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
   with heavy inspiration from ranger file manager.
