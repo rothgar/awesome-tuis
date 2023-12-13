@@ -313,6 +313,7 @@ List of projects that provide terminal user interfaces
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
+- [n4s](https://github.com/n4s-linux/n4s-gratis-regnskab) Danish double entry accounting system based on vim, tmux, ledger and hledger - help wanted to translate to english and improve it.
 ---
 </details>
 
