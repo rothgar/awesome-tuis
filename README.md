@@ -213,6 +213,7 @@ List of projects that provide terminal user interfaces
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
+- [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [draw](https://github.com/maaslalani/draw) Draw in your terminal
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
