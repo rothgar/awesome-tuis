@@ -172,6 +172,7 @@ List of projects that provide terminal user interfaces
 - [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
+- [Tui Widgets](https://github.com/tuiwidgets/tuiwidgets) A high-level widget based toolkit for terminal applications.
 - [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in **Go**
 - [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
 - [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
