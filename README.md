@@ -239,7 +239,6 @@ List of projects that provide terminal user interfaces
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
-- [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
@@ -351,5 +350,3 @@ Looking for lightweight but not necessarily TUI? check out mayfrost's [alternati
 Enjoy Vim keybinds and don't want to learn new ones? check out the [Big Pile of Vim-like](https://vim.reversed.top)
 
 First-hand reviews for a lot of these tools and many, many more at k.mandla's [Inconsolation blog](https://inconsolation.wordpress.com/index/). The site also has a "surprise me with a random tool" link!
-
-[Tim's blog](http://tim.thechases.com/posts/cli/software-for-a-command-line-world/) cover more tools for no X, over ssh, and all CLI (not necessarily TUI tho).
