@@ -260,6 +260,7 @@ List of projects that provide terminal user interfaces
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
+- [gadacz](https://github.com/rareitems/gadacz) Audiobook player
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
