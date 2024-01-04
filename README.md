@@ -21,6 +21,7 @@ List of projects that provide terminal user interfaces
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
 - [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
+- [bpytop](https://github.com/aristocratos/bpytop) A Python-based system monitor with lots of information.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
