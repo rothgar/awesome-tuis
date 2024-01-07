@@ -314,6 +314,7 @@ List of projects that provide terminal user interfaces
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
+- [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
