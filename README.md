@@ -73,6 +73,7 @@ List of projects that provide terminal user interfaces
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
+- [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
