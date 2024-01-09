@@ -118,11 +118,14 @@ List of projects that provide terminal user interfaces
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) A bonsai tree generator
 - [chess-tui](https://github.com/thomas-mauran/chess-tui) Play Chess in your terminal, built in rust
 - [clidle](https://github.com/ajeetdsouza/clidle) Play Wordle in your terminal. Also works over SSH!
+- [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii) Text-based DOOM running in terminal.
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
+- [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
+- [nchess](https://github.com/billyvinning/nchess) Chess in the terminal, written in C.
 - [NetHack](https://github.com/NetHack/NetHack) Dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
@@ -132,6 +135,7 @@ List of projects that provide terminal user interfaces
 - [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
 - [Square Tic Tac Toe](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) Like Tic Tac Toe, but form a square with 4 corners instead of a line
 - [sshtron](https://github.com/zachlatta/sshtron) multiplayer lightcycle game that runs through SSH
+- [sssnake](https://github.com/AngelJumbo/sssnake) The classic snake game for the terminal that can play itself and be used like a screensaver.
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
 - [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) Sudoku built with tui-rs
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
@@ -170,8 +174,10 @@ List of projects that provide terminal user interfaces
 - [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
 - [stickers](https://github.com/76creates/stickers) Building blocks for charmbracelet/lipgloss in **Go**
 - [tcell](https://github.com/gdamore/tcell) Tcell is an alternate **Go** terminal package, similar in some ways to termbox, but better in others.
+- [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+- [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
 - [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
@@ -216,6 +222,7 @@ List of projects that provide terminal user interfaces
 - [adguardian](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
+- [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
@@ -230,6 +237,7 @@ List of projects that provide terminal user interfaces
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
+- [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
@@ -314,6 +322,7 @@ List of projects that provide terminal user interfaces
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
+- [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
