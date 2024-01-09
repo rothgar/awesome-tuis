@@ -33,7 +33,6 @@ List of projects that provide terminal user interfaces
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
-- [Glow](https://github.com/charmbracelet/glow) Render markdown on the CLI, with pizzazz!
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [gotop](https://github.com/xxxserxxx/gotop) A terminal based graphical activity monitor inspired by gtop and vtop
 - [gping](https://github.com/orf/gping) Ping, but with a graph
@@ -303,6 +302,7 @@ List of projects that provide terminal user interfaces
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
+- [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
