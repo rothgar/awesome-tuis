@@ -123,6 +123,7 @@ List of projects that provide terminal user interfaces
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
+- [nchess](https://github.com/billyvinning/nchess) Chess in the terminal, written in C.
 - [NetHack](https://github.com/NetHack/NetHack) Dungeon exploration game
 - [nInvaders](http://ninvaders.sourceforge.net/) Space Invaders
 - [nSnake](https://github.com/alexdantas/nSnake) The classic snake game with textual interface
