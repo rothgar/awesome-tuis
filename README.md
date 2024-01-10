@@ -228,7 +228,6 @@ List of projects that provide terminal user interfaces
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
-- [draw](https://github.com/maaslalani/draw) Draw in your terminal
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
@@ -270,6 +269,7 @@ List of projects that provide terminal user interfaces
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
+- [draw](https://github.com/maaslalani/draw) A simple drawing tool in the terminal.
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
