@@ -235,6 +235,7 @@ List of projects that provide terminal user interfaces
 - [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
+- [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
