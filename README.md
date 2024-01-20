@@ -205,6 +205,7 @@ List of projects that provide terminal user interfaces
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
+- [nostui](https://github.com/akiomik/nostui) Nostr client
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
