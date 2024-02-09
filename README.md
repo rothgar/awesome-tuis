@@ -217,6 +217,7 @@ List of projects that provide terminal user interfaces
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
 - [Weechat](https://weechat.org/) Extensible chat client
+- [zulip-terminal](https://github.com/zulip/zulip-terminal) Official Zulip terminal client (similar to matterhorn)
 ---
 </details>
 
