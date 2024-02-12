@@ -156,6 +156,7 @@ List of projects that provide terminal user interfaces
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
+- [Click](https://github.com/pallets/click/) A **Python** package for creating beautiful command line interfaces in a composable way with as little code as necessary.
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
 - [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
