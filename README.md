@@ -306,6 +306,7 @@ List of projects that provide terminal user interfaces
 
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
