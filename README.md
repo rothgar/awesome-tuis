@@ -228,6 +228,7 @@ List of projects that provide terminal user interfaces
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
+- [Captain's log](https://github.com/NikolaDucak/caps-log) A small TUI journaling tool
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
