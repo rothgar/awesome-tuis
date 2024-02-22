@@ -320,6 +320,7 @@ List of projects that provide terminal user interfaces
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
   with heavy inspiration from ranger file manager.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [nala](https://gitlab.com/volian/nala) Drop-in replacement for `apt` package manager with prettier UI
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
 - [pkm](https://github.com/wick3dr0se/pkm) A super minimal TUI package manager wrapper written in BASH v4.2+
