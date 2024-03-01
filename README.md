@@ -227,6 +227,7 @@ List of projects that provide terminal user interfaces
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
+- [bluetui](https://github.com/pythops/bluetui) A TUI for managing bluetooth devices.
 - [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
 - [Captain's log](https://github.com/NikolaDucak/caps-log) A small TUI journaling tool
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
