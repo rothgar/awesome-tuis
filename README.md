@@ -44,6 +44,7 @@ List of projects that provide terminal user interfaces
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
+- [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
