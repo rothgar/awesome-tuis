@@ -216,6 +216,7 @@ List of projects that provide terminal user interfaces
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
+- [tuix](https://github.com/pythops/tuix) TUI for managing screens
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
 - [Weechat](https://weechat.org/) Extensible chat client
