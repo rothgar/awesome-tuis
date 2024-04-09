@@ -149,6 +149,8 @@ List of projects that provide terminal user interfaces
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
+- [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
+- [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
 ---
 </details>
 
