@@ -138,8 +138,10 @@ List of projects that provide terminal user interfaces
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
 - [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
+- [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) P2P terminal game about spacepirates playing basketball across the galaxy.
 - [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
 - [Square Tic Tac Toe](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) Like Tic Tac Toe, but form a square with 4 corners instead of a line
+- [ssHattrick](https://github.com/ricott1/sshattrick) Play Hattrick in your terminal over SSH.
 - [sshtron](https://github.com/zachlatta/sshtron) multiplayer lightcycle game that runs through SSH
 - [sssnake](https://github.com/AngelJumbo/sssnake) The classic snake game for the terminal that can play itself and be used like a screensaver.
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
@@ -149,8 +151,6 @@ List of projects that provide terminal user interfaces
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
-- [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy.
-- [ssHattrick](https://github.com/ricott1/sshattrick) - Play Hattrick in your terminal over SSH.
 ---
 </details>
 
