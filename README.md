@@ -66,6 +66,7 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Development</h2></summary>
 
+- [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
