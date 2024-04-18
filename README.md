@@ -67,6 +67,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Development</h2></summary>
 
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
+- [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
@@ -139,8 +140,10 @@ List of projects that provide terminal user interfaces
 - [nudoku](https://github.com/jubalh/nudoku) ncurses based sudoku game
 - [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
+- [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) P2P terminal game about spacepirates playing basketball across the galaxy.
 - [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
 - [Square Tic Tac Toe](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) Like Tic Tac Toe, but form a square with 4 corners instead of a line
+- [ssHattrick](https://github.com/ricott1/sshattrick) Play Hattrick in your terminal over SSH.
 - [sshtron](https://github.com/zachlatta/sshtron) multiplayer lightcycle game that runs through SSH
 - [sssnake](https://github.com/AngelJumbo/sssnake) The classic snake game for the terminal that can play itself and be used like a screensaver.
 - [steam-tui](https://github.com/dmadisetti/steam-tui) Just a simple TUI client for steamcmd. Allows for the graphical launching, updating, and downloading of steam games through a simple terminal client.
@@ -328,6 +331,7 @@ List of projects that provide terminal user interfaces
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
   with heavy inspiration from ranger file manager.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [pagerduty-tui](https://github.com/Mk555/pagerduty-tui) Minimalistic terminal UI to manage triggered incidents
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
 - [pkm](https://github.com/wick3dr0se/pkm) A super minimal TUI package manager wrapper written in BASH v4.2+
