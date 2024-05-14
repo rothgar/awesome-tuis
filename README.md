@@ -152,6 +152,7 @@ List of projects that provide terminal user interfaces
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
+- [typing-game-cli](https://github.com/akgondber/typing-game-cli) Command line game to practice your typing speed by competing against typer-robot or against your best result
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
 ---
 </details>
