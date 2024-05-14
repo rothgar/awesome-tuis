@@ -51,6 +51,7 @@ List of projects that provide terminal user interfaces
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
+- [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [tegratop](https://github.com/pythops/tegratop) Monitoring tool (top like) for Nvidia jetson boards
