@@ -76,6 +76,7 @@ List of projects that provide terminal user interfaces
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
+- [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
