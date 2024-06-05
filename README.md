@@ -304,7 +304,7 @@ List of projects that provide terminal user interfaces
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
+- [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
