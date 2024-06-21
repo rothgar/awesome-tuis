@@ -51,6 +51,7 @@ List of projects that provide terminal user interfaces
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
+- [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager
@@ -258,6 +259,7 @@ List of projects that provide terminal user interfaces
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
+- [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
