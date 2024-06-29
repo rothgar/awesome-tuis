@@ -77,6 +77,7 @@ List of projects that provide terminal user interfaces
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
+- [dbee](https://github.com/murat-cileli/dbee) Fast & Minimalistic Database Browser
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
