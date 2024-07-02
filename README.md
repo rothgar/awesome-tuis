@@ -288,6 +288,7 @@ List of projects that provide terminal user interfaces
 - [WG Commander](https://github.com/andrianbdn/wg-cmd) A TUI for a simple WireGuard VPN setup: peer management, QR codes, setup wizard.
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
+- [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 ---
 </details>
