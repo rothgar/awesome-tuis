@@ -279,6 +279,7 @@ List of projects that provide terminal user interfaces
 - [terminalperiodictable](https://github.com/velorek1/terminalperiodictable) A beautiful TUI periodic table for Unix systems coded in C.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
+- [tlock](https://github.com/eklairs/tlock) Two-Factor Authentication Tokens Manager in Terminal
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
@@ -322,7 +323,7 @@ List of projects that provide terminal user interfaces
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`. See documentation at https://wiki.videolan.org/Console/
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
-- [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl 
+- [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
 ---
 </details>
 
