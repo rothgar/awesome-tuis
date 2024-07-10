@@ -270,6 +270,7 @@ List of projects that provide terminal user interfaces
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
+- [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
