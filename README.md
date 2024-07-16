@@ -273,6 +273,7 @@ List of projects that provide terminal user interfaces
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
+- [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
