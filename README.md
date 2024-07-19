@@ -50,6 +50,7 @@ List of projects that provide terminal user interfaces
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
+- [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
