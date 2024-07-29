@@ -105,6 +105,7 @@ List of projects that provide terminal user interfaces
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
+- [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 ---
 </details>
 
