@@ -94,6 +94,7 @@ List of projects that provide terminal user interfaces
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
+- [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
@@ -105,7 +106,6 @@ List of projects that provide terminal user interfaces
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
-- [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 ---
 </details>
 
