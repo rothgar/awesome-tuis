@@ -7,6 +7,7 @@ List of projects that provide terminal user interfaces
 - [Dashboards](#dashboards)
 - [Development](#development)
 - [Editors](#editors)
+- [File Managers](#file-managers)
 - [Games](#games)
 - [Libraries](#libraries)
 - [Messaging](#messaging)
@@ -32,7 +33,6 @@ List of projects that provide terminal user interfaces
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
-- [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
@@ -47,7 +47,6 @@ List of projects that provide terminal user interfaces
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
-- [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
@@ -56,7 +55,6 @@ List of projects that provide terminal user interfaces
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
-- [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [tegratop](https://github.com/pythops/tegratop) Monitoring tool (top like) for Nvidia jetson boards
@@ -121,6 +119,21 @@ List of projects that provide terminal user interfaces
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
+---
+</details>
+
+<details open><summary><h2>File Managers</h2></summary>
+
+- [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
+- [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
+- [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
+- [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
+- [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
+- [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
+- [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
+- [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*.
+- [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
+- [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 ---
 </details>
 
@@ -246,7 +259,6 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Miscellaneous</h2></summary>
 
-- [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
@@ -288,7 +300,6 @@ List of projects that provide terminal user interfaces
 - [tlock](https://github.com/eklairs/tlock) Two-Factor Authentication Tokens Manager in Terminal
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
-- [vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [wb](https://github.com/MertGunduz/wb) A TUI vocabulary notebook app for Linux based devices.
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
@@ -296,7 +307,6 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
-- [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 ---
 </details>
 
@@ -338,17 +348,13 @@ List of projects that provide terminal user interfaces
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
-- [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
-- [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
-- [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go
-  with heavy inspiration from ranger file manager.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [pagerduty-tui](https://github.com/Mk555/pagerduty-tui) Minimalistic terminal UI to manage triggered incidents
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
@@ -367,14 +373,12 @@ List of projects that provide terminal user interfaces
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
 - [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
-- [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [tui-slides](https://github.com/Chleba/tui-slides) A terminal presentation tool capable of rendering images and many other widgets.
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
-- [Vifm](https://vifm.info) File manager with Vim bindings and scripting/configuration style
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 ---
 </details>
