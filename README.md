@@ -130,6 +130,7 @@ List of projects that provide terminal user interfaces
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
+- [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
@@ -363,7 +364,6 @@ List of projects that provide terminal user interfaces
 - [pream-team](https://github.com/nikoladucak/pream-team/) a TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories
 - [procmux](https://github.com/napisani/procmux) - a TUI for running multiple commands in parallel in easily switchable terminals
 - [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
-- [ranger](https://github.com/ranger/ranger) A VIM-inspired filemanager for the console
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
