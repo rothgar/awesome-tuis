@@ -380,6 +380,7 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
+- [n4s](https://github.com/n4s-linux/n4s-gratis-regnskab) Danish double entry accounting system based on vim, tmux, ledger and hledger - help wanted to translate to english and improve it.
 ---
 </details>
 
