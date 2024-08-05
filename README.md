@@ -125,7 +125,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>File Managers</h2></summary>
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
-- [broot](https://github.com/Canop/broot) A fuzzy finder file manager written in Rust.
+- [broot](https://github.com/Canop/broot) A new way to see and navigate directory trees
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
