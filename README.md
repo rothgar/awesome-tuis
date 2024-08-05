@@ -129,6 +129,7 @@ List of projects that provide terminal user interfaces
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
+- [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
