@@ -125,6 +125,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>File Managers</h2></summary>
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
+- [broot](https://github.com/Canop/broot) A new way to see and navigate directory trees
 - [fff](https://github.com/dylanaraps/fff) A simple file manager written in bash.
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
@@ -265,7 +266,6 @@ List of projects that provide terminal user interfaces
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [bluetui](https://github.com/pythops/bluetui) A TUI for managing bluetooth devices.
-- [broot](https://dystroy.org/broot/) A new way to see and navigate directory trees
 - [Captain's log](https://github.com/NikolaDucak/caps-log) A small TUI journaling tool
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
