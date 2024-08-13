@@ -251,6 +251,7 @@ List of projects that provide terminal user interfaces
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
+- [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [tuix](https://github.com/pythops/tuix) TUI for managing screens
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
