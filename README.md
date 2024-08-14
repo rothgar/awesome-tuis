@@ -18,36 +18,45 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Dashboards</h2></summary>
 
-- [AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance.
+- [AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance
+- [bandwhich](https://github.com/imsnif/bandwhich) Terminal bandwidth utilization tool
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
 - [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
 - [bpytop](https://github.com/aristocratos/bpytop) A Python-based system monitor with lots of information.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
+- [cgdb](https://github.com/cgdb/cgdb) Console front-end to the GNU debugger
+- [chdig](https://github.com/azat/chdig) Dig into ClickHouse with TUI interface
 - [cheatshh](https://github.com/AnirudhG07/cheatshh) A fzf TUI for managing custom made command-line cheatsheet for Unix.
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
+- [dolphie](https://github.com/charles-001/dolphie) Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
+- [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
+- [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gotop](https://github.com/xxxserxxx/gotop) A terminal based graphical activity monitor inspired by gtop and vtop
 - [gping](https://github.com/orf/gping) Ping, but with a graph
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/htop-dev/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
+- [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
+- [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
@@ -62,6 +71,7 @@ List of projects that provide terminal user interfaces
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
+- [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
@@ -74,13 +84,16 @@ List of projects that provide terminal user interfaces
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
+- [blinkenlights](https://github.com/jart/blink) TUI that may be used for debugging x86_64-linux or i8086 programs across platforms
+- [brows](https://github.com/rubysolo/brows) CLI GitHub release browser
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
 - [dbee](https://github.com/murat-cileli/dbee) Fast & Minimalistic Database Browser
+- [dblab](https://github.com/danvergara/dblab) The database client every command line junkie deserves
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
-- [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output.
+- [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
@@ -90,6 +103,7 @@ List of projects that provide terminal user interfaces
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
+- [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
@@ -103,6 +117,7 @@ List of projects that provide terminal user interfaces
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
+- [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 ---
@@ -254,6 +269,7 @@ List of projects that provide terminal user interfaces
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
+- [tuisky](https://github.com/sugyan/tuisky) TUI client for BlueSky
 - [tuix](https://github.com/pythops/tuix) TUI for managing screens
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
@@ -269,11 +285,14 @@ List of projects that provide terminal user interfaces
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [bluetui](https://github.com/pythops/bluetui) A TUI for managing bluetooth devices.
 - [Captain's log](https://github.com/NikolaDucak/caps-log) A small TUI journaling tool
+- [cava](https://github.com/karlstav/cava) Cross-platform Audio Visualizer
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
+- [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
+- [flawz](https://github.com/orhun/flawz) A Terminal UI for browsing security vulnerabilities (CVEs)
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
 - [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
@@ -287,6 +306,7 @@ List of projects that provide terminal user interfaces
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
+- [moc](https://moc.daper.net/download) console audio player
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
