@@ -92,6 +92,7 @@ List of projects that provide terminal user interfaces
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
+- [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
