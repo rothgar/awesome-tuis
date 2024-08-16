@@ -118,7 +118,6 @@ List of projects that provide terminal user interfaces
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
-- [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 ---
@@ -297,7 +296,6 @@ List of projects that provide terminal user interfaces
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
 - [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
-- [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
