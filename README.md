@@ -299,6 +299,7 @@ List of projects that provide terminal user interfaces
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
+- [IconicFonts](https://github.com/iconicFonts/iconic-fonts) A collection of patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
