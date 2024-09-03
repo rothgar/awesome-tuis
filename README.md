@@ -127,6 +127,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Editors</h2></summary>
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
+- [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
