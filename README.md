@@ -56,6 +56,7 @@ List of projects that provide terminal user interfaces
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
