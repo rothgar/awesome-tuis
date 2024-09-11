@@ -22,6 +22,7 @@ List of projects that provide terminal user interfaces
 - [bandwhich](https://github.com/imsnif/bandwhich) Terminal bandwidth utilization tool
 - [bashtop](https://github.com/aristocratos/bashtop) Resource manager written in bash
 - [below](https://github.com/facebookincubator/below) A time traveling resource monitor for modern Linux systems
+- [binsider](https://github.com/orhun/binsider) A TUI for analyzing Linux binaries.
 - [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
 - [bpytop](https://github.com/aristocratos/bpytop) A Python-based system monitor with lots of information.
