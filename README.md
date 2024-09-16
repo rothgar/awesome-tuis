@@ -122,6 +122,11 @@ List of projects that provide terminal user interfaces
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
+- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
+- [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
+- [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
+- [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
@@ -135,14 +140,9 @@ List of projects that provide terminal user interfaces
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
-- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
-- [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
-- [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
-- [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
-- [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
