@@ -6,6 +6,7 @@ List of projects that provide terminal user interfaces
 
 - [Dashboards](#dashboards)
 - [Development](#development)
+- [Docker/Containers/K8s](#dockerlxck8s)
 - [Editors](#editors)
 - [File Managers](#file-managers)
 - [Games](#games)
@@ -31,14 +32,9 @@ List of projects that provide terminal user interfaces
 - [chdig](https://github.com/azat/chdig) Dig into ClickHouse with TUI interface
 - [cheatshh](https://github.com/AnirudhG07/cheatshh) A fzf TUI for managing custom made command-line cheatsheet for Unix.
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
-- [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
-- [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dolphie](https://github.com/charles-001/dolphie) Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
-- [dry](https://github.com/moncho/dry) A Docker manager for the terminal
-- [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
-- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
@@ -49,22 +45,14 @@ List of projects that provide terminal user interfaces
 - [htop](https://github.com/htop-dev/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
-- [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
-- [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
-- [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
-- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
-- [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
-- [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
-- [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
-- [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
@@ -126,6 +114,28 @@ List of projects that provide terminal user interfaces
 ---
 </details>
 
+
+<details open><summary><h2>Docker/LXC/K8s</h2></summary>
+  
+- [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
+- [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
+- [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
+- [dry](https://github.com/moncho/dry) A Docker manager for the terminal
+- [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
+- [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
+- [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
+- [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
+- [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
+- [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
+- [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
+- [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
+- [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
+
+---
+</details>
+
 <details open><summary><h2>Editors</h2></summary>
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
@@ -139,6 +149,7 @@ List of projects that provide terminal user interfaces
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
+
 ---
 </details>
 
@@ -294,7 +305,6 @@ List of projects that provide terminal user interfaces
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
-- [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
 - [flawz](https://github.com/orhun/flawz) A Terminal UI for browsing security vulnerabilities (CVEs)
@@ -307,7 +317,6 @@ List of projects that provide terminal user interfaces
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts) A collection of patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
-- [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
