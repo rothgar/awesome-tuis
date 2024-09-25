@@ -316,6 +316,7 @@ List of projects that provide terminal user interfaces
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts) A collection of patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
+- [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
