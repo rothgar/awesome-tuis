@@ -231,6 +231,7 @@ List of projects that provide terminal user interfaces
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
+- [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
 - [moulti](https://github.com/xavierog/moulti) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
