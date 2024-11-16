@@ -46,6 +46,7 @@ List of projects that provide terminal user interfaces
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
+- [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
