@@ -407,6 +407,7 @@ List of projects that provide terminal user interfaces
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
 - [pagerduty-tui](https://github.com/Mk555/pagerduty-tui) Minimalistic terminal UI to manage triggered incidents
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
