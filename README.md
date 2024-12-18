@@ -303,6 +303,7 @@ List of projects that provide terminal user interfaces
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
 - [bluetui](https://github.com/pythops/bluetui) A TUI for managing bluetooth devices.
+- [Caligula](https://github.com/ifd3f/caligula) A user-friendly, lightweight TUI for imaging disks.
 - [Captain's log](https://github.com/NikolaDucak/caps-log) A small TUI journaling tool
 - [cava](https://github.com/karlstav/cava) Cross-platform Audio Visualizer
 - [cfdisk](https://github.com/util-linux/util-linux) TUI partition editor included in util-linux
