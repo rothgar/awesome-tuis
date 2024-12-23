@@ -334,6 +334,7 @@ List of projects that provide terminal user interfaces
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
