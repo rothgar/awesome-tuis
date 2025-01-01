@@ -394,6 +394,7 @@ List of projects that provide terminal user interfaces
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
+- [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 ---
 </details>
 
