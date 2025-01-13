@@ -63,6 +63,7 @@ List of projects that provide terminal user interfaces
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
+- [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection 
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
@@ -79,6 +80,7 @@ List of projects that provide terminal user interfaces
 - [brows](https://github.com/rubysolo/brows) CLI GitHub release browser
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
+- [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
 - [dbee](https://github.com/murat-cileli/dbee) Fast & Minimalistic Database Browser
@@ -118,7 +120,7 @@ List of projects that provide terminal user interfaces
 
 
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
-  
+
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
@@ -215,6 +217,8 @@ List of projects that provide terminal user interfaces
 - [typeinc](https://github.com/AnirudhG07/Typeinc) ncurses based typing speed test with various difficulty levels.
 - [typing-game-cli](https://github.com/akgondber/typing-game-cli) Command line game to practice your typing speed by competing against typer-robot or against your best result
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
+- [Zigtris](https://github.com/ringtailsoftware/zigtris) YA terminal tetris
+- [Zoridor](https://github.com/ringtailsoftware/zoridor) Play Quoridor in the terminal
 ---
 </details>
 
@@ -334,6 +338,7 @@ List of projects that provide terminal user interfaces
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
@@ -359,6 +364,7 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Multimedia</h2></summary>
 
+- [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
@@ -369,6 +375,7 @@ List of projects that provide terminal user interfaces
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
+- [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [mpvc](https://github.com/gmt4/mpvc) A mpc-like control interface for mpv
 - [nap](https://nap.sourceforge.net/) Linux napster client
@@ -389,6 +396,7 @@ List of projects that provide terminal user interfaces
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
+- [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 ---
 </details>
 
@@ -422,6 +430,7 @@ List of projects that provide terminal user interfaces
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
+- [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
 - [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
