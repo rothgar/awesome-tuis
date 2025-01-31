@@ -405,6 +405,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Productivity</h2></summary>
 
 - [abook](https://abook.sourceforge.io/) TUI addressbook with [mutt](http://www.mutt.org/) integration
+- [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
