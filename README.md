@@ -170,6 +170,7 @@ List of projects that provide terminal user interfaces
 - [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
+- [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
