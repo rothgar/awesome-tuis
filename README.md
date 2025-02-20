@@ -282,7 +282,7 @@ List of projects that provide terminal user interfaces
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gord](https://github.com/yellowsink/gord) TUI discord client. updated fork of the now-outdated cordless.
 - [gurk-rs](https://github.com/boxdot/gurk-rs) Signal Messenger client for terminal
-- [instagram-cli](https://pypi.org/project/instagram-cli/) Use Instagram from your terminal, the end of brainrot is here
+- [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
