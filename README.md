@@ -54,6 +54,7 @@ List of projects that provide terminal user interfaces
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
+- [rare](https://github.com/zix99/rare) TUI Heatmaps and Sparklines from any datasource
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
