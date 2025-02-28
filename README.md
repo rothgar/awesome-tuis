@@ -63,10 +63,11 @@ List of projects that provide terminal user interfaces
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
-- [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection 
+- [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
+
 ---
 </details>
 
@@ -116,9 +117,9 @@ List of projects that provide terminal user interfaces
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
+
 ---
 </details>
-
 
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
 
@@ -175,6 +176,7 @@ List of projects that provide terminal user interfaces
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ---
 </details>
 
@@ -223,6 +225,7 @@ List of projects that provide terminal user interfaces
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
 - [Zigtris](https://github.com/ringtailsoftware/zigtris) YA terminal tetris
 - [Zoridor](https://github.com/ringtailsoftware/zoridor) Play Quoridor in the terminal
+
 ---
 </details>
 
@@ -244,7 +247,7 @@ List of projects that provide terminal user interfaces
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
-- [moulti](https://github.com/xavierog/moulti) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
+- [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
@@ -270,6 +273,7 @@ List of projects that provide terminal user interfaces
 - [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
 - [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
 - [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
+
 ---
 </details>
 
@@ -305,6 +309,7 @@ List of projects that provide terminal user interfaces
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
 - [Weechat](https://weechat.org/) Extensible chat client
 - [zulip-terminal](https://github.com/zulip/zulip-terminal) Official Zulip terminal client (similar to matterhorn)
+
 ---
 </details>
 
@@ -344,6 +349,7 @@ List of projects that provide terminal user interfaces
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [pola](https://github.com/Sethispr/pola) A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
@@ -365,6 +371,7 @@ List of projects that provide terminal user interfaces
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
+
 ---
 </details>
 
@@ -400,11 +407,12 @@ List of projects that provide terminal user interfaces
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
 - [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux 
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
-- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`. See documentation at https://wiki.videolan.org/Console/
+- [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`. See documentation at <https://wiki.videolan.org/Console/>
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
+
 ---
 </details>
 
@@ -455,6 +463,7 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
+
 ---
 </details>
 
@@ -475,6 +484,7 @@ List of projects that provide terminal user interfaces
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
+
 ---
 </details>
 
