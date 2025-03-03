@@ -362,6 +362,7 @@ List of projects that provide terminal user interfaces
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [tlock](https://github.com/eklairs/tlock) Two-Factor Authentication Tokens Manager in Terminal
+- [tray-tui](https://github.com/Levizor/tray-tui) System tray in your terminal
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [wb](https://github.com/MertGunduz/wb) A TUI vocabulary notebook app for Linux based devices.
