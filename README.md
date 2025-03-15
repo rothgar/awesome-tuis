@@ -468,7 +468,8 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
-
+- [jiffy](https://github.com/5hubham5ingh/jiffy) A terminal based, app launcher, basic calculator, emoji picker, and extendable with custom command pallette, for Linux.
+  
 ---
 </details>
 
