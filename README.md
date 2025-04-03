@@ -232,6 +232,7 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Libraries</h2></summary>
 
+- [AnbUI](https://github.com/oerg866/anbui) A minimal Text UI Library in **C**
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
