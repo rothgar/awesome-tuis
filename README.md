@@ -57,6 +57,7 @@ List of projects that provide terminal user interfaces
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
+- [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [tegratop](https://github.com/pythops/tegratop) Monitoring tool (top like) for Nvidia jetson boards
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
