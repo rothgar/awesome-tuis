@@ -131,6 +131,7 @@ List of projects that provide terminal user interfaces
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
+- [e1s](https://github.com/keidarcy/e1s) TUI for managing AWS ECS resources
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
