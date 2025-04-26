@@ -460,6 +460,7 @@ List of projects that provide terminal user interfaces
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
 - [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
+- [telert](https://github.com/navig-me/telert) Send notifications (Telegram, Slack, Teams, Desktop) after terminal commands complete.
 - [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
