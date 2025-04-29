@@ -333,6 +333,7 @@ List of projects that provide terminal user interfaces
 - [cava](https://github.com/karlstav/cava) Cross-platform Audio Visualizer
 - [cfdisk](https://github.com/util-linux/util-linux) TUI partition editor included in util-linux
 - [cgdisk](https://www.rodsbooks.com/gdisk/cgdisk-walkthrough.html) TUI partition editor for manipulating GUID partition tables, and modeled after cfdisk
+- [csvlens](https://github.com/YS-L/csvlens) TUI CSV file viewer. It is like less but made for CSV.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [distrobox-tui](https://github.com/hyperreal64/distrobox-tui) TUI for managing distrobox containers
