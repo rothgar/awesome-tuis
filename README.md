@@ -104,6 +104,7 @@ List of projects that provide terminal user interfaces
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
+- [nbcat](https://github.com/akopdev/nbcat) Preview Jupyter Notebooks directly in your terminal
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
