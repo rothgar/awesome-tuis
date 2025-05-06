@@ -34,6 +34,7 @@ List of projects that provide terminal user interfaces
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
+- [dashbrew](https://github.com/rasjonell/dashbrew) TUI dashboard builder that lets you visualize data from scripts and APIs.
 - [dolphie](https://github.com/charles-001/dolphie) Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
