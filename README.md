@@ -172,6 +172,7 @@ List of projects that provide terminal user interfaces
 
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [broot](https://github.com/Canop/broot) A new way to see and navigate directory trees
+- [far2l](https://github.com/elfmz/far2l) Linux port of Far v2 file manager
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
