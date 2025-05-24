@@ -501,6 +501,7 @@ List of projects that provide terminal user interfaces
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
+- [tremc](https://github.com/tremc/tremc) A TUI interface for transmission written in python
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
