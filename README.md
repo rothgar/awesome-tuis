@@ -400,6 +400,7 @@ List of projects that provide terminal user interfaces
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
+- [imgcat](https://github.com/danielgatis/imgcat) A TUI image and animated GIF viewer
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
