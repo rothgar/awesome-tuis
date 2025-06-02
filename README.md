@@ -450,6 +450,44 @@ List of projects that provide terminal user interfaces
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
+- [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
+- [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
+- [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
+- [gocheat](https://github.com/Achno/gocheat) A beautiful TUI cheatsheet for keybindings,hotkeys,gestures and aliases
+- [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
+- [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
+- [hnjobs](https://github.com/mwinters0/hnjobs) Find your next job on Who's Hiring
+- [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
+- [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
+- [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
+- [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
+- [multranslate](https://github.com/Lifailon/multranslate) A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection
+- [pagerduty-tui](https://github.com/Mk555/pagerduty-tui) Minimalistic terminal UI to manage triggered incidents
+- [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
+- [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
+- [pkm](https://github.com/wick3dr0se/pkm) A super minimal TUI package manager wrapper written in BASH v4.2+
+- [pream-team](https://github.com/nikoladucak/pream-team/) a TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories
+- [presenterm](https://github.com/mfontanini/presenterm) A markdown terminal slideshow tool
+- [procmux](https://github.com/napisani/procmux) - a TUI for running multiple commands in parallel in easily switchable terminals
+- [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
+- [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
+- [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
+- [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
+- [ssh-slides](https://github.com/ivantsepp/ssh-slides) Terminal-based presentations over SSH
+- [Tabiew](https://github.com/shshemi/tabiew) A lightweight app to view and query tabular data files, such as CSV, TSV, and parquet.
+- [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
+- [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
+- [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
+- [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
+- [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
+- [tmux](https://github.com/tmux/tmux) Terminal multiplexer
+- [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
+- [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
+- [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
+- [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
+- [tui-deck](https://github.com/mebitek/tui-deck) A TUI frontend for Nextcloud Deck app written in GO
 - [tui-slides](https://github.com/Chleba/tui-slides) A terminal presentation tool capable of rendering images and many other widgets.
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
