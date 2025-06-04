@@ -67,6 +67,7 @@ List of projects that provide terminal user interfaces
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
+- [tuicamp](https://github.com/AbeEstrada/tuicamp) Unofficial TimeCamp TUI
 - [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
@@ -203,6 +204,7 @@ List of projects that provide terminal user interfaces
 - [Gameboy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) A PHP Terminal GameBoy Emulator
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
+- [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) Build mazes and solve them with various algorithms.
 - [Micro Snake](https://github.com/troglobit/snake) A small snake game, utilizing ANSI escape sequences to draw the board.
 - [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
@@ -276,6 +278,7 @@ List of projects that provide terminal user interfaces
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
+- [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui
 - [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
@@ -284,6 +287,9 @@ List of projects that provide terminal user interfaces
 - [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
 - [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
 - [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
+- [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
+- [uvw](https://github.com/skypjack/uvw) Header-only, event based, tiny and easy to use libuv wrapper in modern **C++** - now available as also shared/static library!
+- [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
 
 ---
 </details>
@@ -291,6 +297,7 @@ List of projects that provide terminal user interfaces
 <details open><summary><h2>Messaging</h2></summary>
 
 - [aerc](https://aerc-mail.org/) Email client
+- [blitzdenk](https://github.com/Lommix/blitzdenk) A minimal multi api auto-context project chat bot as tui
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [endcord](https://github.com/mzivic7/endcord) Feature rich Discord TUI client.
@@ -306,6 +313,7 @@ List of projects that provide terminal user interfaces
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [nchat](https://github.com/d99kris/nchat) Telegram/WhatsApp client
 - [nostui](https://github.com/akiomik/nostui) Nostr client
+- [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
@@ -364,9 +372,11 @@ List of projects that provide terminal user interfaces
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) A TUI to explore Pester results.
 - [pola](https://github.com/Sethispr/pola) A TUI for efficiently searching skins, checking values and finding owners in Silent Assassin.
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
+- [physics-TUI](https://github.com/ClaudioRMalvino/physics_TUI) Physics TUI application for undergraduate study
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
@@ -419,6 +429,7 @@ List of projects that provide terminal user interfaces
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
+- [termusic](https://github.com/tramhao/termusic) Music Player TUI written in Rust
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
@@ -494,14 +505,19 @@ List of projects that provide terminal user interfaces
 - [Canard](https://github.com/mrusme/canard) A command line TUI client for the [Journalist](https://github.com/mrusme/journalist) RSS aggregator.
 - [carbonyl](https://github.com/fathyb/carbonyl) Chromium running inside your terminal
 - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
+- [CatenaVetus](https://github.com/jimbob88/CatenaVetus) A TUI for reading the Church Fathers
+- [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
 - [newsboat](https://github.com/newsboat/newsboat) An RSS/Atom feed reader for the text console
 - [nyaa](https://github.com/Beastwick18/nyaa) A nyaa.si TUI for browsing and downloading torrents
+- [rfc_reader](https://github.com/ozan2003/rfc_reader) A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents.
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
+- [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
+- [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser 
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
