@@ -193,6 +193,7 @@ List of projects that provide terminal user interfaces
 
 - [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
+- [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
 - [botany](https://github.com/jifunks/botany/) Virtual plant buddy
 - [brickgame-4bit](https://github.com/ilyakurdyukov/brickgame-4bit) Brick Game emulator (4-bit Holtek chip)
