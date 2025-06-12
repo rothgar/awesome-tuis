@@ -271,6 +271,7 @@ List of projects that provide terminal user interfaces
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
 - [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for **Python** with a QT-like API semantics
 - [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
+- [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies
 - [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
 - [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
 - [stickers](https://github.com/76creates/stickers) Building blocks for charmbracelet/lipgloss in **Go**
@@ -279,6 +280,7 @@ List of projects that provide terminal user interfaces
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
+- [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
 - [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui
 - [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
