@@ -141,6 +141,7 @@ List of projects that provide terminal user interfaces
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
+- [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
