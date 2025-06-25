@@ -339,7 +339,6 @@ List of projects that provide terminal user interfaces
 
 <details open><summary><h2>Miscellaneous</h2></summary>
 
-- [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) A tool that makes using arduino-cli easier and interactive for beginners to the terminal.
 - [arttime](https://github.com/reportaman/arttime) An app that brings beauty of text-art together with functionality of clock, timer, and pattern-based time manager.
 - [asciiMol](https://github.com/dewberryants/asciiMol) Curses based ASCII molecule viewer for linux terminals.
 - [bluetuith](https://github.com/darkhz/bluetuith) A TUI-based bluetooth connection manager, which can interact with bluetooth adapters and devices.
