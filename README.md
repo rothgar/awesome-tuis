@@ -95,6 +95,7 @@ List of projects that provide terminal user interfaces
 - [dblab](https://github.com/danvergara/dblab) The database client every command line junkie deserves
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
+- [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
