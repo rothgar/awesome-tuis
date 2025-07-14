@@ -170,6 +170,7 @@ List of projects that provide terminal user interfaces
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
+- [vis](https://github.com/martanne/vis) A vi-like editor based on Plan 9's structural regular expressions
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
 ---
