@@ -460,8 +460,7 @@ List of projects that provide terminal user interfaces
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
-- [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with
-dwm like window management
+- [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
