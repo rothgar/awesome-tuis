@@ -185,6 +185,7 @@ List of projects that provide terminal user interfaces
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
 - [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
+- [ntc](https://codeberg.org/ItsZariep/ntc) Ncurses Tabbed file Chooser.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
