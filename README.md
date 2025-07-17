@@ -98,6 +98,7 @@ List of projects that provide terminal user interfaces
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
+- [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
