@@ -427,6 +427,7 @@ List of projects that provide terminal user interfaces
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [mal-cli](https://github.com/L4z3x/mal-cli) A TUI for myanimelist api.
+- [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your *arr servers
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) Terminal-based manga reader and downloader with image rendering support
 - [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
