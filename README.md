@@ -1,6 +1,4 @@
-# Awesome TUIs
-
-List of projects that provide terminal user interfaces
+![](./img/banner.png)
 
 ## Table of Contents
 
