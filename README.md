@@ -417,6 +417,7 @@
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
+- [ctune](https://github.com/An7ar35/ctune) A ncurses based internet radio player written in C for Linux.
 - [draw](https://github.com/maaslalani/draw) A simple drawing tool in the terminal.
 - [fancy-cat](https://github.com/freref/fancy-cat) A Lightweight terminal-based PDF reader with Vim keybindings
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
