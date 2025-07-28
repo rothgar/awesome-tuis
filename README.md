@@ -439,7 +439,7 @@
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [rmpc](https://mierak.github.io/rmpc/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
-- [sonicradio](https://github.com/dancnb/sonicradi) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
+- [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
