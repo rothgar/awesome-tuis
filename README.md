@@ -70,6 +70,7 @@
 - [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
+- [Yozefu](https://github.com/MAIF/yozefu) An TUI for exploring data of a kafka cluster.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
 
 ---
