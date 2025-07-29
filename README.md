@@ -1,6 +1,4 @@
-# Awesome TUIs
-
-List of projects that provide terminal user interfaces
+![](./img/banner.png)
 
 ## Table of Contents
 
@@ -57,6 +55,7 @@ List of projects that provide terminal user interfaces
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
+- [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
@@ -71,6 +70,7 @@ List of projects that provide terminal user interfaces
 - [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
+- [Yozefu](https://github.com/MAIF/yozefu) An TUI for exploring data of a kafka cluster.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
 
 ---
@@ -85,6 +85,7 @@ List of projects that provide terminal user interfaces
 - [blinkenlights](https://github.com/jart/blink) TUI that may be used for debugging x86_64-linux or i8086 programs across platforms
 - [brows](https://github.com/rubysolo/brows) CLI GitHub release browser
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
+- [cargo-seek](https://github.com/tareqimbasher/cargo-seek) A TUI for searching, adding and installing cargo crates
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
 - [Cloud Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
@@ -94,6 +95,7 @@ List of projects that provide terminal user interfaces
 - [dblab](https://github.com/danvergara/dblab) The database client every command line junkie deserves
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
+- [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
@@ -108,8 +110,10 @@ List of projects that provide terminal user interfaces
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
+- [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
+- [pproftui](https://github.com/Oloruntobi1/pproftui) A terminal-based UI for Go's pprof that makes profiling interactive
 - [proxymock](https://proxymock.io) A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
@@ -157,6 +161,7 @@ List of projects that provide terminal user interfaces
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [Durdraw](https://github.com/cmang/durdraw) An ASCII, Unicode and ANSI art editor
+- [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor. 
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
@@ -166,6 +171,7 @@ List of projects that provide terminal user interfaces
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
+- [vis](https://github.com/martanne/vis) A vi-like editor based on Plan 9's structural regular expressions
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
 ---
@@ -181,6 +187,7 @@ List of projects that provide terminal user interfaces
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
 - [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
+- [ntc](https://codeberg.org/ItsZariep/ntc) Ncurses Tabbed file Chooser.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
@@ -411,15 +418,19 @@ List of projects that provide terminal user interfaces
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
+- [ctune](https://github.com/An7ar35/ctune) ncurses based internet radio player for Linux.
 - [draw](https://github.com/maaslalani/draw) A simple drawing tool in the terminal.
+- [fancy-cat](https://github.com/freref/fancy-cat) A Lightweight terminal-based PDF reader with Vim keybindings
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
+- [GopherTube](https://github.com/krishnassh/gophertube) A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [mal-cli](https://github.com/L4z3x/mal-cli) A TUI for myanimelist api.
+- [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your *arr servers
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) Terminal-based manga reader and downloader with image rendering support
 - [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
@@ -430,6 +441,7 @@ List of projects that provide terminal user interfaces
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [rmpc](https://mierak.github.io/rmpc/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
+- [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
@@ -456,6 +468,7 @@ List of projects that provide terminal user interfaces
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
+- [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
@@ -463,9 +476,11 @@ List of projects that provide terminal user interfaces
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [hnjobs](https://github.com/mwinters0/hnjobs) Find your next job on Who's Hiring
+- [hygg](https://github.com/kruserr/hygg) 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
+- [levite](https://github.com/RauliL/levite) A TUI spreadsheet application that uses an RPN formulas and features a vi-friendly interface
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
 - [multranslate](https://github.com/Lifailon/multranslate) A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection
@@ -499,6 +514,7 @@ List of projects that provide terminal user interfaces
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
+- [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
 
 ---
 </details>
