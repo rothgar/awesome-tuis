@@ -492,6 +492,7 @@
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
 - [pkm](https://github.com/wick3dr0se/pkm) A super minimal TUI package manager wrapper written in BASH v4.2+
+- [portfolio_rs](https://github.com/MarkusZoppelt/portfolio_rs) A command line tool for managing financial investment portfolios.
 - [pream-team](https://github.com/nikoladucak/pream-team/) a TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories
 - [presenterm](https://github.com/mfontanini/presenterm) A markdown terminal slideshow tool
 - [procmux](https://github.com/napisani/procmux) - a TUI for running multiple commands in parallel in easily switchable terminals
