@@ -326,6 +326,7 @@
 - [meli](https://meli.delivery/) Email client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [nchat](https://github.com/d99kris/nchat) Telegram/WhatsApp client
+- [nomadnet](https://github.com/markqvist/NomadNet) Secure messaging network built on Reticulum
 - [nostui](https://github.com/akiomik/nostui) Nostr client
 - [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
