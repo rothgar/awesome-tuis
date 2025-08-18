@@ -43,6 +43,7 @@
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/htop-dev/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
+- [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui) A gping-inspired terminal visualization tool for monitoring real-time hardware sensor data from HWInfo
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
