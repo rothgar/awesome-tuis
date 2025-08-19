@@ -312,7 +312,6 @@
 
 <details open><summary><h2>Messaging</h2></summary>
 
-- [aerc](https://aerc-mail.org/) Email client
 - [blitzdenk](https://github.com/Lommix/blitzdenk) A minimal multi api auto-context project chat bot as tui
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
