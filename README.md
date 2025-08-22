@@ -338,6 +338,7 @@
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
+- [mastui](https://github.com/kimusan/mastui) Mastodon TUI
 - [tuisky](https://github.com/sugyan/tuisky) TUI client for BlueSky
 - [tuix](https://github.com/pythops/tuix) TUI for managing screens
 - [tut](https://github.com/RasmusLindroth/tut) Mastodon TUI client
