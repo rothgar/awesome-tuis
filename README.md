@@ -88,7 +88,7 @@
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
 - [cargo-seek](https://github.com/tareqimbasher/cargo-seek) A TUI for searching, adding and installing cargo crates
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
-- [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client\
+- [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
 - [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [Cloud Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
