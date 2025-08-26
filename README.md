@@ -89,6 +89,7 @@
 - [cargo-seek](https://github.com/tareqimbasher/cargo-seek) A TUI for searching, adding and installing cargo crates
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
+- [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [Cloud Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
@@ -166,7 +167,7 @@
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [Durdraw](https://github.com/cmang/durdraw) An ASCII, Unicode and ANSI art editor
-- [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor. 
+- [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor.
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
@@ -457,7 +458,7 @@
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
-- [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux 
+- [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
@@ -546,7 +547,7 @@
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
-- [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser 
+- [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
