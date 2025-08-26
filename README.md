@@ -324,6 +324,7 @@
 - [gurk-rs](https://github.com/boxdot/gurk-rs) Signal Messenger client for terminal
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
+- [mastui](https://github.com/kimusan/mastui) Mastodon TUI
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
