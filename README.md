@@ -58,6 +58,7 @@
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
+- [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
