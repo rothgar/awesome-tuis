@@ -274,7 +274,6 @@
 - [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
 - [gocui](https://github.com/jroimartin/gocui) Minimalist **Go** package aimed at creating Console User Interfaces
-- [gui.cs](https://github.com/migueldeicaza/gui.cs) Console-based user interface toolkit for **.NET** applications
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
@@ -293,6 +292,7 @@
 - [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies
 - [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
 - [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
+- [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
 - [stickers](https://github.com/76creates/stickers) Building blocks for charmbracelet/lipgloss in **Go**
 - [tcell](https://github.com/gdamore/tcell) Tcell is an alternate **Go** terminal package, similar in some ways to termbox, but better in others.
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
@@ -300,6 +300,7 @@
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
 - [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
+- [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
 - [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui
 - [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
