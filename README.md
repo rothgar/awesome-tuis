@@ -415,6 +415,7 @@
 - [tray-tui](https://github.com/Levizor/tray-tui) System tray in your terminal
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
+- [tweakcc](https://github.com/Piebald-AI/tweakcc) TUI to customize your Claude Code themes, thinking verbs, and more.
 - [wb](https://github.com/MertGunduz/wb) A TUI vocabulary notebook app for Linux based devices.
 - [wego](https://github.com/schachmat/wego) Weather app
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
