@@ -270,6 +270,7 @@
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
 - [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
+- [ConsoleCraftEngine](https://github.com/ural89/ConsoleCraftEngine) A terminal-based 2D game engine written in C++.
 - [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
