@@ -163,6 +163,7 @@
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
+- [Cruise](https://nucleofusion.github.io/cruise/) A Docker TUI Client
 
 ---
 </details>
