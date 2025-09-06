@@ -77,6 +77,8 @@
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [Yozefu](https://github.com/MAIF/yozefu) An TUI for exploring data of a kafka cluster.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
+- [csysdig](https://github.com/draios/sysdig) root level Ncurses interface for sysdig, Linux system exploration and troubleshooting tool with first class support for containers
+- [atop](https://github.com/Atoptool/atop/) root level system and process monitor for Linux
 
 ---
 </details>
