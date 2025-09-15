@@ -553,6 +553,7 @@
 
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
+- [bulletty](https://github.com/CrociDB/bulletty) A pretty feed reader (ATOM/RSS) that stores articles in Markdown files
 - [Canard](https://github.com/mrusme/canard) A command line TUI client for the [Journalist](https://github.com/mrusme/journalist) RSS aggregator.
 - [carbonyl](https://github.com/fathyb/carbonyl) Chromium running inside your terminal
 - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
