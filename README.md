@@ -183,6 +183,7 @@
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
+- [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [tilde](https://github.com/gphalkes/tilde) Intuitive text editor for the terminal
