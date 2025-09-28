@@ -523,6 +523,7 @@
 - [hnjobs](https://github.com/mwinters0/hnjobs) Find your next job on Who's Hiring
 - [hygg](https://github.com/kruserr/hygg) 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [HydroToDo](https://github.com/Henriquehnnm/hydrotodo) A simple and beautiful TUI to-do list
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration
 - [Judo](https://github.com/giacomopiccinini/judo) A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
