@@ -284,6 +284,7 @@
 - [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
+- [GGUI](https://github.com/Gabidal/GGUI) **C++17** Structured Terminal User Interface. 🐧/🪟
 - [gocui](https://github.com/jroimartin/gocui) Minimalist **Go** package aimed at creating Console User Interfaces
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
