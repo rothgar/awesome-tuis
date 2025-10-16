@@ -326,6 +326,7 @@
 - [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
 - [uvw](https://github.com/skypjack/uvw) Header-only, event based, tiny and easy to use libuv wrapper in modern **C++** - now available as also shared/static library!
+- [Vindauga](https://github.com/gabbpuy/vindauga) A **Python** implementation of the BSD licensed C++ Turbo Vision library.
 - [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
 
 ---
