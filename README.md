@@ -435,6 +435,7 @@
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [tlock](https://github.com/eklairs/tlock) Two-Factor Authentication Tokens Manager in Terminal
 - [tray-tui](https://github.com/Levizor/tray-tui) System tray in your terminal
+- [tttui](https://github.com/reidoboss/tttui) A Monkeytype-inspired typing test that runs entirely in your terminal
 - [ttyper](https://github.com/max-niederman/ttyper) Terminal-based typing test
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [tweakcc](https://github.com/Piebald-AI/tweakcc) TUI to customize your Claude Code themes, thinking verbs, and more.
