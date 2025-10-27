@@ -564,6 +564,7 @@
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
+- [EmoPick](https://gitlab.com/greyxor/emopick) A tiny emoji picker. Built with awk and fzf, it uses the official Unicode Emoji database to give you a clean fuzzy-search interface for quickly finding and selecting emojis.
 
 ---
 </details>
