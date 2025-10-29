@@ -331,6 +331,7 @@
 - [uvw](https://github.com/skypjack/uvw) Header-only, event based, tiny and easy to use libuv wrapper in modern **C++** - now available as also shared/static library!
 - [Vindauga](https://github.com/gabbpuy/vindauga) A **Python** implementation of the BSD licensed C++ Turbo Vision library.
 - [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
+- [Zaz](https://github.com/raphamorim/zaz) A **Rust** TUI library for efficient terminal rendering.
 
 ---
 </details>
