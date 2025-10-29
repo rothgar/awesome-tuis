@@ -347,6 +347,7 @@
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gurk-rs](https://github.com/boxdot/gurk-rs) Signal Messenger client for terminal
+- [iamb](https://iamb.chat) A Matrix client for Vim addicts written in Rust
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
 - [mastui](https://github.com/kimusan/mastui) Mastodon TUI
