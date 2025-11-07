@@ -109,6 +109,7 @@
 - [dblab](https://github.com/danvergara/dblab) The database client every command line junkie deserves
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
+- [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
@@ -144,6 +145,7 @@
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
 - [serie](https://github.com/lusingander/serie) A rich git commit graph
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
+- [sot](https://github.com/anistark/sot) A top like system observability tool written in python
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
