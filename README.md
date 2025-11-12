@@ -451,6 +451,7 @@
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wifitui](https://github.com/shazow/wifitui) Fast featureful friendly wifi terminal UI, supports NetworkManager and iwd over dbus.
 - [WG Commander](https://github.com/andrianbdn/wg-cmd) A TUI for a simple WireGuard VPN setup: peer management, QR codes, setup wizard.
+- [WireGuard Monitor](https://codeberg.org/anthonymills/Wireguard_Monitor) Simple TUI written in Rust to display the status of WireGuard connections on a host.
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
