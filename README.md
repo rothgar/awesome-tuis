@@ -577,6 +577,15 @@
 ---
 </details>
 
+<details open><summary><h2>Screensavers</h2></summary>
+
+- [astroterm](https://github.com/da-luce/astroterm) A planetarium for your terminal! Explore stars, planets, constellations, and more
+- [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
+- [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
+
+---
+</details>
+
 <details open><summary><h2>Web</h2></summary>
 
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
