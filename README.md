@@ -165,6 +165,7 @@
 - [e1s](https://github.com/keidarcy/e1s) TUI for managing AWS ECS resources
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
+- [k8s-tui](https://github.com/otavioCosta2110/k8s-tui) TUI Kubernetes resource manager with multi-cluster support
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
 - [kftui](https://github.com/hcavarsan/kftray) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
