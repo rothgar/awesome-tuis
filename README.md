@@ -315,7 +315,6 @@
 - [AnbUI](https://github.com/oerg866/anbui) A minimal Text UI Library in **C**
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
-- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
 
