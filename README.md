@@ -553,6 +553,7 @@
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
+- [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
