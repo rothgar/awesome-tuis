@@ -64,7 +64,7 @@
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
-- [rustnet](https://github.com/domcyrus/rustnet)  A cross-platform network monitoring tool with deep packet inspection
+- [rustnet](https://github.com/domcyrus/rustnet) A cross-platform network monitoring tool with deep packet inspection
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
@@ -79,13 +79,14 @@
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
 - [tuicamp](https://github.com/AbeEstrada/tuicamp) Unofficial TimeCamp TUI
 - [updo](https://github.com/Owloops/updo) Website monitoring tool with uptime tracking, response time metrics, and SSL certificate monitoring.
-- [tmd-top](https://github.com/CDWEN0526/tmd-top)   Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
+- [tmd-top](https://github.com/CDWEN0526/tmd-top) Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [Yozefu](https://github.com/MAIF/yozefu) An TUI for exploring data of a kafka cluster.
-- [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your *nix system written in Rust
+- [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your \*nix system written in Rust
 
 ---
+
 </details>
 
 <details open><summary><h2>Development</h2></summary>
@@ -154,6 +155,7 @@
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 
 ---
+
 </details>
 
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
@@ -181,6 +183,7 @@
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 
 ---
+
 </details>
 
 <details open><summary><h2>Editors</h2></summary>
@@ -204,6 +207,7 @@
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
 ---
+
 </details>
 
 <details open><summary><h2>File Managers</h2></summary>
@@ -220,11 +224,12 @@
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
-- [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager *(supports termux)*.
+- [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ---
+
 </details>
 
 <details open><summary><h2>Games</h2></summary>
@@ -259,7 +264,7 @@
 - [onx](https://github.com/vyalovvldmr/onx) Noughts & Crosses client-server game with your partner. Based on textual and python.
 - [pokete](https://github.com/lxgr-linux/pokete) A terminal based Pokemon like game
 - [Rebels in the sky](https://github.com/ricott1/rebels-in-the-sky) P2P terminal game about spacepirates playing basketball across the galaxy.
-- [snake](https://github.com/wick3dr0se/snake) :video_game:  A super minimal TUI snake game written in pure BASH v5.1+
+- [snake](https://github.com/wick3dr0se/snake) :video_game: A super minimal TUI snake game written in pure BASH v5.1+
 - [Square Tic Tac Toe](https://github.com/learnbyexample/TUI-apps/tree/main/SquareTicTacToe) Like Tic Tac Toe, but form a square with 4 corners instead of a line
 - [ssHattrick](https://github.com/ricott1/sshattrick) Play Hattrick in your terminal over SSH.
 - [sshtron](https://github.com/zachlatta/sshtron) multiplayer lightcycle game that runs through SSH
@@ -278,70 +283,91 @@
 - [Zoridor](https://github.com/ringtailsoftware/zoridor) Play Quoridor in the terminal
 
 ---
+
 </details>
 
 <details open><summary><h2>Libraries</h2></summary>
 
-- [AnbUI](https://github.com/oerg866/anbui) A minimal Text UI Library in **C**
+<h3>Python</h3>
+
 - [Argenta](https://github.com/koloideal/Argenta) Library for building modular applications **Python**
-- [ASCII_Board_Game_Engine](https://github.com/tjunruh/ASCII_Board_Game_Engine) A graphics engine for making board games in **C++**
-- [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
-- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
-- [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
+- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
+- [py_cui](https://github.com/jwlodek/py_cui) **Python** library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
+- [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
+- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
+- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for **Python** with a QT-like API semantics
+- [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
+- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
+- [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
+- [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
+- [Vindauga](https://github.com/gabbpuy/vindauga) A **Python** implementation of the BSD licensed C++ Turbo Vision library.
+
+<h3>GO</h3>
+
+- [bubbletea](https://github.com/charmbracelet/bubbletea) A **Go** framework based on Elm to build functional and
+- [gocui](https://github.com/jroimartin/gocui) Minimalist **Go** package aimed at creating Console User Interfaces
+- [pterm](https://github.com/pterm/pterm/) A modern **Go** module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
+- [stickers](https://github.com/76creates/stickers) Building blocks for charmbracelet/lipgloss in **Go**
+- [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
+- [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in **Go**
+- [tcell](https://github.com/gdamore/tcell) Tcell is an alternate **Go** terminal package, similar in some ways to termbox, but better in others.
+
+<h3>C</h3>
+
+- [AnbUI](https://github.com/oerg866/anbui) A minimal Text UI Library in **C**
 - [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
+- [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
+- [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
+- [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
+
+<h3>C++</h3>
+
+- [ASCII_Board_Game_Engine](https://github.com/tjunruh/ASCII_Board_Game_Engine) A graphics engine for making board games in **C++**
 - [ConsoleCraftEngine](https://github.com/ural89/ConsoleCraftEngine) A terminal-based 2D game engine written in **C++**.
-- [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [FINAL CUT](https://github.com/gansm/finalcut) **C++** library for creating terminal applications with text-based widgets
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
 - [GGUI](https://github.com/Gabidal/GGUI) **C++17** Structured Terminal User Interface. 🐧/🪟
-- [gocui](https://github.com/jroimartin/gocui) Minimalist **Go** package aimed at creating Console User Interfaces
-- [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
-- [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
+- [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies.
+- [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
+- [Tui Widgets](https://github.com/tuiwidgets/tuiwidgets) A high-level widget based toolkit for terminal applications in **C++**
+- [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
+- [uvw](https://github.com/skypjack/uvw) Header-only, event based, tiny and easy to use libuv wrapper in modern **C++**
+  now available as also shared/static library!
+- [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
+
+<h3>Rust</h3>
+
 - [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
+- [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
+- [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui in **Rust**
+- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
+- [Zaz](https://github.com/raphamorim/zaz) A **Rust** TUI library for efficient terminal rendering.
+
+<h3>Other</h3>
+
+- [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
+- [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
+  stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
+- [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
+- [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
+- [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) A **Java** library implements a text-based windowing system loosely reminiscent of Borland's Turbo Vision system.
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
 - [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
-- [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
-- [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
 - [OpenTUI](https://github.com/sst/opentui) A **TypeScript** library for building terminal user interfaces (TUIs)
 - [php-tui](https://github.com/php-tui/php-tui) comprehensive TUI library for **PHP** based heavily on Ratatui.
-- [pterm](https://github.com/pterm/pterm/) A modern **Go** module to beautify console output. Featuring charts, progressbars, tables, trees, and much more! It's completely configurable and 100% cross-platform compatible.
-- [py_cui](https://github.com/jwlodek/py_cui) **Python** library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
-- [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
-- [pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) self-contained TUI library for **Python** with a QT-like API semantics
-- [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
-- [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies
-- [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
-- [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
-- [stickers](https://github.com/76creates/stickers) Building blocks for charmbracelet/lipgloss in **Go**
-- [tcell](https://github.com/gdamore/tcell) Tcell is an alternate **Go** terminal package, similar in some ways to termbox, but better in others.
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
-- [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
-- [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
-- [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
-- [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui
-- [tui-go](https://github.com/marcusolsson/tui-go) A **Go** UI library for terminal applications (deprecated)
-- [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
-- [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
-- [Tui Widgets](https://github.com/tuiwidgets/tuiwidgets) A high-level widget based toolkit for terminal applications.
-- [tview](https://github.com/rivo/tview/) Terminal UI library with rich, interactive widgets — written in **Go**
-- [tvision](https://github.com/magiblot/tvision) A modern port of **C++** Turbo Vision 2.0, cross-platform and Unicode support.
-- [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
-- [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
-- [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
-- [uvw](https://github.com/skypjack/uvw) Header-only, event based, tiny and easy to use libuv wrapper in modern **C++** - now available as also shared/static library!
-- [Vindauga](https://github.com/gabbpuy/vindauga) A **Python** implementation of the BSD licensed C++ Turbo Vision library.
-- [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
-- [Zaz](https://github.com/raphamorim/zaz) A **Rust** TUI library for efficient terminal rendering.
+- [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 
 ---
+
 </details>
 
 <details open><summary><h2>Messaging</h2></summary>
@@ -385,6 +411,7 @@
 - [zulip-terminal](https://github.com/zulip/zulip-terminal) Official Zulip terminal client (similar to matterhorn)
 
 ---
+
 </details>
 
 <details open><summary><h2>Miscellaneous</h2></summary>
@@ -461,6 +488,7 @@
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 
 ---
+
 </details>
 
 <details open><summary><h2>Multimedia</h2></summary>
@@ -482,7 +510,7 @@
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
-- [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your *arr servers
+- [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your \*arr servers
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) Terminal-based manga reader and downloader with image rendering support
 - [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
@@ -512,6 +540,7 @@
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 
 ---
+
 </details>
 
 <details open><summary><h2>Productivity</h2></summary>
@@ -582,6 +611,7 @@
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
 
 ---
+
 </details>
 
 <details open><summary><h2>Screensavers</h2></summary>
@@ -622,6 +652,7 @@
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
 
 ---
+
 </details>
 
 There's a crazy amount of TUI projects out there, and we can't list them all (though we try!)
