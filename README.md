@@ -153,6 +153,7 @@
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
+- [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 
 ---
 
