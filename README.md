@@ -160,6 +160,7 @@
 
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
 
+- [Argonaut](https://github.com/darksworm/argonaut) ArgoCD TUI
 - [Cruise](https://nucleofusion.github.io/cruise/) A Docker TUI Client
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
