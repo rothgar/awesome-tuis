@@ -647,6 +647,7 @@
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
+- [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
