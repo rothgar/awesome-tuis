@@ -160,7 +160,7 @@
 
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
 
-- [Cruise](https://nucleofusion.github.io/cruise/) A Docker TUI Client
+- [Cruise](https://github.com/cruise-org/cruise) A Docker TUI Client
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
