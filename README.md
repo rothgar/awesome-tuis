@@ -164,6 +164,7 @@
 - [Argonaut](https://github.com/darksworm/argonaut) ArgoCD TUI
 - [Cruise](https://nucleofusion.github.io/cruise/) A Docker TUI Client
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
+- [dtop](https://github.com/amir20/dtop) Terminal dashboard for Docker monitoring across multiple hosts
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
