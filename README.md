@@ -174,7 +174,7 @@
 - [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
 - [e1s](https://github.com/keidarcy/e1s) TUI for managing AWS ECS resources
 - [eks-node-viewer](https://github.com/awslabs/eks-node-viewer/) visualizing dynamic node usage within a kubernetes cluster
-- [etcd-walker](https://github.com/nexusriot/etcd-walker/)  Opensource TUI tool for managing etcd keys
+- [etcd-walker](https://github.com/nexusriot/etcd-walker/) Opensource TUI tool for managing etcd keys
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [k8s-tui](https://github.com/otavioCosta2110/k8s-tui) TUI Kubernetes resource manager with multi-cluster support
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
