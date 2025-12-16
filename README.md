@@ -164,7 +164,6 @@
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
 
 - [Argonaut](https://github.com/darksworm/argonaut) ArgoCD TUI
-- [Cruise](https://nucleofusion.github.io/cruise/) A Docker TUI Client
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [dtop](https://github.com/amir20/dtop) Terminal dashboard for Docker monitoring across multiple hosts
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
@@ -325,7 +324,6 @@
 <h3>C</h3>
 
 - [AnbUI](https://github.com/oerg866/anbui) A minimal Text UI Library in **C**
-- [CursedGL](https://github.com/saccharineboi/CursedGL) A **C** notcurses-based software rasterizer inspired by OpenGL 1.X that renders directly to the terminal.
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
