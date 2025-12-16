@@ -31,6 +31,7 @@
 - [cgdb](https://github.com/cgdb/cgdb) Console front-end to the GNU debugger
 - [chdig](https://github.com/azat/chdig) Dig into ClickHouse with TUI interface
 - [cheatshh](https://github.com/AnirudhG07/cheatshh) A fzf TUI for managing custom made command-line cheatsheet for Unix.
+- [claws](https://github.com/clawscli/claws) A terminal UI for AWS resource management with vim-style keybindings, command-mode navigation, and optional read-only mode.
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
 - [csysdig](https://github.com/draios/sysdig) root level Ncurses interface for sysdig, Linux system exploration and troubleshooting tool with first class support for containers
