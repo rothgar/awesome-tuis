@@ -657,6 +657,7 @@
 - [rfc_reader](https://github.com/ozan2003/rfc_reader) A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents.
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
+- [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
