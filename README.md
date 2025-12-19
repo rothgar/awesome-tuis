@@ -503,6 +503,7 @@
 
 <details open><summary><h2>Multimedia</h2></summary>
 
+- [Gorae](https://github.com/Han8931/gorae) TUI librarian for PDFs and EPUBs with Vim-style navigation.
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI.
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
