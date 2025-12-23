@@ -232,6 +232,7 @@
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
 - [ntc](https://codeberg.org/ItsZariep/ntc) Ncurses Tabbed file Chooser.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
+- [rovr](https://github.com/NSPC911/rovr) A post-modern terminal file manager.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
