@@ -566,6 +566,7 @@
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
+- [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
@@ -636,6 +637,7 @@
 - [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
 
 ---
+
 </details>
 
 <details open><summary><h2>Web</h2></summary>
