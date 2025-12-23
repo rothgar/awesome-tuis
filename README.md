@@ -160,6 +160,7 @@
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
+- [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge) Real-time multi-AI collaboration between Claude, Codex and Gemini in terminal
 
 ---
 
