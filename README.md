@@ -540,6 +540,7 @@
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
 - [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
+- [spotatui](https://github.com/LargeModGames/spotatui) Spotify client with native streaming, synced lyrics, and real-time audio visualization
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
