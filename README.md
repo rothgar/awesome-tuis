@@ -291,6 +291,7 @@
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [terminal-pong](https://github.com/IshmamR/terminal.pong) A simple, fun ping pong game playable entirely in your terminal.
+- [termrex](github.com/SATYADAHAL/termrex) A terminal-based endless runner game inspired by the Chrome Dino offline game.
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [typeinc](https://github.com/AnirudhG07/Typeinc) ncurses based typing speed test with various difficulty levels.
