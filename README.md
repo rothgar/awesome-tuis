@@ -265,6 +265,7 @@
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [gokemon](https://github.com/nathanieltooley/gokemon) A terminal based Pokemon battle simulator
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
+- [Maze](https://github.com/itchyny/maze) Simple maze game written in Go.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) Build mazes and solve them with various algorithms.
 - [Micro Snake](https://github.com/troglobit/snake) A small snake game, utilizing ANSI escape sequences to draw the board.
 - [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
