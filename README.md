@@ -208,6 +208,7 @@
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
+- [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
