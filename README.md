@@ -465,6 +465,7 @@
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
+- [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
