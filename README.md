@@ -156,6 +156,7 @@
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
+- [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [turbostream](https://github.com/turboline-ai/turbostream) Tool to extract key signals from high-velocity streaming data using AI Agents
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
