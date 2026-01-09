@@ -54,6 +54,7 @@
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
+- [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
@@ -156,6 +157,7 @@
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
+- [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [turbostream](https://github.com/turboline-ai/turbostream) Tool to extract key signals from high-velocity streaming data using AI Agents
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
@@ -208,6 +210,7 @@
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
+- [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
@@ -265,9 +268,11 @@
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [gokemon](https://github.com/nathanieltooley/gokemon) A terminal based Pokemon battle simulator
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
+- [Maze](https://github.com/itchyny/maze) Simple maze game written in Go.
 - [Maze TUI](https://github.com/agl-alexglopez/maze-tui) Build mazes and solve them with various algorithms.
 - [Micro Snake](https://github.com/troglobit/snake) A small snake game, utilizing ANSI escape sequences to draw the board.
 - [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
+- [minesweep-rs](https://github.com/cpcloud/minesweep-rs) A mine sweeping game written in Rust using tui-rs.
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
 - [nchess](https://github.com/billyvinning/nchess) Chess in the terminal, written in C.
@@ -287,6 +292,8 @@
 - [sudoku-rs](https://github.com/MitchelPaulin/sudoku-rs) Sudoku built with tui-rs
 - [sweeper](https://github.com/igor47/sweeper) Minesweeper game using curtsies
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
+- [terminal-pong](https://github.com/IshmamR/terminal.pong) A simple, fun ping pong game playable entirely in your terminal.
+- [termrex](github.com/SATYADAHAL/termrex) A terminal-based endless runner game inspired by the Chrome Dino offline game.
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [typeinc](https://github.com/AnirudhG07/Typeinc) ncurses based typing speed test with various difficulty levels.
@@ -378,6 +385,7 @@
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+- [TUI4J](https://github.com/WilliamAGH/tui4j) A **Java** terminal UI framework with a Bubble Tea (Go) port and additional features inspired by Textual.
 
 ---
 
@@ -458,6 +466,7 @@
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
+- [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
@@ -478,7 +487,9 @@
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
+- [smassh](https://github.com/kraanzu/smassh) A TUI based typing test application inspired by MonkeyType.
 - [steam_friends_list_tui](https://github.com/AdamWHY2K/steam_friends_list_tui) The steam friends list in the commandline
+- [Systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) A program for managing systemd services through a TUI.
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
 - [tab-pal](https://github.com/ben-n93/tab-pal) Add and edit custom colour palettes in Tableau from the command-line.
 - [term.everything](https://github.com/mmulet/term.everything) Run any GUI app in the terminal
@@ -533,8 +544,11 @@
 - [mpvc](https://github.com/gmt4/mpvc) A mpc-like control interface for mpv
 - [nap](https://nap.sourceforge.net/) Linux napster client
 - [ncspot](https://github.com/hrkfdn/ncspot) Cross-platform ncurses Spotify client written in Rust
+- [pipe-viewer](https://github.com/trizen/pipe-viewer) A lightweight YouTube client for Linux, without requiring an API key.
+- [ostui](https://git.sr.ht/~ser/ostui) CLI client for Subsonic-API servers like gonic and Navidrome
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
+- [Relax-player](https://github.com/ebithril/relax-player) A lightweight, distraction-free alternative to web-based ambient players.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [rmpc](https://mierak.github.io/rmpc/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
@@ -555,6 +569,7 @@
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
+- [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [viu](https://github.com/viu-media/viu) Your browser anime experience from the terminal
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 
@@ -567,6 +582,7 @@
 - [abook](https://abook.sourceforge.io/) TUI addressbook with [mutt](http://www.mutt.org/) integration
 - [awsui](https://github.com/junminhong/awsui) A powerful, user-friendly terminal interface for AWS Profile and SSO management.
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
+- [Brief](https://github.com/WilliamAGH/brief) Terminal-first OpenAI chat client with slash-command palette and local tool execution.
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
@@ -643,6 +659,7 @@
 - [astroterm](https://github.com/da-luce/astroterm) A planetarium for your terminal! Explore stars, planets, constellations, and more
 - [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
 - [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
+- [pond](https://gitlab.com/alice-lefebvre/pond) A soothing in-terminal idle screen that simulates a little pond.
 
 ---
 
@@ -659,6 +676,7 @@
 - [CatenaVetus](https://github.com/jimbob88/CatenaVetus) A TUI for reading the Church Fathers
 - [Chawan](https://chawan.net) A TUI web (and (S)FTP, Gopher, Gemini) browser with CSS, inline image and JavaScript support.
 - [cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) Internet speed test via Cloudflare
+- [eilmeldung](https://github.com/christo-auer/eilmeldung) RSS reader, supporting many RSS providers, bulk-operations and configuration options.
 - [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
