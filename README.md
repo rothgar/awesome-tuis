@@ -126,6 +126,7 @@
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
+- [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
@@ -447,6 +448,7 @@
 - [cfdisk](https://github.com/util-linux/util-linux) TUI partition editor included in util-linux
 - [cgdisk](https://www.rodsbooks.com/gdisk/cgdisk-walkthrough.html) TUI partition editor for manipulating GUID partition tables, and modeled after cfdisk
 - [csvlens](https://github.com/YS-L/csvlens) TUI CSV file viewer. It is like less but made for CSV.
+- [CrunchyCleaner](https://github.com/knuspii/crunchycleaner) A lightweight, software cache cleanup tool for Windows & Linux.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [DigiSurf](https://github.com/SeanMcLoughlin/digisurf) A TUI signal waveform viewer
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
@@ -469,6 +471,7 @@
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
+- [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
 - [moc](https://moc.daper.net/download) console audio player
@@ -570,6 +573,7 @@
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
+- [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [viu](https://github.com/viu-media/viu) Your browser anime experience from the terminal
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 
@@ -675,6 +679,7 @@
 - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
 - [CatenaVetus](https://github.com/jimbob88/CatenaVetus) A TUI for reading the Church Fathers
 - [Chawan](https://chawan.net) A TUI web (and (S)FTP, Gopher, Gemini) browser with CSS, inline image and JavaScript support.
+- [cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) Internet speed test via Cloudflare
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) RSS reader, supporting many RSS providers, bulk-operations and configuration options.
 - [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
