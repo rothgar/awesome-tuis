@@ -525,8 +525,8 @@
 
 <details open><summary><h2>Multimedia</h2></summary>
 
-- [Gorae](https://github.com/Han8931/gorae) TUI librarian for PDFs and EPUBs with Vim-style navigation.
-- [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI.
+- [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
+- [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
@@ -537,6 +537,7 @@
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
 - [GopherTube](https://github.com/krishnassh/gophertube) A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback
+- [Gorae](https://github.com/Han8931/gorae) TUI librarian for PDFs and EPUBs with Vim-style navigation.
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
@@ -575,7 +576,6 @@
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
-- [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [viu](https://github.com/viu-media/viu) Your browser anime experience from the terminal
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
 
