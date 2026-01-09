@@ -675,6 +675,7 @@
 - [castero](https://github.com/xgi/castero) A TUI app to listen to podcast
 - [CatenaVetus](https://github.com/jimbob88/CatenaVetus) A TUI for reading the Church Fathers
 - [Chawan](https://chawan.net) A TUI web (and (S)FTP, Gopher, Gemini) browser with CSS, inline image and JavaScript support.
+- [cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) Internet speed test via Cloudflare
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) RSS reader, supporting many RSS providers, bulk-operations and configuration options.
 - [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
