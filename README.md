@@ -363,7 +363,7 @@
 - [xtd](https://github.com/gammasoft71/xtd) Free open-source modern **C++** framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, and Haiku.
 
 <h3>Java</h3>
-- [casciian](https://github.com/crramirez/casciian) A Text User Interface Library for **Java** based on "Jexer" without the AWT/Swing dependencies, tailored for GraalVM AOT native compilation with a focus on performance over remote connections and maximum terminal compatibility
+- [casciian](https://github.com/crramirez/casciian) A Text User Interface Library for **Java** based on "Jexer" without the AWT/Swing dependencies, tailored for GraalVM AOT native compilation with a focus on performance over remote connections and maximum terminal compatibility.
 - [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) A **Java** library implements a text-based windowing system loosely reminiscent of Borland's Turbo Vision system.
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
 - [TUI4J](https://github.com/WilliamAGH/tui4j) A **Java** terminal UI framework with a Bubble Tea (Go) port and additional features inspired by Textual.
