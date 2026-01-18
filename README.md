@@ -177,6 +177,7 @@
 
 - [Argonaut](https://github.com/darksworm/argonaut) ArgoCD TUI
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
+- [d4s](https://github.com/jr-k/d4s) A fast, keyboard-driven terminal UI to manage Docker containers, Compose stacks, and Swarm services with the ergonomics of K9s
 - [dtop](https://github.com/amir20/dtop) Terminal dashboard for Docker monitoring across multiple hosts
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
