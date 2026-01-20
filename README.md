@@ -155,6 +155,7 @@
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
+- [Toad](https://github.com/batrachianai/toad) A unified interface for AI
 - [toolui](https://github.com/jinek/ToolUI) Dotnet core application to manage installed nuget tools
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
 - [Twig](https://github.com/workdone0/twig) Terminal UI for interactively exploring JSON and YAML files.
