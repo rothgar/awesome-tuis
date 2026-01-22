@@ -1,4 +1,14 @@
-![](./img/banner.png)
+<h1 align="center">
+  <code>Awesome TUIs</code>
+</h1>
+
+This is a community maintained list of TUI applications. A TUI application runs in your terminal and has some level of interactivity. Commands included in this list should not wrap other interactive commands (e.g. `fzf`), and should be maintained.
+
+I made a video of my favorite TUIs from this list (one from each section). Click the image to check it out. 👇
+
+[![](https://i.ytimg.com/vi/_fLmA4fjiAE/maxresdefault.jpg)](https://youtu.be/_fLmA4fjiAE?si=IgXuo)
+
+There's a lot of cool projects here that I have no association with. Run them at your own risk. If you have a cool tool you'd like to share please [open a PR](https://github.com/rothgar/awesome-tuis/pulls).
 
 ## Table of Contents
 
