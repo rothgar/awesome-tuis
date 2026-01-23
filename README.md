@@ -146,6 +146,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
+- [models](https://github.com/arimxyer/models) TUI for browsing AI models from models.dev
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
@@ -505,6 +506,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [pass-cli](https://github.com/arimxyer/pass-cli) A TUI and CLI password manager with rclone cloud syncing support
 - [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) A TUI to explore Pester results.
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
