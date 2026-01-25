@@ -140,6 +140,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
+- [lazycap](https://github.com/icarus-itcs/lazycap) Terminal dashboard for Capacitor mobile development with device management, builds, live reload, and debugging tools.
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
