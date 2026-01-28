@@ -261,6 +261,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ntc](https://codeberg.org/ItsZariep/ntc) Ncurses Tabbed file Chooser.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
 - [rovr](https://github.com/NSPC911/rovr) A post-modern terminal file manager.
+- [s3duck-tui](https://github.com/nexusriot/s3duck-tui) A TUI S3 client.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
