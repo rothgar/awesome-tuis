@@ -622,6 +622,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
+- [doxx](https://github.com/bgreenwell/doxx) A TUI document viewer for Microsoft Word files
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
