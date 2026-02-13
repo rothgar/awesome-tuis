@@ -701,6 +701,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
 - [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
 - [pond](https://gitlab.com/alice-lefebvre/pond) A soothing in-terminal idle screen that simulates a little pond.
+- [weathr](https://github.com/veirt/weathr) A terminal weather app with ASCII animations for weather visualization
 
 ---
 
