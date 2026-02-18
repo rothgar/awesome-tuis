@@ -128,12 +128,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
-<<<<<<< patch-1
+- [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
-=======
-- [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
->>>>>>> main
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
