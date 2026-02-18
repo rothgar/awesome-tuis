@@ -145,6 +145,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
+- [lean-tui](https://codeberg.org/wvhulle/lean-tui) Interactive visualization of proofs and programs written in the Lean4 proof-assistant
 - [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
