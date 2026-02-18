@@ -75,6 +75,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
+- [psmux](https://github.com/marlocarlo/psmux) tmux-compatible terminal multiplexer for Windows built in Rust with ratatui.
+- [psnet](https://github.com/marlocarlo/psnet) Real-time TUI network monitor for Windows with speed graphs, DNS resolution, and packet inspection.
+- [pstop](https://github.com/marlocarlo/pstop) htop-style system monitor for Windows with per-core CPU bars, tree view, and 7 color schemes.
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
 - [rustnet](https://github.com/domcyrus/rustnet) A cross-platform network monitoring tool with deep packet inspection
