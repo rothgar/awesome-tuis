@@ -128,8 +128,12 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
+<<<<<<< patch-1
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
+=======
+- [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
+>>>>>>> main
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
@@ -498,6 +502,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
+- [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
 - [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
@@ -603,6 +608,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`
 - [waves](https://github.com/llehouerou/waves) Terminal music player with vim-style navigation and radio mode that plays similar artists from your library
+- [xytz](https://github.com/xdagiz/xytz) - Beautiful TUI for downloading YouTube videos/playlists/channels.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
@@ -674,6 +680,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
 - [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
+- [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [tododo](https://github.com/bmarse/tododo) A pretty TUI TODO.md manager for tasks and projects
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
@@ -699,6 +706,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Screensavers</h2></summary>
 
 - [astroterm](https://github.com/da-luce/astroterm) A planetarium for your terminal! Explore stars, planets, constellations, and more
+- [gitlogue](https://github.com/unhappychoice/gitlogue) A TUI screensaver that visualizes Git commit history in your terminal
 - [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
 - [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
 - [pond](https://gitlab.com/alice-lefebvre/pond) A soothing in-terminal idle screen that simulates a little pond.
@@ -734,6 +742,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
+- [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go. 
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
