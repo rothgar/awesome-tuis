@@ -324,6 +324,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [typeinc](https://github.com/AnirudhG07/Typeinc) ncurses based typing speed test with various difficulty levels.
 - [typing-game-cli](https://github.com/akgondber/typing-game-cli) Command line game to practice your typing speed by competing against typer-robot or against your best result
+- [UniPac](https://github.com/jesper-olsen/UniPac) Unicode-powered Pac-Man for the terminal, written in Rust.
 - [wocogo](https://codeberg.org/kedlubnowski/wocogo) Construct words from a list of given segments. A simple TUI game in Python, similar to the NY Times Combinations game.
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
 - [Zigtris](https://github.com/ringtailsoftware/zigtris) YA terminal tetris
