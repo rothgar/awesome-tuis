@@ -135,6 +135,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
+- [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
