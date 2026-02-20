@@ -421,6 +421,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
+- [nocterm](https://github.com/Norbert515/nocterm) A Flutter-like TUI framework for **Dart** with hot reload, 45+ components, and declarative UI patterns.
 - [OpenTUI](https://github.com/sst/opentui) A **TypeScript** library for building terminal user interfaces (TUIs)
 - [php-tui](https://github.com/php-tui/php-tui) comprehensive TUI library for **PHP** based heavily on Ratatui.
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
