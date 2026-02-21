@@ -404,7 +404,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <h3>.NET</h3>
 
-- [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
+- [Consolonia](https://github.com/jinek/Consolonia) A **.NET** terminal-based GUI framework with support of XAML
 - [Hex1b](https://github.com/mitchdenny/hex1b) A **.NET** library for building rich, interactive TUIs with a React-inspired declarative API
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
