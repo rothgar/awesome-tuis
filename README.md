@@ -404,6 +404,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <h3>.NET</h3>
 
+- [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [Hex1b](https://github.com/mitchdenny/hex1b) A **.NET** library for building rich, interactive TUIs with a React-inspired declarative API
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
@@ -421,7 +422,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
   stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
-- [Consolonia](https://github.com/jinek/Consolonia) Dotnet core terminal-based GUI framework with support of XAML
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
