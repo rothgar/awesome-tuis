@@ -249,7 +249,7 @@
 
 <details open><summary><h2>Games</h2></summary>
 
-- [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
+- [tui-2048](https://github.com/ps06756/tui-2048) The game 2048 for your terminal
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
 - [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
