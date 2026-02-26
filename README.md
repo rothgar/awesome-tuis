@@ -616,6 +616,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
+- [tortuise](https://github.com/buildoak/tortuise) Gaussian Splatting 3D viewer in your terminal. 6 render modes, CPU-only via crossterm + rayon
 - [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux
 - [Trophy](https://github.com/taigrr/trophy) A TUI 3D Model Viewer for OBJ and GLB files
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
