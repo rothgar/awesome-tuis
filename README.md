@@ -133,6 +133,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
 - [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
+- [differ](https://github.com/JanSmrcka/differ) A TUI git diff viewer
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
