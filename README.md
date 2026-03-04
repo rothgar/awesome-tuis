@@ -477,6 +477,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [twitch-tui](https://github.com/Xithrius/twitch-tui) Twitch chat in the terminal
 - [Weechat](https://weechat.org/) Extensible chat client
 - [zulip-terminal](https://github.com/zulip/zulip-terminal) Official Zulip terminal client (similar to matterhorn)
+- [MailGloss](https://github.com/Lutz-Pfannenschmidt/mailgloss) Modern Email sender supporting SMTP, Mailgun Sendgrid and more!
 
 ---
 
