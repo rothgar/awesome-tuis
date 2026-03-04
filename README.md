@@ -684,6 +684,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [presenterm](https://github.com/mfontanini/presenterm) A markdown terminal slideshow tool
 - [procmux](https://github.com/napisani/procmux) - a TUI for running multiple commands in parallel in easily switchable terminals
 - [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
+- [rebalance](https://github.com/cjroth/rebalance) An interactive portfolio rebalancing TUI that imports brokerage CSV data, lets you review holdings across multiple dimensions, set target allocations, and generates trade instructions.
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
