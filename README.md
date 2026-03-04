@@ -101,6 +101,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
 - [Yozefu](https://github.com/MAIF/yozefu) A TUI for exploring data of a kafka cluster.
 - [zenith](https://github.com/bvaisvil/zenith) In terminal graphical metrics for your \*nix system written in Rust
+- [ID-Spoofer](https://github.com/NubleX/ID-Spoofer) A cross-platform cybersecurity toolkit for fingerprint and traffic obfuscation.
 
 ---
 
