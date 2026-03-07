@@ -465,6 +465,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
+- [siggy](https://github.com/johnsideserf/siggy) A feature-rich Signal messenger TUI with vim keybindings, configurable profiles, and SQLite persistence
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
