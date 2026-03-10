@@ -193,6 +193,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
+- [wolfpack](https://github.com/almogdepaz/wolfpack) Mobile & desktop command center for AI coding agents — control Claude, Codex, Gemini tmux sessions across machines from your phone, secured by Tailscale
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
 
 ---
