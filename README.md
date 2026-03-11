@@ -433,6 +433,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
+- [progressimo](https://www.npmjs.com/package/progressimo) Beautiful, customizable progress bars for Node.js terminal apps.
 
 ---
 
