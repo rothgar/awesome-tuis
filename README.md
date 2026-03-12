@@ -183,6 +183,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
 - [Twig](https://github.com/workdone0/twig) Terminal UI for interactively exploring JSON and YAML files.
 - [serie](https://github.com/lusingander/serie) A rich git commit graph
+- [Skene](https://github.com/SkeneTechnologies/skene) A codebase analysis TUI for product-led growth that detects tech stacks, discovers growth opportunities, and generates implementation plans
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
