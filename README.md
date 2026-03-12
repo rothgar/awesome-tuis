@@ -157,6 +157,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
+- [smartloop](https://github.com/smartloop-ai/smartloop) An open-source SLM platform to train and run models on an edge device
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
