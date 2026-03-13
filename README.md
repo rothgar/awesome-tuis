@@ -463,6 +463,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nostui](https://github.com/akiomik/nostui) Nostr client
 - [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
+- [rvIRC](https://github.com/KaraZajac/rvIRC) IRC client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
