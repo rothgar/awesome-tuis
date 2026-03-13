@@ -458,6 +458,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
 - [mastui](https://github.com/kimusan/mastui) Mastodon TUI
+- [matcha](https://github.com/floatpane/matcha) Email client
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
