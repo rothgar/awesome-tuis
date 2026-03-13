@@ -314,6 +314,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Micro Snake](https://github.com/troglobit/snake) A small snake game, utilizing ANSI escape sequences to draw the board.
 - [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
 - [minesweep-rs](https://github.com/cpcloud/minesweep-rs) A mine sweeping game written in Rust using tui-rs.
+- [minesweeper_4d_rs](https://github.com/itabesamesa/minesweeper_4d_rs) 4D minesweeper written in Rust using Ratatui (can also be used for classic minesweeper)
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
 - [nchess](https://github.com/billyvinning/nchess) Chess in the terminal, written in C.
