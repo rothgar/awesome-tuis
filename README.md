@@ -211,6 +211,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [DockMate](https://github.com/shubh-io/dockmate) A lightweight TUI manager for Docker and Podman
+- [docker-dash](https://github.com/GustavoCaso/docker-dash) A full TUI managemnet tool for Docker
 - [dprs](https://github.com/durableprogramming/dprs) A TUI for managing Docker containers with real-time monitoring and log streaming
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
