@@ -84,6 +84,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sacha](https://github.com/Sachamama/sacha) A two-pane AWS TUI for browsing, searching, and managing resources across seven services including CloudWatch Logs, S3, DynamoDB, Lambda, SSM, SQS, and EC2.
 - [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
+- [ServerHub](https://github.com/nickprotop/ServerHub) A TUI server monitoring dashboard for Linux with real-time metrics, scriptable widgets, and remote management
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
@@ -133,6 +134,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
 - [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
+- [differ](https://github.com/JanSmrcka/differ) A TUI git diff viewer
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
@@ -140,6 +142,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
+- [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
@@ -152,6 +155,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lean-tui](https://codeberg.org/wvhulle/lean-tui) Interactive visualization of proofs and programs written in the Lean4 proof-assistant
+- [logradar](https://github.com/nanook72/logradar) - A fast Rust TUI for interactive log filtering and highlighting.
 - [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
@@ -207,6 +211,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image
 - [dockly](https://github.com/lirantal/dockly) Immersive terminal interface for managing docker containers and services
 - [DockMate](https://github.com/shubh-io/dockmate) A lightweight TUI manager for Docker and Podman
+- [docker-dash](https://github.com/GustavoCaso/docker-dash) A full TUI managemnet tool for Docker
 - [dprs](https://github.com/durableprogramming/dprs) A TUI for managing Docker containers with real-time monitoring and log streaming
 - [dry](https://github.com/moncho/dry) A Docker manager for the terminal
 - [ducker](https://github.com/robertpsoane/ducker) A slightly quackers Docker TUI based on k9s
@@ -287,7 +292,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <details open><summary><h2>Games</h2></summary>
 
-- [2048-cli](https://github.com/tiehuis/2048-cli) The game 2048 for your Linux terminal
+- [tui-2048](https://github.com/ps06756/tui-2048) The game 2048 for your terminal
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
 - [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
@@ -309,6 +314,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Micro Snake](https://github.com/troglobit/snake) A small snake game, utilizing ANSI escape sequences to draw the board.
 - [Micro Tetris](https://github.com/troglobit/tetris) One of the smallest Tetris implementations in the world, utilizing only ANSI escape sequences to draw the board.
 - [minesweep-rs](https://github.com/cpcloud/minesweep-rs) A mine sweeping game written in Rust using tui-rs.
+- [minesweeper_4d_rs](https://github.com/itabesamesa/minesweeper_4d_rs) 4D minesweeper written in Rust using Ratatui (can also be used for classic minesweeper)
 - [moon-buggy](https://github.com/seehuhn/moon-buggy) Drive some car across the moon
 - [MyMan](https://sourceforge.net/projects/myman/) MyMan is a video game for color and monochrome text terminals in the genre of Namco's Pac-Man
 - [nchess](https://github.com/billyvinning/nchess) Chess in the terminal, written in C.
@@ -406,6 +412,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [Consolonia](https://github.com/jinek/Consolonia) A **.NET** terminal-based GUI framework with support of XAML
 - [Hex1b](https://github.com/mitchdenny/hex1b) A **.NET** library for building rich, interactive TUIs with a React-inspired declarative API
+- [SharpConsoleUI](https://github.com/nickprotop/ConsoleEx) Multi-window TUI framework for **.NET** with overlapping windows, compositor effects, and Spectre.Console integration
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
 
@@ -424,7 +431,11 @@ There's a lot of cool projects here that I have no association with. Run them at
   stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
+<<<<<<< add-ink-web
 - [ink-web](https://github.com/cjroth/ink-web) A browser-based runtime for Ink that renders React TUI apps in the browser using xterm.js.
+=======
+- [Melker](https://melker.sh) A HTML-like, document-first TUI framework for **TypeScript/Deno** with permission sandboxing, flexbox layout, and run-from-URL support.
+>>>>>>> main
 - [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
 - [nimwave](https://github.com/ansiwave/nimwave) Build text interfaces for the terminal or browser in **Nim**
 - [nocterm](https://github.com/Norbert515/nocterm) A Flutter-like TUI framework for **Dart** with hot reload, 45+ components, and declarative UI patterns.
@@ -454,6 +465,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
 - [mastui](https://github.com/kimusan/mastui) Mastodon TUI
+- [matcha](https://github.com/floatpane/matcha) Email client
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
@@ -617,11 +629,13 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
+- [tortuise](https://github.com/buildoak/tortuise) Gaussian Splatting 3D viewer in your terminal. 6 render modes, CPU-only via crossterm + rayon
 - [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux
 - [Trophy](https://github.com/taigrr/trophy) A TUI 3D Model Viewer for OBJ and GLB files
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`
 - [waves](https://github.com/llehouerou/waves) Terminal music player with vim-style navigation and radio mode that plays similar artists from your library
+- [wiremix](https://github.com/tsowell/wiremix) TUI audio mixer for PipeWire similar to pavucontrol to adjust volumes, change input/output devices and their profiles
 - [xytz](https://github.com/xdagiz/xytz) - Beautiful TUI for downloading YouTube videos/playlists/channels.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
@@ -662,6 +676,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [HydroToDo](https://github.com/Henriquehnnm/hydrotodo) A simple and beautiful TUI to-do list
 - [HydroFetch](https://github.com/Henriquehnnm/hydrofetch) A fast, beautiful, and lightweight system information tool written exclusively for the Fish shell.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration
+- [jiratui](https://github.com/whyisdifficult/jiratui) A TUI for interacting with Atlassian Jira directly from your shell
 - [Judo](https://github.com/giacomopiccinini/judo) A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
 - [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
