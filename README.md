@@ -624,6 +624,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [spotatui](https://github.com/LargeModGames/spotatui) Spotify client with native streaming, synced lyrics, and real-time audio visualization
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
+- [sttui](https://github.com/rambip/sttui) Speech-to-text client using your favorite AI provider; No hardware requirement
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
 - [termusic](https://github.com/tramhao/termusic) Music Player TUI written in Rust
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
