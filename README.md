@@ -71,6 +71,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [onWatch](https://github.com/onllm-dev/onwatch) A lightweight CLI and TUI dashboard for tracking AI API quota usage across 7 providers
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
