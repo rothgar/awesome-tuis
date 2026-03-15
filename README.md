@@ -96,6 +96,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
 - [tuicamp](https://github.com/AbeEstrada/tuicamp) Unofficial TimeCamp TUI
+- [tuiwall](https://github.com/Mug-Costanza/tuiwall) Terminal Wallpaper Engine
 - [updo](https://github.com/Owloops/updo) Website monitoring tool with uptime tracking, response time metrics, and SSL certificate monitoring.
 - [tmd-top](https://github.com/CDWEN0526/tmd-top) Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
