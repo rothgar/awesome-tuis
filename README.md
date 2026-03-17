@@ -469,6 +469,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [matterhorn](https://github.com/matterhorn-chat/matterhorn) A Mattermost terminal client.
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
+- [meshtui](https://github.com/der-bender/meshtui) Meshtastic client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
 - [nchat](https://github.com/d99kris/nchat) Telegram/WhatsApp client
 - [nomadnet](https://github.com/markqvist/NomadNet) Secure messaging network built on Reticulum
