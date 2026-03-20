@@ -420,6 +420,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
 - [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
+- [SuperLightTUI](https://github.com/subinium/SuperLightTUI) An immediate-mode **Rust** TUI framework with flexbox layout and Tailwind-style chaining API.
 - [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui in **Rust**
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
 - [Zaz](https://github.com/raphamorim/zaz) A **Rust** TUI library for efficient terminal rendering.
