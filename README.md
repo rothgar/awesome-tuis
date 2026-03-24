@@ -592,6 +592,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
 - [ctune](https://github.com/An7ar35/ctune) ncurses based internet radio player for Linux.
+- [deezer-tui](https://github.com/Tatayoyoh/deezer-tui) Deezer music TUI with included background player.
 - [draw](https://github.com/maaslalani/draw) A simple drawing tool in the terminal.
 - [fancy-cat](https://github.com/freref/fancy-cat) A Lightweight terminal-based PDF reader with Vim keybindings
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
