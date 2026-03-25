@@ -58,6 +58,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [gonzo](https://github.com/control-theory/gonzo) A powerful, real-time log analysis terminal UI inspired by k9s.
 - [gotop](https://github.com/xxxserxxx/gotop) A terminal based graphical activity monitor inspired by gtop and vtop
 - [gping](https://github.com/orf/gping) Ping, but with a graph
+- [gpulse](https://github.com/gpulseai/gpulse) GPU monitoring dashboard with OOM prediction. NVIDIA, AMD, Intel, Apple Silicon.
 - [Grafterm](https://github.com/slok/grafterm) Metrics dashboards on terminal, a Grafana inspired terminal version
 - [htop](https://github.com/htop-dev/htop) Interactive text-mode process viewer for Unix systems. It aims to be a better 'top'
 - [htui](https://github.com/PierreKieffer/htui) Heroku Terminal User Interface
