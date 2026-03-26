@@ -171,7 +171,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [proxymock](https://proxymock.io) A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
-- [purple](https://github.com/erickochen/purple) SSH config manager, editor and host launcher with remote file transfer, command snippets across hosts, tunnel management, password manager integration and sync from 10 cloud providers. Written in Rust.
+- [purple](https://github.com/erickochen/purple) SSH client TUI with Docker/Podman containers, file transfer, tunnels, snippets, password management and sync from 11 cloud providers.
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [rainfrog](https://github.com/achristmascarl/rainfrog) A database management TUI for Postgres, MySQL, and SQLite written in Rust
