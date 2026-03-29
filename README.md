@@ -64,6 +64,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui) A gping-inspired terminal visualization tool for monitoring real-time hardware sensor data from HWInfo
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
+- [lazyazure](https://github.com/matsest/lazyazure) The lazy way to view your Azure resources. TUI for drilling down into Azure subscriptions, resource groups and resources.
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
 - [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
