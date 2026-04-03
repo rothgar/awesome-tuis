@@ -707,6 +707,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [sshm](https://github.com/gu1llaum-3/sshm) SSH made easy and fast: browse, connect, and control from your terminal with a modern TUI
+- [sshz](https://github.com/midasdf/sshz) SSH connection manager with real-time connectivity status, written in Zig
 - [ssh-slides](https://github.com/ivantsepp/ssh-slides) Terminal-based presentations over SSH
 - [Tabiew](https://github.com/shshemi/tabiew) A lightweight app to view and query tabular data files, such as CSV, TSV, and parquet.
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
@@ -729,6 +730,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
+- [zplit](https://github.com/midasdf/zplit) Lightweight terminal multiplexer written in Zig, under 100KB with zero dependencies
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
 - [Tock](https://github.com/kriuchkov/tock) - The powerful time tracking tool for the command line with a beautiful interactive TUI.
