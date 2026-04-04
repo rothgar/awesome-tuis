@@ -430,7 +430,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
-  stateful TUI apps, complete with extensions known as [bubbles](https://github.com/charmbracelet/bubbles)
+  stateful TUI apps.
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 <<<<<<< add-ink-web
