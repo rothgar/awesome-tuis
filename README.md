@@ -234,6 +234,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
 - [talos-pilot](https://github.com/handfish/talos-pilot) TUI for Talos Linux providing real-time node monitoring, log streaming, and various diagnostics
+- [wharf](https://github.com/idesyatov/wharf) A k9s-inspired TUI for managing Docker Compose stacks with vim-style navigation, braille CPU/MEM charts, container file browser, and command mode
 
 ---
 
