@@ -356,6 +356,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <h3>Python</h3>
 
+- [animpy](https://github.com/13DoesPython/animpy) Animpy is a tool for building flawless animations in the terminal
 - [Argenta](https://github.com/koloideal/Argenta) Library for building modular applications **Python**
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
