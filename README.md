@@ -782,6 +782,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rothgar_awesome-tuis) - Discover trending repos through the developers you follow, not just algorithms.
 
 ---
 
