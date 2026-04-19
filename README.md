@@ -123,6 +123,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
 - [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge) Real-time multi-AI collaboration between Claude, Codex and Gemini in terminal
+- [claudectl](https://github.com/mercurialsolo/claudectl) Auto-pilot TUI for Claude Code — local LLM brain that learns to auto-approve/deny, multi-session orchestration, health monitoring, spend control
 - [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [Cloud Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
 - [codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
