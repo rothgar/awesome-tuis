@@ -37,6 +37,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [binsider](https://github.com/orhun/binsider) A TUI for analyzing Linux binaries.
 - [bmon](https://github.com/tgraf/bmon) A monitoring and debugging tool to capture networking related statistics and prepare them visually.
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
+- [Brew-TUI](https://github.com/MoLinesGitHub/Brew-TUI) Visual TUI for Homebrew package management — browse, search, upgrade packages, manage services, and run brew doctor with Pro features for profiles, cleanup, history and security audit.
 - [bpytop](https://github.com/aristocratos/bpytop) A Python-based system monitor with lots of information.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
 - [cgdb](https://github.com/cgdb/cgdb) Console front-end to the GNU debugger
