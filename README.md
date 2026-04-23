@@ -521,6 +521,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [golazo](https://github.com/0xjuanma/golazo) Get soccer minute-by-minute updates and finished match stats in your terminal
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
+- [Gramotno](https://github.com/G-Chist/Gramotno) A terminal app for learning words in different languages
 - [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) A cross-platform, command-line and human-friendly Bluetooth Low Energy scanner
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts) A collection of patched fonts featuring over 60,000 icons, tailored specifically for TUIs.
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
