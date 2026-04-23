@@ -14,7 +14,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [Dashboards](#dashboards)
 - [Development](#development)
-- [Docker/Containers/K8s](#dockerlxck8s)
+- [Docker/LXC/K8s](#dockerlxck8s)
 - [Editors](#editors)
 - [File Managers](#file-managers)
 - [Games](#games)
@@ -23,6 +23,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Miscellaneous](#miscellaneous)
 - [Multimedia](#multimedia)
 - [Productivity](#productivity)
+- [Screensavers](#screensavers)
 - [Web](#web)
 
 <details open><summary><h2>Dashboards</h2></summary>
@@ -156,8 +157,8 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lean-tui](https://codeberg.org/wvhulle/lean-tui) Interactive visualization of proofs and programs written in the Lean4 proof-assistant
-- [logradar](https://github.com/nanook72/logradar) - A fast Rust TUI for interactive log filtering and highlighting.
-- [LogLens](https://github.com/Caelrith/loglens-core) - A structured log viewer and query engine for the terminal.
+- [logradar](https://github.com/nanook72/logradar) A fast Rust TUI for interactive log filtering and highlighting.
+- [LogLens](https://github.com/Caelrith/loglens-core) A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
@@ -224,7 +225,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [k9s](https://github.com/derailed/k9s) TUI for managing a Kubernetes cluster
 - [k8s-tui](https://github.com/otavioCosta2110/k8s-tui) TUI Kubernetes resource manager with multi-cluster support
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
-- [kftui](https://github.com/hcavarsan/kftray) - A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
+- [kftui](https://github.com/hcavarsan/kftray) A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
@@ -531,7 +532,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
-- [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
+- [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
 - [moc](https://moc.daper.net/download) console audio player
@@ -544,7 +545,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pass-cli](https://github.com/arimxyer/pass-cli) A TUI and CLI password manager with rclone cloud syncing support
 - [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) A TUI to explore Pester results.
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
-- [profanity](https://github.com/profanity-im/profanity) A cross-platfrom XMPP client.
 - [physics-TUI](https://github.com/ClaudioRMalvino/physics_TUI) Physics TUI application for undergraduate study
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [redu](https://github.com/drdo/redu) ncdu for your restic repository that manages exclusion lists to prune files from existing repos and skip new ones
@@ -639,7 +639,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`
 - [waves](https://github.com/llehouerou/waves) Terminal music player with vim-style navigation and radio mode that plays similar artists from your library
 - [wiremix](https://github.com/tsowell/wiremix) TUI audio mixer for PipeWire similar to pavucontrol to adjust volumes, change input/output devices and their profiles
-- [xytz](https://github.com/xdagiz/xytz) - Beautiful TUI for downloading YouTube videos/playlists/channels.
+- [xytz](https://github.com/xdagiz/xytz) Beautiful TUI for downloading YouTube videos/playlists/channels.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 - [ytdl-tui](https://github.com/darky/ytdl-tui) TUI for downloading Youtube videos
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
@@ -678,14 +678,14 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hygg](https://github.com/kruserr/hygg) 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [HydroToDo](https://github.com/Henriquehnnm/hydrotodo) A simple and beautiful TUI to-do list
 - [HydroFetch](https://github.com/Henriquehnnm/hydrofetch) A fast, beautiful, and lightweight system information tool written exclusively for the Fish shell.
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets with dynamic completions and AI integration
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) Manage command templates/snippets with dynamic completions and AI integration
 - [jiratui](https://github.com/whyisdifficult/jiratui) A TUI for interacting with Atlassian Jira directly from your shell
 - [Judo](https://github.com/giacomopiccinini/judo) A multi-database TUI for ToDo lists, using Rust + Ratatui + SQLite
 - [kabmat](https://github.com/PlankCipher/kabmat) TUI program for managing kanban boards with vim-like keybindings
-- [kanban](https://github.com/fulsomenko/kanban) - TUI kanban board for projects management with sprint tracking and task prioritization.
+- [kanban](https://github.com/fulsomenko/kanban) TUI kanban board for projects management with sprint tracking and task prioritization.
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
-- [LazySSH](https://github.com/adembc/lazyssh) - TUI SSH manager to browse, connect, and manage servers from ssh config files.
+- [LazySSH](https://github.com/adembc/lazyssh) TUI SSH manager to browse, connect, and manage servers from ssh config files.
 - [levite](https://github.com/RauliL/levite) A TUI spreadsheet application that uses an RPN formulas and features a vi-friendly interface
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
@@ -701,7 +701,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [portfolio_rs](https://github.com/MarkusZoppelt/portfolio_rs) A command line tool for managing financial investment portfolios.
 - [pream-team](https://github.com/nikoladucak/pream-team/) a TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories
 - [presenterm](https://github.com/mfontanini/presenterm) A markdown terminal slideshow tool
-- [procmux](https://github.com/napisani/procmux) - a TUI for running multiple commands in parallel in easily switchable terminals
+- [procmux](https://github.com/napisani/procmux) a TUI for running multiple commands in parallel in easily switchable terminals
 - [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
 - [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
@@ -731,7 +731,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
-- [Tock](https://github.com/kriuchkov/tock) - The powerful time tracking tool for the command line with a beautiful interactive TUI.
+- [Tock](https://github.com/kriuchkov/tock) The powerful time tracking tool for the command line with a beautiful interactive TUI.
 
 ---
 
