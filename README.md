@@ -604,6 +604,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
+- [m3u-dl](https://github.com/Thiritin/m3u-downloader) A Bubble Tea TUI for Xtream IPTV/VOD catalogs that downloads titles into a Plex-compatible library.
 - [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
 - [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your \*arr servers
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) Terminal-based manga reader and downloader with image rendering support
