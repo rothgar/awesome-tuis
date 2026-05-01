@@ -388,6 +388,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
+- [vtkit](https://github.com/seanbutler/vtkit/) A **minimal** terminal drawing library. Provides very simple abstraction for coords, text, boxes, lines, colors etc in **C**.
 
 <h3>C++</h3>
 
