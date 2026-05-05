@@ -149,6 +149,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
+- [HubSpot API to Markdown](https://github.com/WB2024/Hubspot-API-to-Markdown) A TUI and CLI tool that scrapes the HubSpot developer documentation and saves it as clean Markdown files — for offline reference, LLM context, or custom tooling.
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
@@ -287,6 +288,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [superfile](https://github.com/MHNightCat/superfile) Pretty fancy and modern terminal file manager.
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
+- [WBs File Manager](https://github.com/WB2024/WBs-Beautiful-TUI-Filemanager) A feature-rich three-panel TUI file manager with a command palette, built-in text editor, media inspectors, git integration, and true-color rendering with Nerd Font icons. Includes 13 built-in tools: audio-to-FLAC conversion, batch image conversion, archive extraction, ISO-to-GOD, file sorting, terminal video playback, image browsing, an ML-powered Essentia tagger, a dual-pane file transfer tool, an interactive permission manager, and more — plus bookmarks and an empty folder finder.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ---
@@ -579,6 +581,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WifUI](https://github.com/sohamw03/wifui) TUI for managing Wi-Fi connections on Windows natively (Rust)
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
+- [x360tm](https://github.com/WB2024/WBs360StudioTui) A mouse and keyboard TUI for browsing and installing Xbox 360 mods, trainers, saves, homebrew, cheats, and patches directly to your console via FTP. Also features selective torrent game downloads via the qBittorrent API, GOD game transfers, ISO-to-GOD conversion, title update installs, an FTP file browser, a USB softmod exploit creator, USB backup/restore, folder tidy utilities, and a full batch download-convert-transfer pipeline.
 
 ---
 
@@ -589,11 +592,13 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
+- [CD & DVD Ripper Suite](https://github.com/WB2024/CD-Ripper) An interactive CLI suite for ripping audio CDs to FLAC with CDDB/MusicBrainz metadata lookup and enhanced CD support, plus a companion DVD ripper with multiple output formats powered by HandBrake.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
 - [ctune](https://github.com/An7ar35/ctune) ncurses based internet radio player for Linux.
 - [draw](https://github.com/maaslalani/draw) A simple drawing tool in the terminal.
+- [Essentia Music Tagger](https://github.com/WB2024/Essentia-to-Metadata) An interactive TUI for ML-powered audio analysis that automatically writes genre and mood tags to your music files using Essentia deep learning models — fully offline, with support for 12 audio formats.
 - [fancy-cat](https://github.com/freref/fancy-cat) A Lightweight terminal-based PDF reader with Vim keybindings
 - [favicon-editor](https://github.com/xyproto/favicon-editor) Spartan grayscale favicon editor
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
@@ -610,10 +615,15 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [mpvc](https://github.com/gmt4/mpvc) A mpc-like control interface for mpv
+- [Music Storage Manager](https://github.com/WB2024/music-library-to-sd-cards-manager) An interactive CLI for managing and synchronising a music library across an MP3 player's internal storage and multiple SD cards, using smart bin-packing allocation, MTP device support, and rsync syncing.
 - [nap](https://nap.sourceforge.net/) Linux napster client
+- [Navidrome Gaps Finder](https://github.com/WB2024/WBs-Navidrome-Gaps-Finder) A TUI tool that cross-references your Navidrome music library against MusicBrainz to discover missing albums, with Nicotine+/Soulseek wishlist integration and Last.fm artist similarity discovery.
+- [Navidrome Radio Station Manager](https://github.com/WB2024/Add-Navidrome-Radios) A CLI tool for searching and adding internet radio stations to your Navidrome server, powered by the Radio-Browser community database — with pagination, multi-select, duplicate detection, and direct SQLite integration.
+- [Navidrome Smart Playlist Creator](https://github.com/WB2024/Navidrome-SmartPlaylist-Generator-nsp) A fully guided interactive CLI tool for creating Navidrome `.nsp` smart playlist files, featuring ~300 presets, 100+ fields, nested rule groups, and artist-focused playlists — no JSON editing required.
 - [ncspot](https://github.com/hrkfdn/ncspot) Cross-platform ncurses Spotify client written in Rust
 - [pipe-viewer](https://github.com/trizen/pipe-viewer) A lightweight YouTube client for Linux, without requiring an API key.
 - [ostui](https://git.sr.ht/~ser/ostui) CLI client for Subsonic-API servers like gonic and Navidrome
+- [Picard Script Generator](https://github.com/WB2024/WBs-Picard-Filenaming-Script-Generator) An interactive CLI tool that generates MusicBrainz Picard file naming scripts through guided menus — choose from 6 presets or build a fully custom script with no scripting knowledge required.
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [Relax-player](https://github.com/ebithril/relax-player) A lightweight, distraction-free alternative to web-based ambient players.
@@ -638,6 +648,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [valveFM](https://github.com/zorig/valvefm) Vintage FM radio TUI for streaming stations from radio-browser.info
 - [vlc](https://github.com/videolan/vlc) VLC includes an ncurses interface, `vlc --intf ncurses`
 - [waves](https://github.com/llehouerou/waves) Terminal music player with vim-style navigation and radio mode that plays similar artists from your library
+- [WB's Music Workflow](https://github.com/WB2024/WBs-New-Music-Workflow) An end-to-end music library pipeline TUI that uses Essentia ML models for genre and mood tagging, enforces per-artist genre definitions, and automatically sorts newly tagged music into a clean organised library.
 - [wiremix](https://github.com/tsowell/wiremix) TUI audio mixer for PipeWire similar to pavucontrol to adjust volumes, change input/output devices and their profiles
 - [xytz](https://github.com/xdagiz/xytz) - Beautiful TUI for downloading YouTube videos/playlists/channels.
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
@@ -774,6 +785,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rfc_reader](https://github.com/ozan2003/rfc_reader) A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents.
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
+- [ScrapeThis](https://github.com/WB2024/ScrapeThis) A TUI scraper for the Philosophize This! podcast that downloads all episode transcripts as Markdown with keyword search across the full archive — results are ranked by mention count, readable in-TUI with keywords highlighted. Also indexes audio via Whisper speech-to-text, letting you jump to the exact timestamp in mpv where a keyword is spoken.
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
