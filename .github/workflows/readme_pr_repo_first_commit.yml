@@ -1,0 +1,24 @@
+name: README PR Repository Date
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, edited]
+    paths:
+      - README.md
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  readme-pr-repo-first-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Extract repo info and comment on PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 .github/src/readme_pr_repo_first_commit.py
