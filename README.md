@@ -475,6 +475,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nomadnet](https://github.com/markqvist/NomadNet) Secure messaging network built on Reticulum
 - [nostui](https://github.com/akiomik/nostui) Nostr client
 - [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
+- [nylas](https://github.com/nylas/cli) Email and calendar TUI for Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP through one auth flow. Run with `nylas tui`.
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
