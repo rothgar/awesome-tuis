@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
+import calendar
 import json
 import os
 import re
 import sys
+from datetime import date, datetime, timezone
 from urllib import error, parse, request
 
 
@@ -108,6 +110,45 @@ def normalize_github_repo_url(raw_url: str) -> str:
     return f"https://github.com/{owner}/{repo}"
 
 
+def date_months_before(ref: date, months: int) -> date:
+    """Return ref shifted back by `months` calendar months (day clamped)."""
+    year, month = ref.year, ref.month
+    month -= months
+    while month <= 0:
+        month += 12
+        year -= 1
+    last_day = calendar.monthrange(year, month)[1]
+    day = min(ref.day, last_day)
+    return date(year, month, day)
+
+
+def parse_iso_date_utc(iso_str: str) -> date | None:
+    if not iso_str or not iso_str.strip():
+        return None
+    text = iso_str.strip().replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(text)
+    except ValueError:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc).date()
+
+
+def go_no_go_for_first_commit(iso_date_str: str) -> tuple[str, str]:
+    """
+    Returns (display_date, emoji). ✅ if first commit is at least 6 calendar
+    months before today (UTC); ⛔ otherwise or if date missing/unparseable.
+    """
+    parsed = parse_iso_date_utc(iso_date_str)
+    if not parsed:
+        return ("—", "⛔")
+    today_utc = datetime.now(timezone.utc).date()
+    cutoff = date_months_before(today_utc, 6)
+    emoji = "✅" if parsed <= cutoff else "⛔"
+    return (parsed.isoformat(), emoji)
+
+
 def get_first_commit_date(client: GithubClient, repo_url: str) -> str:
     owner_repo = repo_url.removeprefix("https://github.com/")
     _, headers = client.api(f"repos/{owner_repo}/commits?per_page=1")
@@ -126,6 +167,43 @@ def get_first_commit_date(client: GithubClient, repo_url: str) -> str:
     author = (commit.get("author") or {}).get("date", "")
     committer = (commit.get("committer") or {}).get("date", "")
     return author or committer or ""
+
+
+def markdown_table_row(c1: str, c2: str, c3: str) -> str:
+    def esc(s: str) -> str:
+        return s.replace("|", "\\|")
+
+    return f"| {esc(c1)} | {esc(c2)} | {esc(c3)} |"
+
+
+def build_comment_table(readme_urls: list[str], client: GithubClient) -> str:
+    """Rows sorted by Start (date) ascending; rows without a date sort last."""
+    first_commit_cache: dict[str, str] = {}
+    rows: list[tuple[date | None, str, str, str]] = []
+
+    for raw_url in readme_urls:
+        repo_url = normalize_github_repo_url(raw_url)
+        if not repo_url:
+            rows.append((None, "—", "⛔", raw_url))
+            continue
+
+        if repo_url not in first_commit_cache:
+            first_commit_cache[repo_url] = get_first_commit_date(client, repo_url)
+
+        iso = first_commit_cache[repo_url]
+        display_date, emoji = go_no_go_for_first_commit(iso)
+        sort_key = parse_iso_date_utc(iso)
+        rows.append((sort_key, display_date, emoji, repo_url))
+
+    rows.sort(key=lambda r: (r[0] is None, r[0] or date.min))
+
+    header = (
+        "| Start (sorted) | 🚦 | Repository URL |\n"
+        "| :------------: | :-: | ----------------------------------------------------------- |"
+    )
+    body_lines = [MARKER, "", header]
+    body_lines.extend(markdown_table_row(c1, c2, c3) for _, c1, c2, c3 in rows)
+    return "\n".join(body_lines)
 
 
 def upsert_comment(client: GithubClient, pr_number: str, body: str) -> None:
@@ -176,23 +254,7 @@ def main() -> None:
             "README.md was changed, but no new or modified URL was found in added lines."
         )
     else:
-        lines = [MARKER, "Detected URLs from added/modified README.md lines:"]
-        first_commit_cache = {}
-
-        for raw_url in readme_urls:
-            repo_url = normalize_github_repo_url(raw_url)
-            if not repo_url:
-                lines.append(f"- {raw_url} -> not a GitHub repository URL")
-                continue
-
-            if repo_url not in first_commit_cache:
-                first_commit_cache[repo_url] = get_first_commit_date(client, repo_url)
-
-            first_commit_date = first_commit_cache[repo_url]
-            date_value = first_commit_date or "Unable to extract first commit date."
-            lines.append(f"- {repo_url} -> first commit date: {date_value}")
-
-        comment_body = "\n".join(lines)
+        comment_body = build_comment_table(readme_urls, client)
 
     upsert_comment(client, pr_number=pr_number, body=comment_body)
 
