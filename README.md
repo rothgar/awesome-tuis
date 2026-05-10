@@ -257,6 +257,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
+- [perkins](https://github.com/Mr-Robot-err-404/perkins) ASCII pixel art editor for the terminal
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [tilde](https://github.com/gphalkes/tilde) Intuitive text editor for the terminal
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
