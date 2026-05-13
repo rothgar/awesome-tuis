@@ -548,6 +548,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
 - [physics-TUI](https://github.com/ClaudioRMalvino/physics_TUI) Physics TUI application for undergraduate study
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
+- [zdu](https://github.com/mjgil-zig/zdu) A fast, super low memory TUI disk usage analyzer 
 - [redu](https://github.com/drdo/redu) ncdu for your restic repository that manages exclusion lists to prune files from existing repos and skip new ones
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
