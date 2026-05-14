@@ -235,6 +235,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
 - [sen](https://github.com/TomasTomecek/sen) Terminal User Interface for docker engine
+- [SwarmCLI](https://github.com/Eldara-Tech/swarmcli) Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
 - [talos-pilot](https://github.com/handfish/talos-pilot) TUI for Talos Linux providing real-time node monitoring, log streaming, and various diagnostics
 
 ---
