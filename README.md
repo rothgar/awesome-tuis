@@ -444,6 +444,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [OpenTUI](https://github.com/sst/opentui) A **TypeScript** library for building terminal user interfaces (TUIs)
 - [php-tui](https://github.com/php-tui/php-tui) comprehensive TUI library for **PHP** based heavily on Ratatui.
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
+- [terminaltui](https://github.com/OmarMusayev/terminaltui) A **TypeScript** framework for building interactive terminal apps with file-based routing, components, themes, and SSH hosting. Try with `npx terminaltui try`.
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
 - [Thermage](https://github.com/thermage/thermage) Thermage is a **PHP** library that provides a fluent and incredibly powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 
