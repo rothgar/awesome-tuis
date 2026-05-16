@@ -226,6 +226,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [k8s-tui](https://github.com/otavioCosta2110/k8s-tui) TUI Kubernetes resource manager with multi-cluster support
 - [kdash](https://github.com/kdash-rs/kdash) A simple and fast dashboard for Kubernetes
 - [kftui](https://github.com/hcavarsan/kftray) A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
+- [km8](https://github.com/vulcanshen/km8) A lightweight terminal UI for Kubernetes — vim-style navigation, CRD support, drill-down, log streaming
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
