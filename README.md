@@ -766,6 +766,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
 - [haxor-news](https://github.com/donnemartin/haxor-news) Browse Hacker News like a haxor: A Hacker News command line interface (CLI)
+- [hnr](https://github.com/prasanthj/hnr) A terminal UI for Hacker News — browse feeds, read threaded comments, vote, reply, search, and bookmark
 - [Lagrange](https://gmi.skyjake.fi/lagrange) Lagrange is a cross-platform client for browsing Geminispace
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
 - [podliner](https://github.com/timkicker/podliner) A cross-platform podcast client
