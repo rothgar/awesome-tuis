@@ -340,7 +340,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [terminal-phase](https://gitlab.com/dustyweb/terminal-phase) Space shooter game that runs in your terminal!
 - [terminal-pong](https://github.com/IshmamR/terminal.pong) A simple, fun ping pong game playable entirely in your terminal.
 - [termrex](https://github.com/SATYADAHAL/termrex) A terminal-based endless runner game inspired by the Chrome Dino offline game.
-- [tetro-tui](https://github.com/Strophox/tetro-tui) A very configurable tetris-like, featuring ASCII particles, replays and more. 
+- [tetro-tui](https://github.com/Strophox/tetro-tui) A very configurable tetris-like, featuring ASCII particles, replays and more.
 - [tinytetris](https://github.com/taylorconor/tinytetris) 80x23 terminal tetris!
 - [tty-solitaire](https://github.com/mpereira/tty-solitaire) Solitaire runs in your terminal!
 - [typeinc](https://github.com/AnirudhG07/Typeinc) ncurses based typing speed test with various difficulty levels.
@@ -552,6 +552,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
+- [sbb-tui](https://github.com/necrom4/sbb-tui) TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app.
 - [smassh](https://github.com/kraanzu/smassh) A TUI based typing test application inspired by MonkeyType.
 - [steam_friends_list_tui](https://github.com/AdamWHY2K/steam_friends_list_tui) The steam friends list in the commandline
 - [Systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) A program for managing systemd services through a TUI.
@@ -626,7 +627,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [spotatui](https://github.com/LargeModGames/spotatui) Spotify client with native streaming, synced lyrics, and real-time audio visualization
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
-- [tdf](https://github.com/itsjunetime/tdf) A tui-based PDF viewer 
+- [tdf](https://github.com/itsjunetime/tdf) A tui-based PDF viewer
 - [terminal-yt](https://github.com/jooooscha/terminal-yt) A small newsboat-inspired terminal youtube manager
 - [termusic](https://github.com/tramhao/termusic) Music Player TUI written in Rust
 - [textual-paint](https://github.com/1j01/textual-paint) MS Paint in your terminal
@@ -698,7 +699,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
 - [pkm](https://github.com/wick3dr0se/pkm) A super minimal TUI package manager wrapper written in BASH v4.2+
-- [pomo](https://github.com/Bahaaio/pomo) A minimal, customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics. 
+- [pomo](https://github.com/Bahaaio/pomo) A minimal, customizable TUI Pomodoro timer with ASCII art, progress bar, desktop notifications, and productivity statistics.
 - [portfolio_rs](https://github.com/MarkusZoppelt/portfolio_rs) A command line tool for managing financial investment portfolios.
 - [pream-team](https://github.com/nikoladucak/pream-team/) a TUI utility that helps you keep track of your teams GitHub PRs across multiple repositories
 - [presenterm](https://github.com/mfontanini/presenterm) A markdown terminal slideshow tool
@@ -778,7 +779,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
-- [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go. 
+- [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go.
 - [tblogs](https://github.com/ezeoleaf/tblogs) Read and browse development blogs from your terminal
 - [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
