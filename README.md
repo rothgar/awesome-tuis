@@ -12,6 +12,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 ## Table of Contents
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - [Dashboards](#dashboards)
 - [Development](#development)
 - [Docker/LXC/K8s](#dockerlxck8s)
