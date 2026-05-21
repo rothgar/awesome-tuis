@@ -662,6 +662,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
+- [Cosmos](https://github.com/Sharann-del/Cosmos) A terminal AI chatbot with 25+ free models via OpenRouter, cloud-synced chat history, file attachments, and rich Markdown output.
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
 - [doxx](https://github.com/bgreenwell/doxx) A TUI document viewer for Microsoft Word files
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
