@@ -75,6 +75,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
+- [pixtuoid](https://github.com/IvanWng97/pixtuoid) Terminal pixel-art dashboard for multiple Claude Code agents — half-block sprites, per-tool monitor glow, multi-floor office.
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
 - [psmux](https://github.com/marlocarlo/psmux) tmux-compatible terminal multiplexer for Windows built in Rust with ratatui.
