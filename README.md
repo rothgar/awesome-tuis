@@ -49,6 +49,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [csysdig](https://github.com/draios/sysdig) root level Ncurses interface for sysdig, Linux system exploration and troubleshooting tool with first class support for containers
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dashbrew](https://github.com/rasjonell/dashbrew) TUI dashboard builder that lets you visualize data from scripts and APIs.
+- [diskwatch](https://github.com/matthart1983/diskwatch) Single-host disk diagnostics TUI: eight tabs across devices, volumes, filesystems, IO, SMART, hot files, and insights.
 - [dolphie](https://github.com/charles-001/dolphie) Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
@@ -72,6 +73,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
+- [netwatch](https://github.com/matthart1983/netwatch) Real-time network diagnostics TUI: deep packet inspection across 13 protocols (TLS, QUIC, HTTP, DNS, SSH, MQTT, SNMP and more), per-process attribution via eBPF / PKTAP, TCP retransmit analytics, JA4 fingerprinting, optional Landlock sandbox, and Flight Recorder incident bundles.
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
@@ -87,6 +89,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sacha](https://github.com/Sachamama/sacha) A two-pane AWS TUI for browsing, searching, and managing resources across seven services including CloudWatch Logs, S3, DynamoDB, Lambda, SSM, SQS, and EC2.
 - [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
 - [ServerHub](https://github.com/nickprotop/ServerHub) A TUI server monitoring dashboard for Linux with real-time metrics, scriptable widgets, and remote management
+- [syswatch](https://github.com/matthart1983/syswatch) Single-host system diagnostics TUI: twelve tabs across CPU, memory, disks, processes, GPU, power, services, and network, plus a Timeline scrubber and an Insights anomaly engine.
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
