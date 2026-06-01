@@ -718,6 +718,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
+- [tsm](https://github.com/ahmedsaid47/tsm) SSH-first tmux session manager and dashboard tailored for AI coding agents
 - [tododo](https://github.com/bmarse/tododo) A pretty TUI TODO.md manager for tasks and projects
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
