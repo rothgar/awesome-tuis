@@ -481,6 +481,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
+- [slk](https://github.com/gammons/slk) Full-featured, modern Slack TUI client
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
