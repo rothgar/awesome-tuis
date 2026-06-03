@@ -92,6 +92,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
 - [tegratop](https://github.com/pythops/tegratop) Monitoring tool (top like) for Nvidia jetson boards
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
+- [astock](https://github.com/youmengde/astock) A-share stock terminal toolkit: real-time quotes, screening, ranking with table/JSON/CSV output
 - [ticker](https://github.com/achannarasappa/ticker) Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
