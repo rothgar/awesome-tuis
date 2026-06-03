@@ -706,7 +706,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [procmux](https://github.com/napisani/procmux) a TUI for running multiple commands in parallel in easily switchable terminals
 - [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
-- [sfs](https://github.com/vst93/sfs) A WebDAV-based terminal file sync tool — sync files to your own server with a lightweight TUI
+- [sfs](https://github.com/vst93/sfs) WebDAV-based terminal file sync tool
 - [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [sshm](https://github.com/gu1llaum-3/sshm) SSH made easy and fast: browse, connect, and control from your terminal with a modern TUI
@@ -719,7 +719,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
-- [ttm](https://github.com/vst93/ttm) Lightweight SSH bookmark manager with TUI — manage, sync and connect to your servers from the terminal, built with Bubble Tea
+- [ttm](https://github.com/vst93/ttm) SSH bookmark manager with Bubble Tea TUI — connect, manage and sync via Gist
 - [tododo](https://github.com/bmarse/tododo) A pretty TUI TODO.md manager for tasks and projects
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
