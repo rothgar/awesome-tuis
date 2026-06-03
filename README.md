@@ -175,6 +175,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
+- [qrypad](https://github.com/wheelibin/qrypad) A terminal SQL client for Postgres, MySQL and SQLite. 
 - [rainfrog](https://github.com/achristmascarl/rainfrog) A database management TUI for Postgres, MySQL, and SQLite written in Rust
 - [regex-tui](https://github.com/vitor-mariano/regex-tui) A simple TUI to visualize and test regular expressions
 - [resterm](https://github.com/unkn0wn-root/resterm) A terminal client for HTTP/GraphQL/gRPC with support for WebSockets, SSE, workflows, profiling, OpenAPI and response diffs.
