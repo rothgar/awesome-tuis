@@ -706,7 +706,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [procmux](https://github.com/napisani/procmux) a TUI for running multiple commands in parallel in easily switchable terminals
 - [productivity-timer](https://github.com/h-sifat/productivity-timer) A command line time tracker application with a sleek TUI.
 - [sc-im](https://github.com/andmarti1424/sc-im) An ncurses spreadsheet program for terminal. Reignited version of sc
-- [sfs](https://github.com/vst93/sfs) WebDAV-based terminal file sync tool
 - [SheetsUI](https://github.com/zaphar/sheetsui) A console based spreadsheet application
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [sshm](https://github.com/gu1llaum-3/sshm) SSH made easy and fast: browse, connect, and control from your terminal with a modern TUI
