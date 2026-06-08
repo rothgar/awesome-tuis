@@ -256,6 +256,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
 - [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
+- [microNeo](https://github.com/sollawen/microNeo) A fork of Micro with in-place Markdown rendering — view and edit in the same window
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
