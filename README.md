@@ -293,6 +293,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) A cross-platform terminal-based file manager _(supports termux)_.
 - [Vifm](https://github.com/vifm/vifm) A TUI file manager with vi-keybindings and other vim like behaviour.
 - [yazi](https://github.com/sxyazi/yazi) Blazing fast terminal file manager written in Rust, based on async I/O.
+- [ytree](https://github.com/robkam/ytree/tree/main) The XTree&trade; style file manager Unix should have had all along.
 
 ---
 
