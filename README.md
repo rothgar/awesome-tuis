@@ -718,10 +718,10 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
-- [ttm](https://github.com/vst93/ttm) SSH bookmark manager with Bubble Tea TUI — connect, manage and sync via Gist
 - [tododo](https://github.com/bmarse/tododo) A pretty TUI TODO.md manager for tasks and projects
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
+- [ttm](https://github.com/vst93/ttm) SSH bookmark manager with Bubble Tea TUI — connect, manage and sync via Gist
 - [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
 - [TUI_ProjectManager](https://github.com/NicoDblc/TUI_ProjectManager) A simple project-based todo list written in Rust
 - [tuidict](https://github.com/404Simon/tuidict) Fast offline dictionary with in-app downloads and multi-language support from FreeDict
