@@ -593,6 +593,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Multimedia</h2></summary>
 
 - [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
+- [apple-music](https://github.com/anthonymaley/apple-music) Apple Music player TUI for macOS with album art, multi-room AirPlay routing, playlists, and a Claude Code skill
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
