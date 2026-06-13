@@ -557,6 +557,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [recoverpy](https://github.com/PabloLec/recoverpy) A TUI to recover overwritten or deleted data.
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
+- [Sifty](https://github.com/Vortrix5/sifty) A safety-first Windows maintenance TUI: clean junk, analyze disk usage, find duplicate files, and manage apps, updates and startup programs, with every change previewed first and deletions sent to the Recycle Bin.
 - [smassh](https://github.com/kraanzu/smassh) A TUI based typing test application inspired by MonkeyType.
 - [steam_friends_list_tui](https://github.com/AdamWHY2K/steam_friends_list_tui) The steam friends list in the commandline
 - [Systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) A program for managing systemd services through a TUI.
