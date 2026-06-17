@@ -737,6 +737,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
+- [Yoro](https://github.com/zackb/yoro) A TUI for contacts and calendars via files or CalDAV and CardDAV
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
