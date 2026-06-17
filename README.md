@@ -426,6 +426,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [SharpConsoleUI](https://github.com/nickprotop/ConsoleEx) Multi-window TUI framework for **.NET** with overlapping windows, compositor effects, and Spectre.Console integration
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) A **.NET** library for creating beautiful console applications
 - [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) Cross-platform terminal UI toolkit for **.NET**
+- [Elaris.UI](https://github.com/ambystechcom/Ambystech.Elaris.UI) A lightweight Terminal UI library for **.NET** with true 24-bit RGB color support. Built for modern terminals with cross-platform support.
 
 <h3>Rust</h3>
 
