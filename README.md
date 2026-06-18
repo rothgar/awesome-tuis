@@ -586,6 +586,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WifUI](https://github.com/sohamw03/wifui) TUI for managing Wi-Fi connections on Windows natively (Rust)
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
+- [ZapDir](https://github.com/Mayne-X/Zapdir) Terminal disk cleanup tool to find and delete node_modules, .next, dist, and other heavy build artifacts with an interactive UI.
 
 ---
 
