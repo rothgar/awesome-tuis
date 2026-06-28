@@ -623,6 +623,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pipe-viewer](https://github.com/trizen/pipe-viewer) A lightweight YouTube client for Linux, without requiring an API key.
 - [ostui](https://git.sr.ht/~ser/ostui) CLI client for Subsonic-API servers like gonic and Navidrome
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
+- [qr-multi-imgs](https://github.com/thousandflowers/qr-multi-imgs) Batch-scan a folder of images for QR codes from a TUI, then organize, export, and recreate them
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [Relax-player](https://github.com/ebithril/relax-player) A lightweight, distraction-free alternative to web-based ambient players.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
