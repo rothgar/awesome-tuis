@@ -91,6 +91,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
+- [tea-dash](https://github.com/gbarany/tea-dash) A gh-dash-style dashboard for Gitea/Forgejo PRs, issues, notifications, and Actions runs
 - [tegratop](https://github.com/pythops/tegratop) Monitoring tool (top like) for Nvidia jetson boards
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [ticker](https://github.com/achannarasappa/ticker) Track stocks, crypto, and derivatives prices and positions in real time from your terminal
