@@ -355,6 +355,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [UniPac](https://github.com/jesper-olsen/UniPac) Unicode-powered Pac-Man for the terminal, written in Rust.
 - [wocogo](https://codeberg.org/kedlubnowski/wocogo) Construct words from a list of given segments. A simple TUI game in Python, similar to the NY Times Combinations game.
 - [Wordle](https://github.com/m-dango/raku-wordle/) Script and library for Wordle, written in Raku
+- [WOPR TUI 2026](https://github.com/ankurCES/WOPR_TUI_2026) A WarGames (1983) inspired Cold War simulation TUI with AI-powered scenarios, DEFCON escalation, and multi-language intelligence intercepts. Built with Rust and ratatui.
 - [Zigtris](https://github.com/ringtailsoftware/zigtris) YA terminal tetris
 - [Zoridor](https://github.com/ringtailsoftware/zoridor) Play Quoridor in the terminal
 
