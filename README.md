@@ -704,6 +704,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nless](https://github.com/mpryor/nothing-less) Terminal pager for exploring tabular data with vi keybindings and automatic delimiter inference
 - [numr](https://github.com/nasedkinpv/numr) A natural language calculator with unit/currency conversions and vim-style keybindings
 - [openmux](https://github.com/monotykamary/openmux) A terminal multiplexer with master-stack layout (Zellij-style)
+- [otaku](https://github.com/enclavum/otaku) A chat client for local LLMs (Ollama, LM Studio, MLX) with encrypted searchable history and cross-provider model management
 - [pagerduty-tui](https://github.com/Mk555/pagerduty-tui) Minimalistic terminal UI to manage triggered incidents
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
 - [pdiary](https://github.com/manipuladordedados/pdiary) A simple terminal diary journal application written in Python with encryption support
