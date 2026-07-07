@@ -151,6 +151,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
+- [iris](https://github.com/itzenata/iris-tui) Live supervisor for every active Claude Code session — status, tokens, cost, and one-pane tool-call approvals
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
