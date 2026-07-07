@@ -231,6 +231,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
+- [layerx](https://github.com/deveshpharswan/layerx) Terminal UI for inspecting Docker image layers — view file contents, sort by size, and extract files. Goes further than dive.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) The lazier way to scan images, k8s and the filesytem with Trivy
 - [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
