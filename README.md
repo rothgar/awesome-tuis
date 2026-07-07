@@ -197,6 +197,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [turbostream](https://github.com/turboline-ai/turbostream) Tool to extract key signals from high-velocity streaming data using AI Agents
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) Local-first memory lifecycle TUI for AI agents with recall, audit, forgetting, consolidation, and Ratatui.
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
