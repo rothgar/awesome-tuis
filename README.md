@@ -136,6 +136,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
+- [dev-sweeper](https://github.com/dvigo/dev-sweeper) Blazing fast cross-platform TUI to safely clean up massive dependency folders (node_modules, target, venv, vendor) from inactive projects.
 - [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
 - [differ](https://github.com/JanSmrcka/differ) A TUI git diff viewer
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
