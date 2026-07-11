@@ -29,6 +29,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Dashboards</h2></summary>
 
 - [AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance
+- [alphai-tui](https://github.com/makeev/alphai-tui) Stock dashboard with quotes, candlestick charts, AI-scored news and SEC Form 4 insider activity
 - [apachetop](https://github.com/tessus/apachetop) display information from a running copy of Apache.
 - [atop](https://github.com/Atoptool/atop/) root level system and process monitor for Linux
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) A tool for managing project collaboration between humans and AI Agents in a git ecosystem
