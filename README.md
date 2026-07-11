@@ -128,7 +128,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
 - [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
-- [construct](https://github.com/construct-worlds/construct) Terminal-native agent fleet manager for Codex, Claude Code, Grok, and more
+- [construct](https://github.com/construct-worlds/construct) Terminal-native agentic development environment
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
 - [crush](https://github.com/charmbracelet/crush) The glamourous AI coding agent
