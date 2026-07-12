@@ -40,6 +40,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [bottom](https://github.com/ClementTsang/bottom) A customizable graphical process/system monitor for the terminal.
 - [bpytop](https://github.com/aristocratos/bpytop) A Python-based system monitor with lots of information.
 - [btop++](https://github.com/aristocratos/btop) Resource monitor with extras
+- [bullmq-dash](https://github.com/quanghuynt14/bullmq-dash) Dashboard for monitoring BullMQ queues, inspecting jobs, and retrying failures
 - [cgdb](https://github.com/cgdb/cgdb) Console front-end to the GNU debugger
 - [chdig](https://github.com/azat/chdig) Dig into ClickHouse with TUI interface
 - [cheatshh](https://github.com/AnirudhG07/cheatshh) A fzf TUI for managing custom made command-line cheatsheet for Unix.
