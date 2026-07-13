@@ -444,6 +444,7 @@ There's a lot of cool projects here that I have no association with. Run them at
   stateful TUI apps.
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
+- [ink-uplot](https://github.com/planadecu/ink-uplot) uPlot charts in the terminal as a **Node.js**/Ink component, with truecolor Unicode and kitty/sixel/iTerm2 graphics.
 - [ink-web](https://github.com/cjroth/ink-web) A browser-based runtime for Ink that renders React TUI apps in the browser using xterm.js.
 - [Melker](https://melker.sh) A HTML-like, document-first TUI framework for **TypeScript/Deno** with permission sandboxing, flexbox layout, and run-from-URL support.
 - [moulti](https://moulti.run/) A CLI-driven TUI displaying arbitrary outputs inside visual, collapsible blocks. Designed with **shell** scripts in mind. **Ansible**-friendly too.
