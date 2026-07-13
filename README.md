@@ -146,6 +146,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
+- [ghcup](https://github.com/haskell/ghcup-hs) An installer for the Haskell toolchain
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
