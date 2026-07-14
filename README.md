@@ -318,6 +318,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [BrogueCE](https://github.com/tmewett/BrogueCE) Beautiful roguelike dungeon crawler
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) A bonsai tree generator
 - [chess-tui](https://github.com/thomas-mauran/chess-tui) Play Chess in your terminal, built in rust
+- [cli.poker](https://www.cli.poker) Ranked heads-up Texas Hold'em played over SSH. Nothing to install: ssh cli.poker
 - [clidle](https://github.com/ajeetdsouza/clidle) Play Wordle in your terminal. Also works over SSH!
 - [csol](https://github.com/nielssp/csol) Collection of solitaire/patience games, such as Klondike, FreeCell, Spider, and Yukon
 - [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii) Text-based DOOM running in terminal.
