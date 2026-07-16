@@ -526,6 +526,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [CrunchyCleaner](https://github.com/knuspii/crunchycleaner) A lightweight, software cache cleanup tool for Windows & Linux.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [DigiSurf](https://github.com/SeanMcLoughlin/digisurf) A TUI signal waveform viewer
+- [diskbloom](https://github.com/Zingzy/diskbloom) Pastel treemap disk usage analyzer
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [distrobox-tui](https://github.com/phanirithvij/distrobox-tui) TUI for managing distrobox containers
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
