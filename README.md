@@ -660,6 +660,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ytfzf](https://github.com/pystardust/ytfzf) A POSIX script that helps you find Youtube videos (without API) or Peertube videos and opens/downloads them using mpv/youtube-dl
 - [viu](https://github.com/viu-media/viu) Your browser anime experience from the terminal
 - [vv](https://github.com/wolfpld/vv) A terminal image viewer, supporting an extensive range of modern image formats
+- [zigoku](https://github.com/vantroy/zigoku) A terminal anime browser & player built from scratch in Zig.
 
 ---
 
