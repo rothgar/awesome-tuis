@@ -789,6 +789,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Lagrange](https://gmi.skyjake.fi/lagrange) Lagrange is a cross-platform client for browsing Geminispace
 - [LYNX](https://lynx.invisible-island.net/) A text based Terminal browser
 - [podliner](https://github.com/timkicker/podliner) A cross-platform podcast client
+- [moccasin](https://github.com/rektdeckard/moccasin) A TUI feed reader for RSS, Atom, and (aspirationally) Podcasts
 - [newsboat](https://github.com/newsboat/newsboat) An RSS/Atom feed reader for the text console
 - [nyaa](https://github.com/Beastwick18/nyaa) A nyaa.si TUI for browsing and downloading torrents
 - [omaro](https://github.com/Rolv-Apneseth/omaro) TUI to browse posts and comments on lobste.rs
