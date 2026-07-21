@@ -165,6 +165,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [logradar](https://github.com/nanook72/logradar) A fast Rust TUI for interactive log filtering and highlighting.
 - [LogLens](https://github.com/Caelrith/loglens-core) A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
+- [lucinate](https://github.com/lucinate-ai/lucinate) A multi-backend terminal AI chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible APIs
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
