@@ -289,6 +289,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [deletor](https://github.com/pashkov256/deletor) Manage and delete files efficiently with an interactive TUI and scriptable CLI.
 - [far2l](https://github.com/elfmz/far2l) Linux port of Far v2 file manager
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
+- [fyzenor](https://github.com/Bimbok/fyzenor) A modern, blazing-fast terminal file manager built in C++ with live previews, async workflows, and a polished three-column interface.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
 - [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
