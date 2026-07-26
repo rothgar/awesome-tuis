@@ -605,6 +605,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
+- [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) Interactive Windows console utility for diagnosing and recovering Bluetooth headsets stuck in low-quality Hands-Free call audio.
 - [chafa](https://hpjansson.org/chafa/) A powerful utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal.
 - [cmdpxl](https://github.com/knosmos/cmdpxl) Totally practical command-line image editor
 - [cmus](https://cmus.github.io/) A small, fast and powerful console music player for Unix-like operating systems.
