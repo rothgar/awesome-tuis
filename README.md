@@ -71,6 +71,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazyslurm](https://github.com/hill/lazyslurm) A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
 - [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
+- [mirador](https://github.com/jchultarsky/mirador) A personal dashboard with world clocks, calendar and .ics agenda, weather, tasks, notes, a market watchlist, and live CPU and network graphs
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
