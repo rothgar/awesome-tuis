@@ -84,6 +84,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [psnet](https://github.com/marlocarlo/psnet) Real-time TUI network monitor for Windows with speed graphs, DNS resolution, and packet inspection.
 - [pstop](https://github.com/marlocarlo/pstop) htop-style system monitor for Windows with per-core CPU bars, tree view, and 7 color schemes.
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
+- [quinto](https://github.com/Tvk-sd/quinto) Web analytics in your terminal, synced to a local SQLite file that you or your agent can query with SQL
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
 - [rustnet](https://github.com/domcyrus/rustnet) A cross-platform network monitoring tool with deep packet inspection
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
