@@ -216,6 +216,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Docker/LXC/K8s</h2></summary>
 
 - [Argonaut](https://github.com/darksworm/argonaut) ArgoCD TUI
+- [bosun](https://github.com/psychedelicdevx/bosun) A fast terminal UI for managing Docker containers, grouped by compose project
 - [cruise](https://github.com/cruise-org/cruise) A container management TUI
 - [ctop](https://github.com/bcicen/ctop) Top-like interface for container metrics
 - [d4s](https://github.com/jr-k/d4s) A fast, keyboard-driven terminal UI to manage Docker containers, Compose stacks, and Swarm services with the ergonomics of K9s
