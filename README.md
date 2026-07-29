@@ -176,6 +176,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 - [pproftui](https://github.com/Oloruntobi1/pproftui) A terminal-based UI for Go's pprof that makes profiling interactive
+- [proxelar](https://github.com/emanuele-em/proxelar) Scriptable MITM proxy TUI to inspect, intercept, replay, and rewrite HTTP(S) and WebSocket traffic
 - [proxymock](https://proxymock.io) A network recorder that shows API payloads in a TUI and automatically generates tests and mocks from what it observes.
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
