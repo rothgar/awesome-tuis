@@ -489,6 +489,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [mcabber](https://mcabber.com/) XMPP (Jabber) client
 - [meli](https://meli.delivery/) Email client
 - [Mutt](https://gitlab.com/muttmua/mutt) Email client
+- [mxr](https://mxr.sh/) Local-first email client with Vim-style navigation and full-text search
 - [nchat](https://github.com/d99kris/nchat) Telegram/WhatsApp client
 - [nomadnet](https://github.com/markqvist/NomadNet) Secure messaging network built on Reticulum
 - [nostui](https://github.com/akiomik/nostui) Nostr client
