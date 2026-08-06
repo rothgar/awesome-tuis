@@ -183,6 +183,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [qrypad](https://github.com/wheelibin/qrypad) A terminal SQL client for Postgres, MySQL and SQLite. 
+- [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) Realtime full-duplex voice TUI for AI coding agents (Claude Code, Codex, OpenCode, Kimi over ACP) — talk hands-free with barge-in, background task results read back, and a local wake word
 - [rainfrog](https://github.com/achristmascarl/rainfrog) A database management TUI for Postgres, MySQL, and SQLite written in Rust
 - [regex-tui](https://github.com/vitor-mariano/regex-tui) A simple TUI to visualize and test regular expressions
 - [resterm](https://github.com/unkn0wn-root/resterm) A terminal client for HTTP/GraphQL/gRPC with support for WebSockets, SSE, workflows, profiling, OpenAPI and response diffs.
