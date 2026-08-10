@@ -167,6 +167,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [logradar](https://github.com/nanook72/logradar) A fast Rust TUI for interactive log filtering and highlighting.
 - [LogLens](https://github.com/Caelrith/loglens-core) A structured log viewer and query engine for the terminal.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
+- [mandible](https://github.com/AS-FOSS/mandible) A TUI manual viewer for every command-line tool
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
@@ -210,7 +211,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
-
 ---
 
 </details>
