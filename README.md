@@ -564,6 +564,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [NanoCore](https://github.com/AfaanBilal/NanoCore) An 8-bit CPU emulator TUI written in Rust with an assembler and a custom ISA.
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
+- [oeis-tui](https://github.com/hako/oeis-tui)  A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
 - [pass-cli](https://github.com/arimxyer/pass-cli) A TUI and CLI password manager with rclone cloud syncing support
