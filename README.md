@@ -144,6 +144,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
+- [forge](https://github.com/NorviaLabs/forge) An AI coding agent that unifies an AI agent, code editor, and shell in one focused TUI workflow
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
