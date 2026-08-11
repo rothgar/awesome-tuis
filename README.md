@@ -769,6 +769,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [astroterm](https://github.com/da-luce/astroterm) A planetarium for your terminal! Explore stars, planets, constellations, and more
 - [gitlogue](https://github.com/unhappychoice/gitlogue) A TUI screensaver that visualizes Git commit history in your terminal
+- [MatrixShader](https://github.com/matrixshader/matrix-shader) GPU-powered Matrix rain for Windows Terminal with a TUI control panel for live shader parameter tuning.
 - [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
 - [rxpipes](https://github.com/inunix3/rxpipes) 2D recreation of the ancient Pipes screensaver for terminals.
 - [pond](https://gitlab.com/alice-lefebvre/pond) A soothing in-terminal idle screen that simulates a little pond.
