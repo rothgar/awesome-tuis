@@ -279,6 +279,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vis](https://github.com/martanne/vis) A vi-like editor based on Plan 9's structural regular expressions
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
+- [zide](https://github.com/logic-lancer/zide) A modal terminal code editor in Zig with vim keys, tree-sitter highlighting, LSP and git integration
 - [PNANA](https://github.com/Cyxuan0311/PNANA) A modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text.
 
 ---
