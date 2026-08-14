@@ -50,6 +50,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [csysdig](https://github.com/draios/sysdig) root level Ncurses interface for sysdig, Linux system exploration and troubleshooting tool with first class support for containers
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dashbrew](https://github.com/rasjonell/dashbrew) TUI dashboard builder that lets you visualize data from scripts and APIs.
+- [dsh-mini](https://github.com/LouisYang841/dsh-mini) A coding-agent terminal UI on the DeepSeek Harness engine, with goal/todo panels and a compact phone layout
 - [dolphie](https://github.com/charles-001/dolphie) Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
