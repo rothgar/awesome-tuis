@@ -257,6 +257,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Editors</h2></summary>
 
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
+- [buatae](https://github.com/clort81/buatae) Unicode 24-bit ANSI art editor written in bash
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [Durdraw](https://github.com/cmang/durdraw) An ASCII, Unicode and ANSI art editor
 - [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor.
