@@ -116,6 +116,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Development</h2></summary>
 
 - [act3](https://github.com/dhth/act3) Glance at the last 3 runs of your Github Actions
+- [peek](https://github.com/hariomlohardev/peek) - The htop for codebases — understand any repo in 5 seconds. Python + Rich + Textual TUI (`pip install peek-code && peek .`), live `◐` pulse + `t` theme cycle, PageRank `Start Here`.
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
 - [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
