@@ -70,6 +70,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
 - [lazyslurm](https://github.com/hill/lazyslurm) A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
+- [legbar](https://github.com/gmhoward9289-ops/legbar) One screen for an AI agent fleet: live Claude Code and Cursor sessions beside GitHub CI and PRs
 - [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
