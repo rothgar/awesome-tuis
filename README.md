@@ -66,6 +66,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hwatch](https://github.com/blacknon/hwatch) A modern alternative to watch that records command output history and provides interactive diff views, scrolling, filtering, JSON logging, and hooks.
 - [hwinfo-tui](https://github.com/JuanjoFuchs/hwinfo-tui) A gping-inspired terminal visualization tool for monitoring real-time hardware sensor data from HWInfo
 - [ID-Spoofer](https://github.com/NubleX/ID-Spoofer) A cross-platform cybersecurity toolkit for fingerprint and traffic obfuscation.
+- [karat](https://github.com/uraniumdawn/karat) Terminal UI for Apache Kafka. Browse clusters, topics, consumer groups, Schema Registry subjects and Connect connectors without leaving the keyboard.
 - [kaskade](https://github.com/sauljabin/kaskade) TUI for kafka, which allows you to interact and consume topics from your terminal in style!
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
