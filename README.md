@@ -211,6 +211,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
+- [kolega-code](https://github.com/kolega-ai/kolega-code) Terminal coding agent where the model writes its own multi-agent workflows (Gigacode).
 
 ---
 
