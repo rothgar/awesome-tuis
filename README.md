@@ -643,6 +643,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [rmpc](https://rmpc.mierak.dev/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
+- [sgram-tui](https://github.com/arian-shamaei/sgram-tui) Calibrated spectrogram analyzer for live mic or audio files, with labeled PNG figure export and a headless render mode
 - [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotatui](https://github.com/LargeModGames/spotatui) Spotify client with native streaming, synced lyrics, and real-time audio visualization
