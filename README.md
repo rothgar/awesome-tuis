@@ -116,7 +116,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Development</h2></summary>
 
 - [act3](https://github.com/dhth/act3) Glance at the last 3 runs of your Github Actions
-- [amtr](https://github.com/arian-shamaei/anthropometer) A btop-style live monitor for Claude Code sessions: context-window memory map, file traffic, cache economics, and a compiled PDF report
+- [amtr](https://github.com/arian-shamaei/anthropometer) A btop-style live monitor for AI coding agents (Claude Code, Codex CLI): context-window memory map, file traffic, cache economics, and a compiled PDF report
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
 - [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
