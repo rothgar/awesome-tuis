@@ -160,6 +160,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
+- [lazygocd](https://github.com/Sahilll15/lazygocd) A lazygit-style terminal UI for GoCD pipelines: trigger, pause, rerun, and tail logs from the terminal
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
 - [lazysql](https://github.com/jorgerojas26/lazysql) A cross-platform TUI database management tool written in Go.
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
