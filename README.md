@@ -75,6 +75,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
+- [nman](https://github.com/novitaswebworks/proc-manager) A unified TUI dashboard for managing processes, Docker containers, and system services in one place.
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
