@@ -553,6 +553,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
+- [Keywise](https://github.com/lkraider/keywise) Read-only viewer for a local Firefox profile's saved logins. One static binary, no NSS nor sqlite.
 - [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [lnav](https://lnav.org/) An advanced log file viewer for the small-scale
