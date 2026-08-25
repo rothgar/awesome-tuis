@@ -484,6 +484,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gurk-rs](https://github.com/boxdot/gurk-rs) Signal Messenger client for terminal
+- [heatsync-tui](https://github.com/mellen9999/heatsync-tui) Heat-sorted live multichat for Twitch and Kick, with real emotes and vim keys
 - [iamb](https://iamb.chat) A Matrix client for Vim addicts written in Rust
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
