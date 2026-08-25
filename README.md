@@ -54,6 +54,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) A rich terminal UI for GitHub PRs and Issues
+- [gh-starview](https://github.com/Pastalikek65/gh-starview) - GitHub repo metrics TUI for gh CLI with sortable table, filter and offline SQLite cache (Go/bubbletea, Termux-friendly).
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Goaccess](https://github.com/allinurl/goaccess) GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser.
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
