@@ -566,6 +566,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
+- [pacman-utils](https://github.com/ankur3-101106/pacman-utils) A TUI for Pacman
 - [pass-cli](https://github.com/arimxyer/pass-cli) A TUI and CLI password manager with rclone cloud syncing support
 - [PesterExplorer](https://github.com/HeyItsGilbert/PesterExplorer) A TUI to explore Pester results.
 - [pug](https://github.com/leg100/pug) terraform and tofu module and infrastructure management.
