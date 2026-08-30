@@ -543,6 +543,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fnf](https://github.com/leo-arch/fnf) An interactive fuzzy finder for the terminal
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
 - [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
+- [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [golazo](https://github.com/0xjuanma/golazo) Get soccer minute-by-minute updates and finished match stats in your terminal
