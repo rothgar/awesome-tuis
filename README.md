@@ -409,6 +409,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O library - written in **C**
 - [ncurses](https://invisible-island.net/ncurses/announce.html) A classic **C** library with bindings for many languages
 - [tuibox](https://github.com/Cubified/tuibox) A single-header **C** terminal UI library, capable of creating mouse-driven, interactive applications on the command line.
+- [miamore](https://github.com/Ametrine-cc/miamore) A simple more intuitive alternative to ncurses for C TUI development.
 
 <h3>C++</h3>
 
@@ -449,6 +450,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tui-input](https://github.com/sayanarijit/tui-input) TUI input library supporting multiple backends, tui-rs and ratatui in **Rust**
 - [tui-rs](https://github.com/fdehau/tui-rs) Terminal user interfaces and dashboards using **Rust** (no longer maintained, use Ratatui instead).
 - [Zaz](https://github.com/raphamorim/zaz) A **Rust** TUI library for efficient terminal rendering.
+- [miamore](https://github.com/Ametrine-cc/miamore) A simple more intuitive alternative to ncurses for C TUI development (Official Rust bindings).
 
 <h3>Other</h3>
 
