@@ -487,6 +487,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [iamb](https://iamb.chat) A Matrix client for Vim addicts written in Rust
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
+- [lazyteams](https://github.com/agmonetti/lazyteams) A keyboard-driven Microsoft Teams client with support for university SSO, chat, and assignments.
 - [marchat](https://github.com/Cod-e-Codes/marchat) Self-hosted terminal chat with WebSocket client/server, optional shared-key encryption, and plugins.
 - [mastui](https://github.com/kimusan/mastui) Mastodon TUI
 - [matcha](https://github.com/floatpane/matcha) Email client
