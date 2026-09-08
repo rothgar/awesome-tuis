@@ -136,7 +136,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [crush](https://github.com/charmbracelet/crush) The glamourous AI coding agent
 - [dbee](https://github.com/murat-cileli/dbee) Fast & Minimalistic Database Browser
 - [dblab](https://github.com/danvergara/dblab) The database client every command line junkie deserves
-- [dbterm](https://dbterm.shreyam1008.com.np/) Terminal database workbench for PostgreSQL, MySQL, SQLite, Turso, and Cloudflare D1
+- [dbterm](https://github.com/shreyam1008/dbterm) Terminal database workbench for PostgreSQL, MySQL, SQLite, Turso, and Cloudflare D1
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
