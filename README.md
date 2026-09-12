@@ -210,6 +210,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
+- [yylo](https://github.com/yylo-dev/yylo) Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries, live run watch (yy watch), and an interactive terminal agent mode (ypl)
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
 
 ---
