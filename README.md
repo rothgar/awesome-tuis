@@ -693,6 +693,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
 - [Brief](https://github.com/WilliamAGH/brief) Terminal-first OpenAI chat client with slash-command palette and local tool execution.
 - [Bada](https://github.com/Han8931/bada) A minimalist, Vim-first task manager designed to help you focus without distraction.
+- [budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) A TUI budget tracker app designed to track income, expenses, investments, budget goals and visualize / gather insights.
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
