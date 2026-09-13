@@ -466,6 +466,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nocterm](https://github.com/Norbert515/nocterm) A Flutter-like TUI framework for **Dart** with hot reload, 45+ components, and declarative UI patterns.
 - [OpenTUI](https://github.com/sst/opentui) A **TypeScript** library for building terminal user interfaces (TUIs)
 - [php-tui](https://github.com/php-tui/php-tui) comprehensive TUI library for **PHP** based heavily on Ratatui.
+- [Raxol](https://github.com/DROOdotFOO/raxol) A multi-surface runtime for **Elixir**: one application renders to the terminal, browser, SSH, and agent surfaces, with per-component crash isolation and hot reload from the BEAM.
 - [termbox2](https://github.com/termbox/termbox2) A terminal rendering library for creating TUIs.
 - [TermDOM](https://github.com/bikeshaving/termdom) A **JavaScript** library that displays HTML and CSS in the terminal, with a real DOM
 - [TermGL](https://github.com/wojciech-graj/TermGL) A terminal-based graphics library for 2D and 3D graphics.
