@@ -758,6 +758,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
 - [tododo](https://github.com/bmarse/tododo) A pretty TUI TODO.md manager for tasks and projects
 - [todoman](https://github.com/pimutils/todoman) A simple, standards-based (ics, DAV), cli task-manager
+- [Tomatui](https://github.com/Hiro-Chiba/tomatui) A Pomodoro timer with a full-screen TUI, a minimal one-line mode, and local session statistics.
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
 - [ttm](https://github.com/vst93/ttm) SSH bookmark manager with Bubble Tea TUI — connect, manage and sync via Gist
 - [trx](https://github.com/pie-314/trx) - Terminal package manager with fuzzy search and keyboard-driven package discovery.
