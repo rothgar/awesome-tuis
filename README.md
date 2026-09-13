@@ -496,6 +496,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [iamb](https://iamb.chat) A Matrix client for Vim addicts written in Rust
 - [instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) Use Instagram from your terminal, the end of brainrot is here
 - [irssi](https://irssi.org/) An IRC terminal client
+- [local-chat](https://github.com/DongGunYoon/local-chat) Terminal chat for everyone on the same WiFi, nothing to host, no accounts, no messages written to disk
 - [marchat](https://github.com/Cod-e-Codes/marchat) Self-hosted terminal chat with WebSocket client/server, optional shared-key encryption, and plugins.
 - [mastui](https://github.com/kimusan/mastui) Mastodon TUI
 - [matcha](https://github.com/floatpane/matcha) Email client
