@@ -1,0 +1,40 @@
+name: Link Checker
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: link-check
+  cancel-in-progress: false
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lychee link checker
+        uses: lycheeverse/lychee-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 100,101,200,202,203,204,205,206,300,301,302,303,304,307,308,403,429
+            --retry 3
+            --retry-wait-time 5
+            --timeout 20
+            --max-redirects 5
+            --exclude-loopback
+            --exclude-mail
+            --exclude 'github\.com/.*/(issues|pulls|actions)'
+            README.md
+          output: github
+          fail: true
