@@ -216,6 +216,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [y509](https://github.com/kanywst/y509) Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers
 - [ygrep](https://github.com/yetidevworks/ygrep) A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants
+- [yylo](https://github.com/yylo-dev/yylo) Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries, live run watch (yy watch), and an interactive terminal agent mode (ypl)
 
 ---
 
