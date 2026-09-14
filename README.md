@@ -153,6 +153,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ghcup](https://github.com/haskell/ghcup-hs) An installer for the Haskell toolchain
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
+- [git-tailor](https://github.com/jordfras/git-tailor) An interactive terminal tool for tidying up Git commits on a branch
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [gitwig](https://github.com/tareqmy/gitwig) - A mouse-drivable git TUI and multi-repo dashboard built in Rust.
