@@ -536,6 +536,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
 - [DigiSurf](https://github.com/SeanMcLoughlin/digisurf) A TUI signal waveform viewer
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
+- [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
 - [distrobox-tui](https://github.com/phanirithvij/distrobox-tui) TUI for managing distrobox containers
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
@@ -543,7 +544,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fnf](https://github.com/leo-arch/fnf) An interactive fuzzy finder for the terminal
 - [fzf](https://github.com/junegunn/fzf) A general-purpose command-line fuzzy finder
 - [gdu](https://github.com/dundee/gdu) Fast disk usage analyzer with console interface written in Go
-- [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
 - [gif-for-cli](https://github.com/google/gif-for-cli) Convert a gif into ASCII
 - [godap](https://github.com/Macmod/godap) A complete TUI for LDAP written in Golang
 - [golazo](https://github.com/0xjuanma/golazo) Get soccer minute-by-minute updates and finished match stats in your terminal
