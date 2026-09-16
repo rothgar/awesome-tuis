@@ -120,6 +120,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
+- [BitFun](https://github.com/GCWing/BitFun) AI coding agent with an interactive Rust/Ratatui TUI for repository work.
 - [blinkenlights](https://github.com/jart/blink) TUI that may be used for debugging x86_64-linux or i8086 programs across platforms
 - [brows](https://github.com/rubysolo/brows) CLI GitHub release browser
 - [burf](https://github.com/razeghi71/burf) TUI for Google Cloud Storage (GCS)
