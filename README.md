@@ -551,6 +551,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [DigiSurf](https://github.com/SeanMcLoughlin/digisurf) A TUI signal waveform viewer
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
+- [dupster](https://github.com/karimz1/dupster) The lazy way to find duplicates in your Terminal. Easily find duplicates, preview them and delete them.
 - [distrobox-tui](https://github.com/phanirithvij/distrobox-tui) TUI for managing distrobox containers
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
