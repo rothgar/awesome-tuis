@@ -274,6 +274,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hexed](https://codeberg.org/quorend/hexed) (Yet another) hex editor.
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [kilo](https://github.com/antirez/kilo) A minimal but complete editor in ~1000 lines of C code.
+- [lazyide](https://github.com/TysonLabs/lazyide) A lightweight terminal IDE in Rust: file tree, tabs, split panes, LSP, git diff view, minimap, 32 themes
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
 - [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
