@@ -521,6 +521,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
+- [tincan](https://github.com/bilalyazicioglu/tincan-cli) Peer-to-peer voice and text chat with no server
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [tuisky](https://github.com/sugyan/tuisky) TUI client for BlueSky
 - [tuix](https://github.com/pythops/tuix) TUI for managing screens
