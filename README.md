@@ -339,6 +339,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [GitType](https://github.com/unhappychoice/gittype) A CLI code-typing game that turns your source code into typing challenges
 - [go-life](https://github.com/sachaos/go-life) Terminal based Conway's Game of Life
 - [gokemon](https://github.com/nathanieltooley/gokemon) A terminal based Pokemon battle simulator
+- [Gravitype](https://github.com/kanakOS01/gravitype) A terminal typing game where words fall from the sky
 - [Greed](https://gitlab.com/esr/greed) A game of consumption. Eat as much as you can before munching yourself into a corner!
 - [LeTrain](https://github.com/antoniovazquezaraujo/LeTrain) - Open-source procedural train simulator using Java 17, LibGDX and Lanterna.
 - [Maze](https://github.com/itchyny/maze) Simple maze game written in Go.
