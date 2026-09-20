@@ -282,6 +282,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [PNANA](https://github.com/Cyxuan0311/PNANA) A modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text.
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
+- [suplemon](https://github.com/leancode/suplemon) Text editor with multiple cursors, in the style of Sublime Text
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [tilde](https://github.com/gphalkes/tilde) Intuitive text editor for the terminal
 - [treemd](https://github.com/Epistates/treemd) A markdown navigator with tree-based structural navigation
