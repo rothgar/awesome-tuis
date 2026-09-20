@@ -178,6 +178,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
+- [pitago](https://github.com/cavaldos/pitago) Polished TUI frontend for the pi agent with streaming chat, sidebar and image support
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 - [pproftui](https://github.com/Oloruntobi1/pproftui) A terminal-based UI for Go's pprof that makes profiling interactive
