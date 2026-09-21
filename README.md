@@ -44,6 +44,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cgdb](https://github.com/cgdb/cgdb) Console front-end to the GNU debugger
 - [chdig](https://github.com/azat/chdig) Dig into ClickHouse with TUI interface
 - [cheatshh](https://github.com/AnirudhG07/cheatshh) A fzf TUI for managing custom made command-line cheatsheet for Unix.
+- [ClarityTop](https://github.com/econovibe/claritytop) A cross-platform system monitor with plain-language diagnostics, history graphs, GPU stats, and 20 themes.
 - [claws](https://github.com/clawscli/claws) A terminal UI for AWS resource management with vim-style keybindings, command-mode navigation, and optional read-only mode.
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
