@@ -724,6 +724,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
 - [gocheat](https://github.com/Achno/gocheat) A beautiful TUI cheatsheet for keybindings,hotkeys,gestures and aliases
+- [gwae](https://github.com/hongnoul/gwae) A scrolling (niri-style) terminal multiplexer where panes never shrink, with a heads-up display for orchestrating AI coding agents
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [helm](https://github.com/0xjuanma/helm) A minimalistic & customizable pomodoro-like timer for your terminal
 - [hledger-ui](https://github.com/simonmichael/hledger) A fast TUI for browsing double entry bookkeeping data
