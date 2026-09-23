@@ -585,6 +585,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oeis-tui](https://github.com/hako/oeis-tui)  A TUI and CLI for browsing the On-Line Encyclopedia of Integer Sequences (OEIS) in the terminal.
 - [oha](https://github.com/hatoo/oha) HTTP load generator
+- [Open File Lock Handle (oflh)](https://github.com/karimz1/open-file-lock-handle) A terminal tool to find locked files and identify which processes are using a file or directory on Windows, Linux, and macOS. Inspect open handles, lock evidence, and process details, then stop the process when needed. All in one simple user-friendly tui cli application. No more remembering cli commands.
 - [packemon](https://github.com/ddddddO/packemon) Packet generator and monitor.
 - [pass-cli](https://github.com/arimxyer/pass-cli) A TUI and CLI password manager with rclone cloud syncing support
 - [passtui](https://github.com/fjmoralesp/passtui) The terminal user interface for **pass**, the standard unix password manager.
