@@ -98,6 +98,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [ticker](https://github.com/achannarasappa/ticker) Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [tmd-top](https://github.com/CDWEN0526/tmd-top) Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
+- [toptop](https://github.com/ur-grue/toptop) htop/btop-class system monitor with a local-LLM view: tokens/sec, VRAM-spill and memory-bandwidth verdicts, NVIDIA + Apple Silicon
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
@@ -274,6 +275,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hexed](https://codeberg.org/quorend/hexed) (Yet another) hex editor.
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
 - [kilo](https://github.com/antirez/kilo) A minimal but complete editor in ~1000 lines of C code.
+- [lazyide](https://github.com/TysonLabs/lazyide) A lightweight terminal IDE in Rust: file tree, tabs, split panes, LSP, git diff view, minimap, 32 themes
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
 - [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
@@ -282,6 +284,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [PNANA](https://github.com/Cyxuan0311/PNANA) A modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text.
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
+- [suplemon](https://github.com/leancode/suplemon) Text editor with multiple cursors, in the style of Sublime Text
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [tilde](https://github.com/gphalkes/tilde) Intuitive text editor for the terminal
 - [treemd](https://github.com/Epistates/treemd) A markdown navigator with tree-based structural navigation
@@ -631,6 +634,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <details open><summary><h2>Multimedia</h2></summary>
 
+- [Absotui](https://github.com/pdwaldrop/absotui) A TUI Audiobookshelf client for Linux and macOS, written in Rust
 - [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
@@ -717,6 +721,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
+- [fuzz.fish](https://github.com/jedipunkz/fuzz.fish) A fuzzy finder for the Fish shell with preview panes for command history, files, git branches, worktrees, and commits
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
 - [gocheat](https://github.com/Achno/gocheat) A beautiful TUI cheatsheet for keybindings,hotkeys,gestures and aliases
