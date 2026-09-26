@@ -180,6 +180,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
+- [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
 - [pproftui](https://github.com/Oloruntobi1/pproftui) A terminal-based UI for Go's pprof that makes profiling interactive
 - [proxelar](https://github.com/emanuele-em/proxelar) Scriptable MITM proxy TUI to inspect, intercept, replay, and rewrite HTTP(S) and WebSocket traffic
@@ -187,7 +188,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
-- [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [qrypad](https://github.com/wheelibin/qrypad) A fast SQL scratchpad for your terminal. 
 - [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
