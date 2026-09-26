@@ -187,6 +187,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
+- [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [qrypad](https://github.com/wheelibin/qrypad) A fast SQL scratchpad for your terminal. 
 - [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
