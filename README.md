@@ -801,6 +801,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Screensavers</h2></summary>
 
 - [astroterm](https://github.com/da-luce/astroterm) A planetarium for your terminal! Explore stars, planets, constellations, and more
+- [cbirds](https://github.com/clainstone/cbirds) A flock of boids in your terminal, in C99 with zero dependencies: braille anywhere, sprites in Kitty and Ghostty
 - [gitlogue](https://github.com/unhappychoice/gitlogue) A TUI screensaver that visualizes Git commit history in your terminal
 - [neo](https://github.com/st3w/neo) Simulates the digital rain from "The Matrix"
 - [pond](https://gitlab.com/alice-lefebvre/pond) A soothing in-terminal idle screen that simulates a little pond.
