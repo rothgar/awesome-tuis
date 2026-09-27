@@ -158,6 +158,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [git-tailor](https://github.com/jordfras/git-tailor) An interactive terminal tool for tidying up Git commits on a branch
 - [gitui](https://github.com/extrawurst/gitui) blazing fast terminal-ui for git written in rust
 - [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
+- [gm](https://github.com/jedipunkz/gm) A ghq-style repository manager TUI with a built-in fuzzy finder, frecency ranking, and git worktree/branch/PR browsing
 - [gitwig](https://github.com/tareqmy/gitwig) - A mouse-drivable git TUI and multi-repo dashboard built in Rust.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
