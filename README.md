@@ -251,6 +251,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) The lazier way to scan images, k8s and the filesytem with Trivy
+- [lfk](https://github.com/janosmiko/lfk) Keyboard-focused, yazi-inspired Kubernetes navigator with a Miller columns layout and an owner-based resource hierarchy
 - [oxker](https://github.com/mrjackwills/oxker) A simple tui to view & control docker containers
 - [Pocker](https://github.com/pommee/Pocker) TUI based application for docker related tasks.
 - [Podman-tui](https://github.com/containers/podman-tui) TUI for Podman containers
