@@ -271,6 +271,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [flow-control](https://github.com/neurocyte/flow) A lightning-fast, feature-rich text editor written in Zig
 - [Fresh](https://github.com/sinelaw/fresh) An easy-to-use, powerful and fast terminal-based text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
+- [Grimoire](https://github.com/kelsierbot/GrimoireTUI) A cozy writing desk for novels: an outline of parts, chapters and scenes, plain Markdown files, and export to Word, EPUB and paperback
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [hexed](https://codeberg.org/quorend/hexed) (Yet another) hex editor.
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
