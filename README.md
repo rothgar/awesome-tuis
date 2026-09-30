@@ -555,6 +555,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
 - [distrobox-tui](https://github.com/phanirithvij/distrobox-tui) TUI for managing distrobox containers
+- [dtflow](https://github.com/KenyonY/dtflow) Terminal browser for LLM training data (SFT/DPO/agent JSONL): samples rendered as conversations, full-file search, Python-expression filters, mouse support, windowed loading for large files.
 - [dupster](https://github.com/karimz1/dupster) The lazy way to find duplicates in your Terminal. Easily find duplicates, preview them and delete them.
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
