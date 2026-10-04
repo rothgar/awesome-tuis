@@ -651,6 +651,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [gadacz](https://github.com/rareitems/gadacz) Audiobook player
 - [GopherTube](https://github.com/krishnassh/gophertube) A terminal-based YouTube client that scrapes YouTube search results and uses mpv for video playback
 - [Gorae](https://github.com/Han8931/gorae) TUI librarian for PDFs and EPUBs with Vim-style navigation.
+- [gtm](https://github.com/prjctimg/gtm) - A feature rich audio player for terminal enthusiasts.
 - [image-sorter](https://github.com/jgalat/image-sorter) Terminal user interface for sorting images using key bindings written in Rust
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
