@@ -785,6 +785,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Toney](https://github.com/SourcewareLab/Toney) a fast, lightweight, terminal-based note-taking app for the modern developer.
 - [topydo](https://github.com/topydo/topydo) A powerful todo list application using the todo.txt format
 - [trx](https://github.com/pie-314/trx) - Terminal package manager with fuzzy search and keyboard-driven package discovery.
+- [Tsuzuri](https://github.com/jaisuriya-11/tsuzuri) A block-based notebook with boards, calendars and charts, stored as plain Markdown files.
 - [ttm](https://github.com/vst93/ttm) SSH bookmark manager with Bubble Tea TUI — connect, manage and sync via Gist
 - [ttyplot](https://github.com/tenox7/ttyplot) A realtime plotting utility for terminals with data input from stdin/pipe.
 - [tui-deck](https://github.com/mebitek/tui-deck) A TUI frontend for Nextcloud Deck app written in GO
