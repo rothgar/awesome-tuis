@@ -308,6 +308,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
 - [fyzenor](https://github.com/Bimbok/fyzenor) A modern, blazing-fast terminal file manager built in C++ with live previews, async workflows, and a polished three-column interface.
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go.
+- [Holos Commander](https://github.com/xls/holos) A two-panel Total Commander-style file manager: archives, disk images, SFTP/FTP/SMB/S3/WebDAV, a streaming viewer and hex inspector.
 - [lf](https://github.com/gokcehan/lf) A terminal file manager written in Go with heavy inspiration from ranger file manager.
 - [mc](https://github.com/MidnightCommander/mc) GNU Midnight Commander. A free cross-platform orthodox file manager.
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
