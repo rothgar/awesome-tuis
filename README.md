@@ -689,6 +689,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tortuise](https://github.com/buildoak/tortuise) Gaussian Splatting 3D viewer in your terminal. 6 render modes, CPU-only via crossterm + rayon
 - [Toutui](https://github.com/AlbanDAVID/Toutui) A TUI Audiobookshelf Client for Linux
 - [Trophy](https://github.com/taigrr/trophy) A TUI 3D Model Viewer for OBJ and GLB files
+- [tubetui](https://github.com/polblancoo/tubetui) YouTube and your local videos and music in the terminal, with tabs, subscriptions and video embedded in kitty via mpv
 - [Tanko](https://github.com/Alexandro521/Tanko) A tool for reading and downloading manga from the terminal, with image rendering support
 - [upiano](https://github.com/eliasdorneles/upiano) A Piano in your terminal
 - [valveFM](https://github.com/zorig/valvefm) Vintage FM radio TUI for streaming stations from radio-browser.info
