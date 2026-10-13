@@ -855,6 +855,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [textual-web](https://github.com/Textualize/textual-web) Run TUIs and terminals in your browser
 - [twterm](https://github.com/ryota-ka/twterm) A full-featured TUI Twitter client
 - [w3m](https://github.com/tats/w3m) A text-mode WWW browser
+- [wr](https://github.com/sazardev/wr) A reader mode and browser for the terminal: extracts the article, renders formatted Markdown with highlighted code, links, history and bookmarks
 
 ---
 
