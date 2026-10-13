@@ -408,6 +408,8 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
 - [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
+- [textual-themes](https://github.com/michaelblaess/textual-themes) 41 retro color themes for Textual apps in **Python**
+- [textual-widgets](https://github.com/michaelblaess/textual-widgets) Reusable widgets for Textual apps in **Python**: date picker, context menu, splitter, log panel and modal dialogs
 - [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
 - [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
 - [Vindauga](https://github.com/gabbpuy/vindauga) A **Python** implementation of the BSD licensed C++ Turbo Vision library.
@@ -676,6 +678,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [Relax-player](https://github.com/ebithril/relax-player) A lightweight, distraction-free alternative to web-based ambient players.
+- [retro-amp](https://github.com/michaelblaess/retro-amp) Retro-styled music player with real-time spectrum visualizer, synced lyrics, playlists and 38 themes
 - [rmpc](https://rmpc.mierak.dev/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
@@ -848,6 +851,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
+- [sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker) Crawls websites and generates sitemap.xml files, with sitemap tree view and crawl history
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
 - [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go.
