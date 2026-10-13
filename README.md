@@ -209,6 +209,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
+- [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) Terminal-native AI agent runtime with parallel subagents, shareable daemon sessions, and any model from Claude to local Ollama
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
