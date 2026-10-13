@@ -610,6 +610,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sbb-tui](https://github.com/necrom4/sbb-tui) TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app.
 - [smassh](https://github.com/kraanzu/smassh) A TUI based typing test application inspired by MonkeyType.
 - [steam_friends_list_tui](https://github.com/AdamWHY2K/steam_friends_list_tui) The steam friends list in the commandline
+- [settings-tui](https://github.com/ziuus/settings-tui) A lightweight, universal Linux Settings Center for your terminal (Rust, D-Bus, PipeWire, BlueZ, Hyprland).
 - [Systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) A program for managing systemd services through a TUI.
 - [tab-pal](https://github.com/ben-n93/tab-pal) Add and edit custom colour palettes in Tableau from the command-line.
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
