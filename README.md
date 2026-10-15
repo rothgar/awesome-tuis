@@ -582,6 +582,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
+- [LazyBW](https://github.com/mntsx/LazyBW) - A TUI for managing Bitwarden vaults, featuring staged edits, synchronization, and encrypted offline access.
 - [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [linecast](https://github.com/ashuttl/linecast) Interactive weather, radar, tides, sun and moon views, a planetarium with stars and constellations, and maps with a rotatable globe for the terminal.
