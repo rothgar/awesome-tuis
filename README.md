@@ -272,6 +272,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [Durdraw](https://github.com/cmang/durdraw) An ASCII, Unicode and ANSI art editor
+- [edamame](https://github.com/mijowi/edamame) A Terminal Markdown editor that stays rendered while you edit
 - [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor.
 - [flow-control](https://github.com/neurocyte/flow) A lightning-fast, feature-rich text editor written in Zig
 - [Fresh](https://github.com/sinelaw/fresh) An easy-to-use, powerful and fast terminal-based text editor.
