@@ -615,6 +615,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tcpterm](https://github.com/sachaos/tcpterm) tcpterm is a packet visualizer in TUI.
 - [term.everything](https://github.com/mmulet/term.everything) Run any GUI app in the terminal
 - [terminalperiodictable](https://github.com/velorek1/terminalperiodictable) A beautiful TUI periodic table for Unix systems coded in C.
+- [TerminalStyles](https://github.com/fcreme/TerminalStyles) Live terminal theme picker that previews each theme in the current tab, with font, opacity and animated backgrounds on Windows Terminal and WezTerm.
 - [termshark](https://github.com/gcla/termshark) Terminal UI for tshark
 - [thokr](https://github.com/coloradocolby/thokr) a sleek typing tui written in rust
 - [tlock](https://github.com/eklairs/tlock) Two-Factor Authentication Tokens Manager in Terminal
