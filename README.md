@@ -505,6 +505,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [endcord](https://github.com/mzivic7/endcord) Feature rich Discord TUI client.
+- [gmessages-tui](https://github.com/louisrubet/gmessages-tui) Full-featured Google Messages client
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
 - [gomuks](https://github.com/tulir/gomuks) Matrix client
 - [gurk-rs](https://github.com/boxdot/gurk-rs) Signal Messenger client for terminal
@@ -527,6 +528,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
+- [signal-tui](https://github.com/louisrubet/signal-tui) Full-featured signal client
 - [Slack-term](https://github.com/erroneousboat/slack-term) Slack client for your terminal
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
