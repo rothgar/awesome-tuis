@@ -165,6 +165,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
+- [Herduck](https://github.com/wenhanweime/herduck) Terminal workspace for coding agents (derived from Herdr) that groups sessions from Claude Code, Codex, OpenCode and others into one Work with a saved goal, blocker and next step
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
