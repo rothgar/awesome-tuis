@@ -681,6 +681,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
 - [sgram-tui](https://github.com/arian-shamaei/sgram-tui) Calibrated spectrogram analyzer for live mic or audio files, with labeled PNG figure export and a headless render mode
 - [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
+- [sonora-tui](https://github.com/ColinTenaguillo/sonora-tui) A terminal music player for TIDAL, Spotify, Apple Music, Deezer, YouTube Music, Subsonic and local files, written in Rust
 - [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
 - [spotatui](https://github.com/LargeModGames/spotatui) Spotify client with native streaming, synced lyrics, and real-time audio visualization
 - [spotify-player](https://github.com/aome510/spotify-player) A Spotify player in the terminal with full feature parity
