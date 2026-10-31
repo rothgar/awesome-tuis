@@ -465,6 +465,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <h3>Rust</h3>
 
+- [AppCUI-rs](https://github.com/gdt050579/AppCUI-rs) Cross-platform **Rust** TUI framework   with overlapping windows, menus, dialogs and 50+ built-in controls (lists, trees, charts, date pickers, hex viewer), themes and mouse support.
 - [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
 - [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
 - [Ratatui Kit](https://github.com/yexiyue/ratatui-kit) **Rust** crate that allows for the creation of React-like components built on top of Ratatui.
