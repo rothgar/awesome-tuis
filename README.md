@@ -211,6 +211,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
+- [therapist](https://github.com/M-Komorek/therapist) - A lightweight TUI log viewer for multi-GB files with bookmarks, grep tabs and phrase highlights.
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [Toad](https://github.com/batrachianai/toad) A unified interface for AI
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
