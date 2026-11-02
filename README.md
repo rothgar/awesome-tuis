@@ -163,6 +163,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [gitv](https://github.com/jayanaxhf/gitv): A beautiful, feature-rich and performant terminal client for GitHub issues.
 - [gitwig](https://github.com/tareqmy/gitwig) - A mouse-drivable git TUI and multi-repo dashboard built in Rust.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
+- [GhostBase](https://github.com/4yk5/GhostBase) Fast, keyboard-driven terminal database studio for SQLite, PostgreSQL, and MySQL
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
 - [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
