@@ -78,6 +78,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [Orbit](https://github.com/ziuus/orbit-tui) Extensible keyboard-driven developer dashboard and system monitor written in Rust with WASM plugins
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
 - [Planor](https://github.com/mrusme/planor) The Cloud Aviator, dashboard for AWS, Vultr, Heroku, ...
@@ -608,6 +609,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [redu](https://github.com/drdo/redu) ncdu for your restic repository that manages exclusion lists to prune files from existing repos and skip new ones
 - [rocket.term](https://github.com/gerstner-hub/rocket.term) Text based chat client for the Rocket.chat messaging solution.
 - [sbb-tui](https://github.com/necrom4/sbb-tui) TUI client for Switzerland's public transport timetables, inspidered by the SBB/CFF/FFS app.
+- [settings-tui](https://github.com/ziuus/settings-tui) Unified native control center for Linux power users to manage network, audio, displays, bluetooth, and systemd
 - [smassh](https://github.com/kraanzu/smassh) A TUI based typing test application inspired by MonkeyType.
 - [steam_friends_list_tui](https://github.com/AdamWHY2K/steam_friends_list_tui) The steam friends list in the commandline
 - [Systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) A program for managing systemd services through a TUI.
