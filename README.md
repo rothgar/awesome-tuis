@@ -451,6 +451,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [casciian](https://github.com/crramirez/casciian) A Text User Interface Library for **Java** based on "Jexer" without the AWT/Swing dependencies, tailored for GraalVM AOT native compilation with a focus on performance over remote connections and maximum terminal compatibility.
 - [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) A **Java** library implements a text-based windowing system loosely reminiscent of Borland's Turbo Vision system.
 - [Lanterna](https://github.com/mabe02/lanterna) A **Java** library for creating text-based UIs, very similar to the C library curses but with more functionality.
+- [TamboUI](https://github.com/tamboui/tamboui) A **Java** library for building modern terminal user interfaces. Initial port of Ratatui but have higher level inspiration from Textual providing super effecient immediate mode but also a toolkit with Cascading Style Sheets (CSS) and big library of reusable components.
 - [TUI4J](https://github.com/WilliamAGH/tui4j) A **Java** terminal UI framework with a Bubble Tea (Go) port and additional features inspired by Textual.
 
 <h3>.NET</h3>
