@@ -210,6 +210,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
+- [sweep](https://github.com/kanywst/sweep) Find the dev servers you left running, grouped by the directory they were started from, and stop them along with their npm/pnpm launchers
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
