@@ -307,6 +307,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [broot](https://github.com/Canop/broot) A new way to see and navigate directory trees
 - [deletor](https://github.com/pashkov256/deletor) Manage and delete files efficiently with an interactive TUI and scriptable CLI.
+- [elio](https://github.com/elio-fm/elio) Snappy, batteries-included terminal file manager.
 - [far2l](https://github.com/elfmz/far2l) Linux port of Far v2 file manager
 - [FileView](https://github.com/Hiro-Chiba/fileview) A terminal file browser with image previews, Git status, search, and an MCP server.
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
