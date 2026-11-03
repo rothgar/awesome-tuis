@@ -759,6 +759,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [longbridge-terminal](https://github.com/longbridge/longbridge-terminal) AI-native TUI for Longbridge Securities: real-time quotes, portfolio management, and trading for HK/US/A-share/SG markets.
 - [lssh](https://github.com/blacknon/lssh) A terminal-native remote access suite for SSH workflows, including interactive host selection, parallel commands, mux workspaces, file transfer, sync, diff, forwarding, and multi-host monitoring.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [monolog](https://github.com/maksmas/monolog) Keyboard-driven personal backlog stored as one JSON file per task in a git repo you own, with conflict-free sync across devices
 - [multranslate](https://github.com/Lifailon/multranslate) A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
 - [nless](https://github.com/mpryor/nothing-less) Terminal pager for exploring tabular data with vi keybindings and automatic delimiter inference
