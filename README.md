@@ -719,6 +719,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 - [abook](https://abook.sourceforge.io/) TUI addressbook with [mutt](http://www.mutt.org/) integration
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) Terminal dashboard for managing multiple AI coding agent sessions
+- [ankiweb-cli](https://github.com/sameerbajaj/ankiweb-cli) Terminal-native Anki card generation, study, and AnkiWeb cloud sync with built-in MCP server.
 - [awsui](https://github.com/junminhong/awsui) A powerful, user-friendly terminal interface for AWS Profile and SSO management.
 - [Bada](https://github.com/Han8931/bada) A minimalist, Vim-first task manager designed to help you focus without distraction.
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
@@ -733,11 +734,13 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
+- [elevenreader](https://github.com/sameerbajaj/elevenreader) Fast command-line reader client for ElevenReader with library management and stream parsing.
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [fuzz.fish](https://github.com/jedipunkz/fuzz.fish) A fuzzy finder for the Fish shell with preview panes for command history, files, git branches, worktrees, and commits
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
 - [Glow](https://github.com/charmbracelet/glow) A markdown reader, designed from the ground up to showcase the elegance and capabilities of TUI.
+- [goodreads-cli](https://github.com/sameerbajaj/goodreads-cli) Goodreads terminal client and MCP server for book discovery, metadata enrichment, and shelf management.
 - [gocheat](https://github.com/Achno/gocheat) A beautiful TUI cheatsheet for keybindings,hotkeys,gestures and aliases
 - [h-m-m](https://github.com/nadrad/h-m-m) Hackers Mind Map
 - [helm](https://github.com/0xjuanma/helm) A minimalistic & customizable pomodoro-like timer for your terminal
