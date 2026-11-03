@@ -505,6 +505,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [basalt](https://github.com/erikjuhani/basalt) TUI Application to manage Obsidian vaults and notes directly from the terminal.
 - [concord](https://github.com/chojs23/concord) A feature-rich TUI client for Discord
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
+- [dexchat](https://dexchat.org) A modern TUI IRC client for your terminal.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [endcord](https://github.com/mzivic7/endcord) Feature rich Discord TUI client.
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
