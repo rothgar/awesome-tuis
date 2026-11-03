@@ -145,6 +145,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [dbterm](https://github.com/shreyam1008/dbterm) Terminal database workbench for PostgreSQL, MySQL, SQLite, Turso, and Cloudflare D1
 - [ddqa](https://github.com/DataDog/ddqa) Jira TUI to help with software releases
 - [ddv](https://github.com/lusingander/ddv) Terminal DynamoDB viewer
+- [deja-vu](https://github.com/vshulcz/deja-vu) Full-text search and cross-agent memory TUI across 43 AI coding agents
 - [delta](https://github.com/dandavison/delta) A syntax-highlighting pager for git, diff, and grep output
 - [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
 - [DevProjex](https://github.com/Avazbek22/DevProjex) A cross-platform TUI for exploring project trees, selecting files, previewing AI-ready context, and exporting structured codebase snapshots.
