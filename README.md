@@ -89,6 +89,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pstop](https://github.com/marlocarlo/pstop) htop-style system monitor for Windows with per-core CPU bars, tree view, and 7 color schemes.
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
+- [RunWisp](https://github.com/runwisp/runwisp) Cron job manager and process supervisor with a TUI for live output and run history
 - [rustnet](https://github.com/domcyrus/rustnet) A cross-platform network monitoring tool with deep packet inspection
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sacha](https://github.com/Sachamama/sacha) A two-pane AWS TUI for browsing, searching, and managing resources across seven services including CloudWatch Logs, S3, DynamoDB, Lambda, SSM, SQS, and EC2.
