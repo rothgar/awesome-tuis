@@ -780,6 +780,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [ssh-slides](https://github.com/ivantsepp/ssh-slides) Terminal-based presentations over SSH
 - [sshm](https://github.com/gu1llaum-3/sshm) SSH made easy and fast: browse, connect, and control from your terminal with a modern TUI
+- [Suvadu](https://github.com/AppachiTech/suvadu) Shell history search for Zsh and Bash that also records the commands AI coding agents run
 - [Tabiew](https://github.com/shshemi/tabiew) A lightweight app to view and query tabular data files, such as CSV, TSV, and parquet.
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
