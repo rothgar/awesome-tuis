@@ -183,6 +183,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
+- [pho](https://github.com/utkarsh261/pho) Review, comment on and merge GitHub pull requests from the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
