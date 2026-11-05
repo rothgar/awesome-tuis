@@ -829,6 +829,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <details open><summary><h2>Web</h2></summary>
 
+- [Ario](https://github.com/peymanAzad/ario) - A terminal download manager powered by aria2, with scheduled queues, daemon, batch clipboard imports, and BitTorrent support.
 - [bombadillo](https://bombadillo.colorfield.space/) A TUI browser for the non-web: Gopher, Gemini, Finger
 - [browsh](https://github.com/browsh-org/browsh) A fully-modern text-based browser, rendering to TTY and browsers
 - [bulletty](https://github.com/CrociDB/bulletty) A pretty feed reader (ATOM/RSS) that stores articles in Markdown files
