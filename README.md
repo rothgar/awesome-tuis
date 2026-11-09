@@ -335,6 +335,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
 - [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
+- [bell-system-sim](https://github.com/WPTK/bell-system-sim) Work a Bell System repair test desk in 1983 from a fake UNIX V7 shell and close out phone trouble reports
 - [botany](https://github.com/jifunks/botany/) Virtual plant buddy
 - [brickgame-4bit](https://github.com/ilyakurdyukov/brickgame-4bit) Brick Game emulator (4-bit Holtek chip)
 - [BrogueCE](https://github.com/tmewett/BrogueCE) Beautiful roguelike dungeon crawler
