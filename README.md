@@ -533,6 +533,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
+- [tele](https://github.com/sorokin-vladimir/tele) - A keyboard-first Telegram client with a TUI, CLI and background daemon
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [toxic](https://github.com/JFreegman/toxic/) A Tox-based instant messaging and video chat client
