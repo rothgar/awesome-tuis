@@ -169,6 +169,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
+- [killi](https://github.com/timwuhaotian/killi) Rust terminal AI coding agent, 7 MB binary, ~18 MB RAM, prompt-cache friendly
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
