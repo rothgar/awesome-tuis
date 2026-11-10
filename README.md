@@ -803,7 +803,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tuidict](https://github.com/404Simon/tuidict) Fast offline dictionary with in-app downloads and multi-language support from FreeDict
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [TUIOS](https://github.com/Gaurav-Gosain/tuios) A TUI window manager for managing multiple terminal sessions
-- [tuiserial](https://github.com/Horldsence/tuiserial) TUI Serial Port Tool for Edge Computing Devices
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
