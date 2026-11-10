@@ -727,6 +727,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
+- [clingon](https://github.com/con-dog/clingon) Markdown cheat sheets you can run: a command menu beside your real shell in a tmux split. macOS.
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
 - [doxx](https://github.com/bgreenwell/doxx) A TUI document viewer for Microsoft Word files
