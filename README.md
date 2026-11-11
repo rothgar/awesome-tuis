@@ -591,6 +591,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [moc](https://moc.daper.net/download) console audio player
+- [Mole](https://github.com/tw93/Mole) Clean caches and app leftovers, uninstall apps, and browse disk usage and live system stats in interactive TUIs on macOS and Windows
 - [moribito](https://github.com/ericschmar/moribito) Browse LDAP directory trees, viewing records, and executing custom queries.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
 - [NanoCore](https://github.com/AfaanBilal/NanoCore) An 8-bit CPU emulator TUI written in Rust with an assembler and a custom ISA.
