@@ -149,6 +149,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [deputui](https://github.com/twiddler/deputui) Review and install NPM package updates
 - [DevProjex](https://github.com/Avazbek22/DevProjex) A cross-platform TUI for exploring project trees, selecting files, previewing AI-ready context, and exporting structured codebase snapshots.
 - [differ](https://github.com/JanSmrcka/differ) A TUI git diff viewer
+- [diffler](https://github.com/matheusfillipe/diffler) A magit-style git TUI where you stage, review pull requests and CI, and leave comments in the diff for your coding agent to answer
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
