@@ -439,6 +439,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
 - [GGUI](https://github.com/Gabidal/GGUI) **C++17** Structured Terminal User Interface. 🐧/🪟
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
+- [koto](https://github.com/saber-88/koto) A modern, zero dependency immediate mode **C++23** TUI library. 
 - [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies.
 - [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
 - [Tui Widgets](https://github.com/tuiwidgets/tuiwidgets) A high-level widget based toolkit for terminal applications in **C++**
