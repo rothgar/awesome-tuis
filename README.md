@@ -332,6 +332,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <details open><summary><h2>Games</h2></summary>
 
+- [Asciiverse](https://github.com/theasciiverse/av) A home for terminal games old and new: browse 296 titles, watch their previews, then install and play.
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
 - [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
