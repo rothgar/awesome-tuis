@@ -317,6 +317,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nnn](https://github.com/jarun/nnn) n³ The unorthodox terminal file manager.
 - [ntc](https://codeberg.org/ItsZariep/ntc) Ncurses Tabbed file Chooser.
 - [ranger](https://github.com/ranger/ranger) A VIM-inspired file manager for the console.
+- [ratclone](https://github.com/SyscallBrain/ratclone) Dual-pane TUI for rclone remotes with background transfers
 - [rovr](https://github.com/NSPC911/rovr) A post-modern terminal file manager.
 - [s3duck-tui](https://github.com/nexusriot/s3duck-tui) A TUI S3 client.
 - [sfm](https://github.com/afify/sfm) Simple file manager.
@@ -584,6 +585,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
+- [lazybw](https://github.com/SyscallBrain/lazybw) Keyboard-first TUI for the Bitwarden vault
 - [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
 - [linecast](https://github.com/ashuttl/linecast) Interactive weather, radar, tides, sun and moon views, a planetarium with stars and constellations, and maps with a rotatable globe for the terminal.
@@ -627,6 +629,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tui-shop](https://github.com/Gcat101/tui-shop) Something between a CLI and a GUI way of downloading TUIs/CLIs
 - [tweakcc](https://github.com/Piebald-AI/tweakcc) TUI to customize your Claude Code themes, thinking verbs, and more.
 - [typtea](https://github.com/ashish0kumar/typtea) Minimal terminal-based typing speed tester with support for dozens of programming languages.
+- [virsh-tui](https://github.com/SyscallBrain/virsh-tui) Keyboard-driven TUI for libvirt virtual machines with vim keys and live graphs
 - [vortix](https://github.com/Harry-kp/vortix) Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch.
 - [wavemon](https://github.com/uoaerg/wavemon) A wireless device monitoring application
 - [wb](https://github.com/MertGunduz/wb) A TUI vocabulary notebook app for Linux based devices.
