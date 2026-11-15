@@ -137,6 +137,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Cloudeval](https://github.com/ganakailabs/cloudeval-cli) Interactive cloud evaluations and reviews with project context, report views, and chat sessions. Supports Azure and static AWS CloudFormation (beta); requires a Cloudeval account.
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
 - [codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
+- [Concerto](https://github.com/RemiPelloux/Concerto) Split a coding request into scored stories and route each to Claude Code, Codex or pi, with a critic reviewing every story
 - [crush](https://github.com/charmbracelet/crush) The glamourous AI coding agent
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
