@@ -526,6 +526,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
 - [nostui](https://github.com/akiomik/nostui) Nostr client
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
+- [rtg](https://github.com/bercly0b/rtg) Fast, vim-like Telegram TUI client written in Rust, built on TDLib
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
