@@ -594,6 +594,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [moribito](https://github.com/ericschmar/moribito) Browse LDAP directory trees, viewing records, and executing custom queries.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
 - [NanoCore](https://github.com/AfaanBilal/NanoCore) An 8-bit CPU emulator TUI written in Rust with an assembler and a custom ISA.
+- [nbtui](https://codeberg.org/ItsZariep/nbtui) Ncurses Bluetooth TUI Manager for Linux
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
