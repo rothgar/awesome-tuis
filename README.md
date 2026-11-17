@@ -339,6 +339,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [brickgame-4bit](https://github.com/ilyakurdyukov/brickgame-4bit) Brick Game emulator (4-bit Holtek chip)
 - [BrogueCE](https://github.com/tmewett/BrogueCE) Beautiful roguelike dungeon crawler
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) A bonsai tree generator
+- [CHAOS RPG](https://github.com/Mattbusel/chaos-rpg) A roguelike where every hit, heal and loot drop is decided by chaining real math (Lorenz attractor, Mandelbrot set, Collatz)
 - [chess-tui](https://github.com/thomas-mauran/chess-tui) Play Chess in your terminal, built in rust
 - [cli-chess](https://github.com/trevorbayless/cli-chess) A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 - [clidle](https://github.com/ajeetdsouza/clidle) Play Wordle in your terminal. Also works over SSH!
