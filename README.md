@@ -253,6 +253,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kftui](https://github.com/hcavarsan/kftray) A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
+- [layerx](https://github.com/deveshctl/layerx) Inspect container image layers in an interactive TUI with filesystem diffs, inline file viewing, and file extraction; supports Docker, Podman, and OCI archives
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) The lazier way to scan images, k8s and the filesytem with Trivy
