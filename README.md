@@ -852,6 +852,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
+- [sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker) Crawls websites and generates sitemap.xml files, with sitemap tree view and crawl history
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
 - [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go.
