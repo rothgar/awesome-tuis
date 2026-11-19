@@ -402,6 +402,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Argenta](https://github.com/koloideal/Argenta) Library for building modular applications **Python**
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
+- [flexablelib](https://github.com/Opus-Perpetuus/flexablelib) Dependency-free **Python** library for terminal tables with 56 border styles, colours, cell merges and decimal alignment.
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
 - [py_cui](https://github.com/jwlodek/py_cui) **Python** library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
