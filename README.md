@@ -731,6 +731,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) A TUI budget tracker app designed to track income, expenses, investments, budget goals and visualize / gather insights.
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [christophorus](https://github.com/michaelblaess/christophorus) Vehicle logbook with trips, odometer chain, plausibility checks and export to Excel, PDF, JSON or Markdown
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
