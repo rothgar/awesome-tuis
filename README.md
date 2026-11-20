@@ -96,6 +96,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ServerHub](https://github.com/nickprotop/ServerHub) A TUI server monitoring dashboard for Linux with real-time metrics, scriptable widgets, and remote management
 - [Servonaut](https://github.com/zb-ss/servonaut) A TUI for managing AWS, Hetzner, OVH and custom SSH servers with log viewing, CloudWatch/CloudTrail browsing, IP banning, AI log analysis and a built-in MCP server
 - [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
+- [SwordCheck](https://github.com/SwordSec/SwordCheck) A read-only security check-up for macOS: security settings audit with a scored report, known vulnerability lookups, malicious npm package scanning and stray API key detection, in one Rust CLI with a TUI dashboard
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
 - [tdash](https://github.com/jessfraz/tdash) A terminal dashboard with stats from Google Analytics, GitHub, Travis CI, and Jenkins. Very much built specific to me
