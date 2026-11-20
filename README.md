@@ -225,6 +225,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [y509](https://github.com/kanywst/y509) Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers
 - [ygrep](https://github.com/yetidevworks/ygrep) A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants
+- [zlodev](https://github.com/vandot/zlodev) Local dev HTTPS front door: `*.lo` domains with real certs, multi-app routing, and a TUI to inspect, intercept and replay traffic
 
 ---
 
