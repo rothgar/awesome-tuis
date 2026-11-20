@@ -56,6 +56,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [flowrs](https://github.com/jvanbuel/flowrs) A TUI for monitoring, inspecting and managing Apache Airflow DAGs
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
+- [g5a](https://github.com/gengwg/g5a) Read-only terminal UI for live Grafana dashboards, with variables, repeated panels, and Braille time-series charts.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) A rich terminal UI for GitHub PRs and Issues
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Gloomberb](https://github.com/vincelwt/gloomberb) Open-source finance terminal for portfolios, watchlists, charts, news, research, and broker connections.
