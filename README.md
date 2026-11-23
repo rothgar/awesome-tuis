@@ -219,6 +219,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [snips.sh](https://github.com/robherley/snips.sh) ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
+- [SpurCode](https://github.com/getspur/SpurCode) Rust TUI control tower that turns tasks into DAG plans and orchestrates a fleet of coding agents (Claude Code, Codex, Gemini, Kimi, OpenCode, ACP) in isolated git worktrees
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
 - [sshs](https://github.com/quantumsheep/sshs) Terminal user interface for SSH
