@@ -177,8 +177,8 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
-- [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
+- [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
@@ -236,7 +236,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
 - [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
-- [wlctl](https://github.com/aashish-thapa/wlctl) TUI for managing wifi, ethernet and vpn on Linux with Network Manager
 - [y509](https://github.com/kanywst/y509) Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers
 - [ygrep](https://github.com/yetidevworks/ygrep) A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants
 
@@ -525,7 +524,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [basalt](https://github.com/erikjuhani/basalt) TUI Application to manage Obsidian vaults and notes directly from the terminal.
 - [concord](https://github.com/chojs23/concord) A feature-rich TUI client for Discord
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
-- [dexchat](https://dexchat.org) A modern TUI IRC client for your terminal.
+- [dexchat](https://github.com/dexchat/dex) A modern TUI IRC client for your terminal.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [endcord](https://github.com/mzivic7/endcord) Feature rich Discord TUI client.
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
@@ -656,6 +655,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WG Commander](https://github.com/andrianbdn/wg-cmd) A TUI for a simple WireGuard VPN setup: peer management, QR codes, setup wizard.
 - [wifitui](https://github.com/shazow/wifitui) Fast featureful friendly wifi terminal UI, supports NetworkManager and iwd over dbus.
 - [WifUI](https://github.com/sohamw03/wifui) TUI for managing Wi-Fi connections on Windows natively (Rust)
+- [wlctl](https://github.com/aashish-thapa/wlctl) TUI for managing wifi, ethernet and vpn on Linux with Network Manager
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
