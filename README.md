@@ -708,6 +708,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
 - [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your \*arr servers
+- [mangap](https://github.com/hongnoul/mangap) Terminal manga reader that renders pages as real images over the kitty graphics protocol, with live search and Anilist sync.
 - [manga-tui](https://github.com/josueBarretogit/manga-tui) Terminal-based manga reader and downloader with image rendering support
 - [marstui-audio](https://github.com/schooldanlp6/marstui-rustio) A nice audio management Interface, similar to pavucontrol with the benefit of customizing everything
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
