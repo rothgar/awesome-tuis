@@ -12,6 +12,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 ## Table of Contents
 
+- [AI Agents](#ai-agents)
 - [Dashboards](#dashboards)
 - [Development](#development)
 - [Docker/LXC/K8s](#dockerlxck8s)
@@ -25,6 +26,39 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Productivity](#productivity)
 - [Screensavers](#screensavers)
 - [Web](#web)
+
+<details open><summary><h2>AI Agents</h2></summary>
+
+- [AgenC Core](https://github.com/tetsuo-ai/agenc-core) Open source AI coding agent with a terminal UI that works with any model provider
+- [agent-deck](https://github.com/asheshgoplani/agent-deck) Terminal dashboard for managing multiple AI coding agent sessions
+- [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
+- [Brief](https://github.com/WilliamAGH/brief) Terminal-first OpenAI chat client with slash-command palette and local tool execution.
+- [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge) Real-time multi-AI collaboration between Claude, Codex and Gemini in terminal
+- [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
+- [clausona](https://github.com/larcane97/clausona) Switch Claude Code and Codex accounts with conversation history kept across them, route runs by plan usage, and manage each account's skills, MCP servers and hooks
+- [codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
+- [crush](https://github.com/charmbracelet/crush) The glamourous AI coding agent
+- [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
+- [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
+- [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
+- [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
+- [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
+- [lilbee](https://github.com/tobocop2/lilbee) A local model engine with a search engine and web crawler built in: chat with your files, notes, code, and crawled sites on your own GPUs, with answers that cite the source line
+- [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes
+- [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
+- [Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2) Open-source AI coding agent with a full-screen terminal UI that reads, edits and tests code with permission prompts
+- [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
+- [qmax-code](https://github.com/Quality-Max/qmax-code) QA-focused AI terminal agent written in Go, with standalone repository workflows and optional QualityMax integration.
+- [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
+- [SpurCode](https://github.com/getspur/SpurCode) Rust TUI control tower that turns tasks into DAG plans and orchestrates a fleet of coding agents (Claude Code, Codex, Gemini, Kimi, OpenCode, ACP) in isolated git worktrees
+- [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) Terminal-native AI agent runtime with parallel subagents, shareable daemon sessions, and any model from Claude to local Ollama
+- [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
+- [Toad](https://github.com/batrachianai/toad) A unified interface for AI
+- [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
+
+---
+
+</details>
 
 <details open><summary><h2>Dashboards</h2></summary>
 
@@ -76,7 +110,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
 - [lazyslurm](https://github.com/hill/lazyslurm) A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
-- [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes
 - [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
 - [metropolis](https://github.com/5c0/metropolis) A cyberpunk system monitor that turns kernel metrics into a living terminal skyline
@@ -130,9 +163,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Development</h2></summary>
 
 - [act3](https://github.com/dhth/act3) Glance at the last 3 runs of your Github Actions
-- [AgenC Core](https://github.com/tetsuo-ai/agenc-core) Open source AI coding agent with a terminal UI that works with any model provider
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
-- [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 - [austin-tui](https://github.com/P403n1x87/austin-tui) The top-like text-based user interface for Austin
 - [blinkenlights](https://github.com/jart/blink) TUI that may be used for debugging x86_64-linux or i8086 programs across platforms
@@ -141,14 +172,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cargo-seek](https://github.com/tareqimbasher/cargo-seek) A TUI for searching, adding and installing cargo crates
 - [catalyst](https://github.com/PraveenGongada/catalyst) Elegant TUI for triggering GitHub Actions workflows with matrix configurations.
 - [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
-- [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge) Real-time multi-AI collaboration between Claude, Codex and Gemini in terminal
-- [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
-- [clausona](https://github.com/larcane97/clausona) Switch Claude Code and Codex accounts with conversation history kept across them, route runs by plan usage, and manage each account's skills, MCP servers and hooks
 - [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [Cloudeval](https://github.com/ganakailabs/cloudeval-cli) Interactive cloud evaluations and reviews with project context, report views, and chat sessions. Supports Azure and static AWS CloudFormation (beta); requires a Cloudeval account.
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
-- [codex](https://github.com/openai/codex) Lightweight coding agent that runs in your terminal
-- [crush](https://github.com/charmbracelet/crush) The glamourous AI coding agent
 - [csope](https://github.com/agvxov/csope) C source code browser based on cscope
 - [CuTE](https://github.com/PThorpe92/CuTE) TUI to help build, execute and save curl commands, recursively download from remote sources, test your API endpoints, and mange your keys
 - [dbee](https://github.com/murat-cileli/dbee) Fast & Minimalistic Database Browser
@@ -163,7 +189,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
 - [every-other-token](https://github.com/Mattbusel/Every-Other-Token) Streams an LLM response and colours each token by the model's confidence, with perplexity and the top alternatives in a full-screen view
-- [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
@@ -178,11 +203,8 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [gitwig](https://github.com/tareqmy/gitwig) - A mouse-drivable git TUI and multi-repo dashboard built in Rust.
 - [grv](https://github.com/rgburke/grv) Terminal interface for viewing git repositories
 - [harlequin](https://github.com/tconbeer/harlequin) The SQL IDE for Your Terminal
-- [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
-- [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
-- [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
@@ -192,12 +214,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [logradar](https://github.com/nanook72/logradar) A fast Rust TUI for interactive log filtering and highlighting.
 - [logshark](https://github.com/ugosan/logshark) A debugger CLI for JSON logs written in Go
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
-- [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
-- [Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2) Open-source AI coding agent with a full-screen terminal UI that reads, edits and tests code with permission prompts
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
-- [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
 - [pho](https://github.com/utkarsh261/pho) Review, comment on and merge GitHub pull requests from the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
@@ -208,10 +227,8 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
-- [qmax-code](https://github.com/Quality-Max/qmax-code) QA-focused AI terminal agent written in Go, with standalone repository workflows and optional QualityMax integration.
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [qrypad](https://github.com/wheelibin/qrypad) A fast SQL scratchpad for your terminal. 
-- [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
 - [rainfrog](https://github.com/achristmascarl/rainfrog) A database management TUI for Postgres, MySQL, and SQLite written in Rust
 - [raygun](https://github.com/yetidevworks/raygun) A terminal receiver for Spatie's Ray debugger, speaking the same HTTP protocol as the desktop app, for PHP, Laravel and Grav
 - [regex-tui](https://github.com/vitor-mariano/regex-tui) A simple TUI to visualize and test regular expressions
@@ -224,24 +241,20 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [snips.sh](https://github.com/robherley/snips.sh) ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
-- [SpurCode](https://github.com/getspur/SpurCode) Rust TUI control tower that turns tasks into DAG plans and orchestrates a fleet of coding agents (Claude Code, Codex, Gemini, Kimi, OpenCode, ACP) in isolated git worktrees
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
 - [sshs](https://github.com/quantumsheep/sshs) Terminal user interface for SSH
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
-- [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) Terminal-native AI agent runtime with parallel subagents, shareable daemon sessions, and any model from Claude to local Ollama
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
 - [therapist](https://github.com/M-Komorek/therapist) - A lightweight TUI log viewer for multi-GB files with bookmarks, grep tabs and phrase highlights.
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
-- [Toad](https://github.com/batrachianai/toad) A unified interface for AI
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
 - [toolui](https://github.com/jinek/ToolUI) Dotnet core application to manage installed nuget tools
 - [turbostream](https://github.com/turboline-ai/turbostream) Tool to extract key signals from high-velocity streaming data using AI Agents
 - [Twig](https://github.com/workdone0/twig) Terminal UI for interactively exploring JSON and YAML files.
 - [vctui](https://github.com/thebsdbox/vctui) Console interface for vCenter
 - [violet](https://github.com/braheezy/violet) Colorful TUI frontend to run Vagrant commands
-- [VT Code](https://github.com/vinhnx/vtcode) VT Code - Semantic Coding Agent
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [y509](https://github.com/kanywst/y509) Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers
 - [ygrep](https://github.com/yetidevworks/ygrep) A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants
@@ -762,11 +775,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Productivity</h2></summary>
 
 - [abook](https://abook.sourceforge.io/) TUI addressbook with [mutt](http://www.mutt.org/) integration
-- [agent-deck](https://github.com/asheshgoplani/agent-deck) Terminal dashboard for managing multiple AI coding agent sessions
 - [awsui](https://github.com/junminhong/awsui) A powerful, user-friendly terminal interface for AWS Profile and SSO management.
 - [Bada](https://github.com/Han8931/bada) A minimalist, Vim-first task manager designed to help you focus without distraction.
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
-- [Brief](https://github.com/WilliamAGH/brief) Terminal-first OpenAI chat client with slash-command palette and local tool execution.
 - [budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) A TUI budget tracker app designed to track income, expenses, investments, budget goals and visualize / gather insights.
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
@@ -778,7 +789,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
 - [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
-- [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [fuzz.fish](https://github.com/jedipunkz/fuzz.fish) A fuzzy finder for the Fish shell with preview panes for command history, files, git branches, worktrees, and commits
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
@@ -801,7 +811,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [LazySSH](https://github.com/adembc/lazyssh) TUI SSH manager to browse, connect, and manage servers from ssh config files.
 - [leetrs](https://github.com/shadowmkj/leetrs) A blazing-fast, Rust-powered TUI and engine for solving LeetCode problems from the terminal
 - [levite](https://github.com/RauliL/levite) A TUI spreadsheet application that uses an RPN formulas and features a vi-friendly interface
-- [lilbee](https://github.com/tobocop2/lilbee) A local model engine with a search engine and web crawler built in: chat with your files, notes, code, and crawled sites on your own GPUs, with answers that cite the source line
 - [linear-tui](https://github.com/roeyazroel/linear-tui) A terminal user interface for Linear built with Go and tview.
 - [longbridge-terminal](https://github.com/longbridge/longbridge-terminal) AI-native TUI for Longbridge Securities: real-time quotes, portfolio management, and trading for HK/US/A-share/SG markets.
 - [lssh](https://github.com/blacknon/lssh) A terminal-native remote access suite for SSH workflows, including interactive host selection, parallel commands, mux workspaces, file transfer, sync, diff, forwarding, and multi-host monitoring.
@@ -833,7 +842,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
 - [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
-- [tenere](https://github.com/pythops/tenere) A TUI for ChatGPT written in Rust.
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
 - [tmux](https://github.com/tmux/tmux) Terminal multiplexer
