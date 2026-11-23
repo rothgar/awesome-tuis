@@ -1,0 +1,25 @@
+name: Repository Audit
+
+on:
+  schedule:
+    - cron: '23 7 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: repo-audit
+  cancel-in-progress: false
+
+jobs:
+  repo-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit listed repositories and update the audit issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 .github/src/repo_audit.py
