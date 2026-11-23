@@ -227,6 +227,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) Terminal-native AI agent runtime with parallel subagents, shareable daemon sessions, and any model from Claude to local Ollama
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
+- [therapist](https://github.com/M-Komorek/therapist) - A lightweight TUI log viewer for multi-GB files with bookmarks, grep tabs and phrase highlights.
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [Toad](https://github.com/batrachianai/toad) A unified interface for AI
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
