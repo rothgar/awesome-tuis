@@ -29,6 +29,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Dashboards</h2></summary>
 
 - [AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) A TUI dashboard for monitoring real-time traffic from an AdGuard Home instance
+- [ADSB-TUI](https://github.com/WPTK/ADSB-TUI) Watch planes from your own readsb or dump1090-fa receiver, sortable table next to a radar scope
 - [apachetop](https://github.com/tessus/apachetop) display information from a running copy of Apache.
 - [atop](https://github.com/Atoptool/atop/) root level system and process monitor for Linux
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) A tool for managing project collaboration between humans and AI Agents in a git ecosystem
@@ -47,6 +48,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [claws](https://github.com/clawscli/claws) A terminal UI for AWS resource management with vim-style keybindings, command-mode navigation, and optional read-only mode.
 - [cointop](https://github.com/miguelmota/cointop) The fastest and most interactive terminal based UI application for tracking cryptocurrencies
 - [CoreFreq](https://github.com/cyring/CoreFreq) CPU monitoring software designed for the 64-bits Processors
+- [cronstable](https://github.com/ptweezy/cronstable) Job scheduler with a live terminal dashboard for job status, logs, run history, workflows, and cluster health
 - [csysdig](https://github.com/draios/sysdig) root level Ncurses interface for sysdig, Linux system exploration and troubleshooting tool with first class support for containers
 - [damon](https://github.com/hashicorp/damon) TUI interface for Hashicorp Nomad
 - [dashbrew](https://github.com/rasjonell/dashbrew) TUI dashboard builder that lets you visualize data from scripts and APIs.
@@ -55,6 +57,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [flowrs](https://github.com/jvanbuel/flowrs) A TUI for monitoring, inspecting and managing Apache Airflow DAGs
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
+- [g5a](https://github.com/gengwg/g5a) Read-only terminal UI for live Grafana dashboards, with variables, repeated panels, and Braille time-series charts.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) A rich terminal UI for GitHub PRs and Issues
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Gloomberb](https://github.com/vincelwt/gloomberb) Open-source finance terminal for portfolios, watchlists, charts, news, research, and broker connections.
@@ -73,8 +76,10 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kmon](https://github.com/orhun/kmon) Linux Kernel Manager and Activity Monitor
 - [Kyanos](https://github.com/hengyoush/kyanos) Linux network analysis tool based on eBPF
 - [lazyslurm](https://github.com/hill/lazyslurm) A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
+- [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes
 - [ls-horizons](https://github.com/litescript/ls-horizons) Terminal UI for visualizing NASA's Deep Space Network in real-time
 - [macmon](https://github.com/vladkens/macmon) Sudoless performance monitoring for Apple Silicon processors written in Rust
+- [metropolis](https://github.com/5c0/metropolis) A cyberpunk system monitor that turns kernel metrics into a living terminal skyline
 - [nerdlog](https://github.com/dimonomid/nerdlog) fast, remote-first, multi-host TUI log viewer
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
@@ -89,6 +94,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [pstop](https://github.com/marlocarlo/pstop) htop-style system monitor for Windows with per-core CPU bars, tree view, and 7 color schemes.
 - [Puffin](https://github.com/siddhantac/puffin) A beautiful terminal dashboard for hledger
 - [Raijin](https://github.com/MasonStooksbury/Raijin) A free, simple weather TUI that pulls data without the need for an API key, account, or subscription
+- [RunWisp](https://github.com/runwisp/runwisp) Cron job manager and process supervisor with a TUI for live output and run history
 - [rustnet](https://github.com/domcyrus/rustnet) A cross-platform network monitoring tool with deep packet inspection
 - [s-tui](https://github.com/amanusk/s-tui) CPU stress and monitoring utility
 - [sacha](https://github.com/Sachamama/sacha) A two-pane AWS TUI for browsing, searching, and managing resources across seven services including CloudWatch Logs, S3, DynamoDB, Lambda, SSM, SQS, and EC2.
@@ -102,12 +108,15 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [TermUI](https://github.com/gizak/termui) Golang terminal dashboard
 - [ticker](https://github.com/achannarasappa/ticker) Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [tmd-top](https://github.com/CDWEN0526/tmd-top) Used to monitor the process tcp traffic of the linux system, detailed to each IP connection
+- [topic](https://github.com/yurirocha15/topic) top for inside containers: shows CPU, memory, GPU, disk, network and process usage against the container's cgroup limits instead of the host's
 - [toptop](https://github.com/ur-grue/toptop) htop/btop-class system monitor with a local-LLM view: tokens/sec, VRAM-spill and memory-bandwidth verdicts, NVIDIA + Apple Silicon
 - [trek](https://github.com/franckverrot/trek) ncurses explorer for Hashicorp Nomad clusters
 - [trippy](https://github.com/fujiapple852/trippy) A network diagnostic tool that includes functionality like mtr and more
+- [ttl](https://github.com/lance0/ttl) Fast, modern traceroute with a real-time TUI, per-hop stats and ASN/geo lookup
 - [ttop](https://github.com/inv2004/ttop) System monitoring tool with historical data service, triggers and top-like TUI
 - [tufw](https://github.com/peltho/tufw) Terminal UI for ufw
 - [tuicamp](https://github.com/AbeEstrada/tuicamp) Unofficial TimeCamp TUI
+- [unifly](https://github.com/hyperb1iss/unifly) CLI and TUI for Ubiquiti UniFi networks with live traffic charts, topology, clients, and firewall management
 - [updo](https://github.com/Owloops/updo) Website monitoring tool with uptime tracking, response time metrics, and SSL certificate monitoring.
 - [wander](https://github.com/robinovitch61/wander) HashiCorp Nomad terminal client
 - [WTF](https://github.com/senorprogrammer/wtf) The personal information dashboard for your terminal.
@@ -121,6 +130,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Development</h2></summary>
 
 - [act3](https://github.com/dhth/act3) Glance at the last 3 runs of your Github Actions
+- [AgenC Core](https://github.com/tetsuo-ai/agenc-core) Open source AI coding agent with a terminal UI that works with any model provider
 - [amtui](https://github.com/pehlicd/amtui/) Alertmanager TUI - Your Terminal Companion for Alertmanager
 - [amux](https://github.com/andyrewlee/amux) Easily run parallel coding agents
 - [ATAC](https://github.com/Julien-cpsn/ATAC) A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
@@ -133,6 +143,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [chiko](https://github.com/felangga/chiko) The Ultimate Beauty TUI gRPC Client
 - [Claude Code Bridge](https://github.com/bfly123/claude_code_bridge) Real-time multi-AI collaboration between Claude, Codex and Gemini in terminal
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) Monitor Claude token usage
+- [clausona](https://github.com/larcane97/clausona) Switch Claude Code and Codex accounts with conversation history kept across them, route runs by plan usage, and manage each account's skills, MCP servers and hooks
 - [Close Mongo Ops Manager](https://github.com/closeio/close-mongo-ops-manager) Monitor and kill MongoDB operations
 - [Cloudeval](https://github.com/ganakailabs/cloudeval-cli) Interactive cloud evaluations and reviews with project context, report views, and chat sessions. Supports Azure and static AWS CloudFormation (beta); requires a Cloudeval account.
 - [cnTUI](https://github.com/fipso/cntui) Replay chrome requests from your terminal using curl
@@ -151,11 +162,13 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [differ](https://github.com/JanSmrcka/differ) A TUI git diff viewer
 - [ec](https://github.com/chojs23/ec) A TUI native Git mergetool with 3 panes
 - [euporie](https://github.com/joouha/euporie) Jupyter notebooks in the terminal
+- [every-other-token](https://github.com/Mattbusel/Every-Other-Token) Streams an LLM response and colours each token by the model's confidence, with perplexity and the top alternatives in a full-screen view
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [Feluda](https://github.com/anistark/feluda) Detect restrictive and incompatible licesenses in all dependencies of your project.
 - [Froggit](https://github.com/thewizardshell/froggit) Minimalist Git TUI with GitHub CLI integration
 - [fx](https://github.com/antonmedv/fx) Terminal JSON viewer & processor
 - [ggc](https://github.com/bmf-san/ggc) A terminal-based Git CLI tool written in Go
+- [gh-enhance](https://github.com/dlvhdr/gh-enhance) A blazingly fast terminal UI for GitHub Actions
 - [ghcup](https://github.com/haskell/ghcup-hs) An installer for the Haskell toolchain
 - [git-crecord](https://github.com/andrewshadura/git-crecord) interactive selective commit tool
 - [git-scope](https://github.com/Bharath-code/git-scope) Terminal UI dashboard for inspecting multiple local Git repositories.
@@ -169,6 +182,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [heretek](https://github.com/wcampbell0x2a/heretek) GDB TUI Dashboard
 - [jqp](https://github.com/noahgorstein/jqp) A TUI playground to experiment with jq
 - [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
+- [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
 - [lazygit](https://github.com/jesseduffield/lazygit) Simple terminal UI for git commands
 - [lazyjournal](https://github.com/Lifailon/lazyjournal) TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering
 - [lazymake](https://github.com/rshelekhov/lazymake) Modern TUI for Makefiles with interactive target selection, dependency visualization, and command safety analysis.
@@ -180,9 +194,11 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
+- [Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2) Open-source AI coding agent with a full-screen terminal UI that reads, edits and tests code with permission prompts
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
+- [pho](https://github.com/utkarsh261/pho) Review, comment on and merge GitHub pull requests from the terminal
 - [play](https://github.com/paololazzari/play) A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [postbear](https://github.com/carban/postbear) Postbear is a high-speed and lightweight API client. The Postman alternative in your terminal
 - [posting](https://github.com/darrenburns/posting) A powerful HTTP client that lives in your terminal
@@ -192,6 +208,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [prs](https://github.com/dhth/prs) Stay updated on PRs without leaving the terminal
 - [pudb](https://github.com/inducer/pudb) A console-based visual debugger for Python
 - [pyautogit](https://github.com/jwlodek/pyautogit) A terminal UI for managing git repositories, written using py_cui
+- [qmax-code](https://github.com/Quality-Max/qmax-code) QA-focused AI terminal agent written in Go, with standalone repository workflows and optional QualityMax integration.
 - [qo](https://github.com/kiki-ki/go-qo) Interactive SQL filter for JSON, CSV, TSV and other streams.
 - [qrypad](https://github.com/wheelibin/qrypad) A fast SQL scratchpad for your terminal. 
 - [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
@@ -207,11 +224,15 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [snips.sh](https://github.com/robherley/snips.sh) ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [soft-serve](https://github.com/charmbracelet/soft-serve) A tasty, self-hostable Git server for the command lineicecream
 - [sot](https://github.com/anistark/sot) A top like system observability tool written in python
+- [SpurCode](https://github.com/getspur/SpurCode) Rust TUI control tower that turns tasks into DAG plans and orchestrates a fleet of coding agents (Claude Code, Codex, Gemini, Kimi, OpenCode, ACP) in isolated git worktrees
 - [sq](https://github.com/sheenazien8/sq) A database client specially made for vim users
 - [sqlit](https://github.com/Maxteabag/sqlit) A lightweight TUI for SQL databases inspired by lazygit
+- [sshs](https://github.com/quantumsheep/sshs) Terminal user interface for SSH
 - [stu](https://github.com/lusingander/stu) A TUI for Amazon S3
+- [SynapsCLI](https://github.com/HaseebKhalid1507/SynapsCLI) Terminal-native AI agent runtime with parallel subagents, shareable daemon sessions, and any model from Claude to local Ollama
 - [termdbms](https://github.com/mathaou/termdbms) A TUI for viewing and editing database files.
 - [terraform-tui](https://github.com/idoavrah/terraform-tui) view and interact with Terraform state
+- [therapist](https://github.com/M-Komorek/therapist) - A lightweight TUI log viewer for multi-GB files with bookmarks, grep tabs and phrase highlights.
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
 - [Toad](https://github.com/batrachianai/toad) A unified interface for AI
 - [tokui](https://github.com/zdyxry/tokui) An interactive TUI for visualizing code statistics from tokei.
@@ -224,6 +245,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Wikit](https://github.com/BryanCE/wikit) TUI for managing Wiki.js instances
 - [y509](https://github.com/kanywst/y509) Inspect X.509 certificate chains, catching the missing intermediates that break curl but not browsers
 - [ygrep](https://github.com/yetidevworks/ygrep) A fast, local, indexed code search TUI powered by Tantivy full-text indexing, optimized for AI coding assistants
+- [zlodev](https://github.com/vandot/zlodev) Local dev HTTPS front door: `*.lo` domains with real certs, multi-app routing, and a TUI to inspect, intercept and replay traffic
 
 ---
 
@@ -253,6 +275,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kftui](https://github.com/hcavarsan/kftray) A TUI to manage multiple kubectl port-forward commands, with support for UDP and K8s proxy.
 - [ktop](https://github.com/vladimirvivien/ktop) A top-like tool for your Kubernetes clusters
 - [kubetui](https://github.com/sarub0b0/kubetui) A TUI tool designed for monitoring Kubernetes resources.
+- [layerx](https://github.com/deveshctl/layerx) Inspect container image layers in an interactive TUI with filesystem diffs, inline file viewing, and file extraction; supports Docker, Podman, and OCI archives
 - [lazycontainer](https://github.com/andreybleme/lazycontainer) TUI for managing Apple containers
 - [lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker
 - [lazytrivy](https://github.com/owenrumney/lazytrivy) The lazier way to scan images, k8s and the filesytem with Trivy
@@ -273,10 +296,12 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [amp](https://github.com/jmacdonald/amp) A complete text editor for your terminal
 - [C-Edit](https://github.com/velorek1/c-edit) A text editor with drop down menus in the style of MS-DOS Editor
 - [Durdraw](https://github.com/cmang/durdraw) An ASCII, Unicode and ANSI art editor
+- [edamame](https://github.com/mijowi/edamame) A Terminal Markdown editor that stays rendered while you edit
 - [Edit](https://github.com/microsoft/edit) A simple text editor. Pays homage to the classic MS-DOS Editor.
 - [flow-control](https://github.com/neurocyte/flow) A lightning-fast, feature-rich text editor written in Zig
 - [Fresh](https://github.com/sinelaw/fresh) An easy-to-use, powerful and fast terminal-based text editor.
 - [frogmouth](https://github.com/Textualize/frogmouth) A Markdown browser for your terminal
+- [hake](https://github.com/mithraeums/hako-edit) Vim-style modal editor in one C file, with an AI agent in a side pane
 - [helix](https://helix-editor.com/) A post-modern text editor.
 - [hexed](https://codeberg.org/quorend/hexed) (Yet another) hex editor.
 - [kakoune](http://kakoune.org/) A modern, modal text editor with focus on interactivity and efficiency
@@ -307,6 +332,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [adbtuifm](https://github.com/darkhz/adbtuifm) A TUI file manager for Android, based on the Android Debug Bridge(ADB).
 - [broot](https://github.com/Canop/broot) A new way to see and navigate directory trees
 - [deletor](https://github.com/pashkov256/deletor) Manage and delete files efficiently with an interactive TUI and scriptable CLI.
+- [elio](https://github.com/elio-fm/elio) Snappy, batteries-included terminal file manager.
 - [far2l](https://github.com/elfmz/far2l) Linux port of Far v2 file manager
 - [FileView](https://github.com/Hiro-Chiba/fileview) A terminal file browser with image previews, Git status, search, and an MCP server.
 - [fml](https://github.com/wick3dr0se/fml) :file_folder: A stupid simple, fast file manager written in BASH v4.2+.
@@ -335,10 +361,12 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [awkaster](https://github.com/TheMozg/awk-raycaster) Pseudo-3D shooter written completely in gawk using raycasting technique
 - [balatrotui](https://github.com/Passeriform/BalatroTUI) A TUI clone of Balatro
 - [bastet](https://github.com/fph/bastet) Evil falling block game
+- [bell-system-sim](https://github.com/WPTK/bell-system-sim) Work a Bell System repair test desk in 1983 from a fake UNIX V7 shell and close out phone trouble reports
 - [botany](https://github.com/jifunks/botany/) Virtual plant buddy
 - [brickgame-4bit](https://github.com/ilyakurdyukov/brickgame-4bit) Brick Game emulator (4-bit Holtek chip)
 - [BrogueCE](https://github.com/tmewett/BrogueCE) Beautiful roguelike dungeon crawler
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) A bonsai tree generator
+- [CHAOS RPG](https://github.com/Mattbusel/chaos-rpg) A roguelike where every hit, heal and loot drop is decided by chaining real math (Lorenz attractor, Mandelbrot set, Collatz)
 - [chess-tui](https://github.com/thomas-mauran/chess-tui) Play Chess in your terminal, built in rust
 - [cli-chess](https://github.com/trevorbayless/cli-chess) A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 - [clidle](https://github.com/ajeetdsouza/clidle) Play Wordle in your terminal. Also works over SSH!
@@ -402,6 +430,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Argenta](https://github.com/koloideal/Argenta) Library for building modular applications **Python**
 - [blessed](https://github.com/jquast/blessed) Blessed is an easy, practical library for making **Python** terminal apps
 - [blessings](https://github.com/erikrose/blessings) A **Python** wrapper lib for ncurses that makes your code pretty to look at
+- [flexablelib](https://github.com/Opus-Perpetuus/flexablelib) Dependency-free **Python** library for terminal tables with 56 border styles, colours, cell merges and decimal alignment.
 - [notcurses](https://github.com/dankamongmen/notcurses) blingful character graphics/TUI library for **C** and **Python**. definitely not curses.
 - [py_cui](https://github.com/jwlodek/py_cui) **Python** library aimed at making widget based TUI/CUI interfaces as simple as possible. Supports standard widgets and popups like menus, textboxes, forms, file explorers etc.
 - [pytermgui](https://github.com/bczsalba/pytermgui) A simple yet powerful TUI framework for your **Python** (3.7+) applications.
@@ -409,6 +438,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Python Prompt Toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) Library for building powerful interactive command line applications in **Python**
 - [Rich](https://github.com/willmcgugan/rich) is a **Python** library for rich text and beautiful formatting in the terminal.
 - [textual](https://github.com/willmcgugan/textual) is a TUI (Text User Interface) framework for **Python** inspired by modern web development.
+- [textual-themes](https://github.com/michaelblaess/textual-themes) 41 retro color themes for Textual apps in **Python**
 - [textual-widgets](https://github.com/michaelblaess/textual-widgets) Reusable widgets for Textual apps in **Python**: date picker, context menu, splitter, log panel and modal dialogs
 - [UniCurses](https://github.com/unicurses/unicurses) A **Python** module that is aimed at providing the Curses functionality on all operating systems.
 - [urwid](https://github.com/urwid/urwid) A console user interface library for **Python** on Linux, OSX, Cygwin or other unix-like OS.
@@ -440,6 +470,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) 💻 **C++** Functional Terminal User Interface. ❤️
 - [GGUI](https://github.com/Gabidal/GGUI) **C++17** Structured Terminal User Interface. 🐧/🪟
 - [imtui](https://github.com/ggerganov/imtui) An immediate mode text-based user interface **C++** library, supporting 256 ANSI colors and mouse/keyboard input.
+- [koto](https://github.com/saber-88/koto) A modern, zero dependency immediate mode **C++23** TUI library. 
 - [rang](https://github.com/agauniyal/rang) A Minimal, Header only Modern **C++** library for terminal goodies.
 - [termdb](https://github.com/agauniyal/termdb) Terminfo parser for modern **C++**
 - [Tui Widgets](https://github.com/tuiwidgets/tuiwidgets) A high-level widget based toolkit for terminal applications in **C++**
@@ -468,6 +499,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <h3>Rust</h3>
 
+- [AppCUI-rs](https://github.com/gdt050579/AppCUI-rs) Cross-platform **Rust** TUI framework   with overlapping windows, menus, dialogs and 50+ built-in controls (lists, trees, charts, date pickers, hex viewer), themes and mouse support.
 - [iocraft](https://github.com/ccbrown/iocraft) **Rust** crate for beautiful, artisanally crafted TUIs and text-based IO, with a declarative, React-like API inspired by Ink.
 - [Ratatui](https://github.com/tui-rs-revival/ratatui) A **Rust** crate for building Terminal UIs (actively maintained fork of tui-rs).
 - [Ratatui Kit](https://github.com/yexiyue/ratatui-kit) **Rust** crate that allows for the creation of React-like components built on top of Ratatui.
@@ -480,6 +512,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Ashen](https://github.com/colinta/Ashen) An Elm inspired framework written in **Swift**
 - [blessed](https://github.com/chjj/blessed) A high-level terminal interface library for **Node.js**
   stateful TUI apps.
+- [dart_tui](https://github.com/codenameakshay/dart_tui) Elm-style terminal UI framework for **Dart**: components, forms, Lip Gloss-style styling.
 - [gum](https://github.com/charmbracelet/gum) A tool for glamorous **shell** scripts
 - [ink](https://github.com/vadimdemedes/ink) React for **Node.js** interactive command-line apps
 - [ink-web](https://github.com/cjroth/ink-web) A browser-based runtime for Ink that renders React TUI apps in the browser using xterm.js.
@@ -506,6 +539,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [basalt](https://github.com/erikjuhani/basalt) TUI Application to manage Obsidian vaults and notes directly from the terminal.
 - [concord](https://github.com/chojs23/concord) A feature-rich TUI client for Discord
 - [Devzat](https://github.com/quackduck/devzat) Chat over SSH, written in Golang with self-hosting ability.
+- [dexchat](https://github.com/dexchat/dex) A modern TUI IRC client for your terminal.
 - [discordo](https://github.com/ayntgl/discordo) A lightweight, secure, and feature-rich Discord terminal client
 - [endcord](https://github.com/mzivic7/endcord) Feature rich Discord TUI client.
 - [Gomphotherium](https://github.com/mrusme/gomphotherium) A command line Mastodon client.
@@ -527,6 +561,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nostratui](https://github.com/adamm-xyz/nostratui) A terminal user interface (TUI) for browsing Nostr posts, written in Rust.
 - [nostui](https://github.com/akiomik/nostui) Nostr client
 - [Profanity](https://profanity-im.github.io) XMPP (Jabber) client
+- [rtg](https://github.com/bercly0b/rtg) Fast, vim-like Telegram TUI client written in Rust, built on TDLib
 - [sclack](https://github.com/haskellcamargo/sclack) Slack terminal client
 - [scli](https://github.com/isamert/scli/) A simple terminal user interface for signal messenger
 - [siggo](https://github.com/derricw/siggo) A terminal ui for signal-cli, written in Go
@@ -534,6 +569,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sup](https://github.com/sup-heliotrope/sup) A curses threads-with-tags style email client
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
 - [Superhighway84](https://github.com/mrusme/superhighway84) USENET-inspired decentralized internet discussion system
+- [tele](https://github.com/sorokin-vladimir/tele) - A keyboard-first Telegram client with a TUI, CLI and background daemon
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [toxic](https://github.com/JFreegman/toxic/) A Tox-based instant messaging and video chat client
@@ -560,6 +596,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cfdisk](https://github.com/util-linux/util-linux) TUI partition editor included in util-linux
 - [cgdisk](https://www.rodsbooks.com/gdisk/cgdisk-walkthrough.html) TUI partition editor for manipulating GUID partition tables, and modeled after cfdisk
 - [Clanki](https://github.com/alvenw/clanki) A TUI-based Anki review client, even supporting progress sync.
+- [codename-generator](https://github.com/michaelblaess/codename-generator) Generates project codenames from themes such as Greek gods, gemstones or constellations, with modifiers and phonetic mutations
 - [CrunchyCleaner](https://github.com/knuspii/crunchycleaner) A lightweight, software cache cleanup tool for Windows & Linux.
 - [csvlens](https://github.com/YS-L/csvlens) TUI CSV file viewer. It is like less but made for CSV.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
@@ -592,9 +629,11 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) macOS disk cleanup TUI: scan cache/dev artifacts, preview, exclude, and move items to Trash.
 - [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [moc](https://moc.daper.net/download) console audio player
+- [Mole](https://github.com/tw93/Mole) Clean caches and app leftovers, uninstall apps, and browse disk usage and live system stats in interactive TUIs on macOS and Windows
 - [moribito](https://github.com/ericschmar/moribito) Browse LDAP directory trees, viewing records, and executing custom queries.
 - [mqttui](https://github.com/EdJoPaTo/mqttui) MQTT Client written in rust
 - [NanoCore](https://github.com/AfaanBilal/NanoCore) An 8-bit CPU emulator TUI written in Rust with an assembler and a custom ISA.
+- [nbtui](https://codeberg.org/ItsZariep/nbtui) Ncurses Bluetooth TUI Manager for Linux
 - [ncdu](https://dev.yorhel.nl/ncdu) disk usage analyzer with an ncurses interface
 - [nemu](https://github.com/nemuTUI/nemu) A TUI for QEMU
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
@@ -635,6 +674,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WG Commander](https://github.com/andrianbdn/wg-cmd) A TUI for a simple WireGuard VPN setup: peer management, QR codes, setup wizard.
 - [wifitui](https://github.com/shazow/wifitui) Fast featureful friendly wifi terminal UI, supports NetworkManager and iwd over dbus.
 - [WifUI](https://github.com/sohamw03/wifui) TUI for managing Wi-Fi connections on Windows natively (Rust)
+- [wlctl](https://github.com/aashish-thapa/wlctl) TUI for managing wifi, ethernet and vpn on Linux with Network Manager
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
@@ -676,13 +716,16 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [MusicTUI](https://github.com/anthonymaley/MusicTUI) Apple Music TUI and CLI for macOS, written in Swift, with multi-room AirPlay routing, library browsing with cover art, playlists, radio and a venue equalizer
 - [nap](https://nap.sourceforge.net/) Linux napster client
 - [ncspot](https://github.com/hrkfdn/ncspot) Cross-platform ncurses Spotify client written in Rust
+- [NoctaVox](https://github.com/Jaxx497/NoctaVox) Local TUI music player
 - [ostui](https://git.sr.ht/~ser/ostui) CLI client for Subsonic-API servers like gonic and Navidrome
 - [pipe-viewer](https://github.com/trizen/pipe-viewer) A lightweight YouTube client for Linux, without requiring an API key.
 - [pyradio](https://github.com/coderholic/pyradio) TUI web radio player with thousands of stations from around the world
 - [RadioGoGo](https://github.com/Zi0P4tch0/RadioGoGo) Go-powered CLI to surf global radio waves via a sleek TUI.
 - [Relax-player](https://github.com/ebithril/relax-player) A lightweight, distraction-free alternative to web-based ambient players.
+- [retro-amp](https://github.com/michaelblaess/retro-amp) Retro-styled music player with real-time spectrum visualizer, synced lyrics, playlists and 38 themes
 - [rmpc](https://rmpc.mierak.dev/) A configurable MPD client inspired by ncmpcpp and ranger with album art support via various graphics protocols.
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
+- [rustune](https://github.com/dzulfikar08/rustune) Terminal music player with YouTube search, local playback, synced lyrics, Internet radio and Winamp skins
 - [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets.
 - [sgram-tui](https://github.com/arian-shamaei/sgram-tui) Calibrated spectrogram analyzer for live mic or audio files, with labeled PNG figure export and a headless render mode
 - [sonicradio](https://github.com/dancnb/sonicradio) A stylish TUI radio player making use of Radio Browser API and Bubbletea.
@@ -727,6 +770,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [budget-tracker-tui](https://github.com/Feromond/budget-tracker-tui) A TUI budget tracker app designed to track income, expenses, investments, budget goals and visualize / gather insights.
 - [calcure](https://github.com/anufrievroman/calcure) Modern TUI calendar and task manager with minimal and customizable UI.
 - [calcurse](https://calcurse.org/) calendar and scheduling application for the command line
+- [christophorus](https://github.com/michaelblaess/christophorus) Vehicle logbook with trips, odometer chain, plausibility checks and export to Excel, PDF, JSON or Markdown
 - [Chronos](https://github.com/samuelstranges/chronos) A Vimlike Calendar TUI
 - [clipse](https://github.com/savedra1/clipse) TUI-based clipboard manager application
 - [Desktop-TUI](https://github.com/Julien-cpsn/desktop-tui) A desktop environment without graphics
@@ -755,11 +799,14 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [kanban-python](https://github.com/Zaloog/kanban-python) Kanban Terminal App written in Python
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [LazySSH](https://github.com/adembc/lazyssh) TUI SSH manager to browse, connect, and manage servers from ssh config files.
+- [leetrs](https://github.com/shadowmkj/leetrs) A blazing-fast, Rust-powered TUI and engine for solving LeetCode problems from the terminal
 - [levite](https://github.com/RauliL/levite) A TUI spreadsheet application that uses an RPN formulas and features a vi-friendly interface
+- [lilbee](https://github.com/tobocop2/lilbee) A local model engine with a search engine and web crawler built in: chat with your files, notes, code, and crawled sites on your own GPUs, with answers that cite the source line
 - [linear-tui](https://github.com/roeyazroel/linear-tui) A terminal user interface for Linear built with Go and tview.
 - [longbridge-terminal](https://github.com/longbridge/longbridge-terminal) AI-native TUI for Longbridge Securities: real-time quotes, portfolio management, and trading for HK/US/A-share/SG markets.
 - [lssh](https://github.com/blacknon/lssh) A terminal-native remote access suite for SSH workflows, including interactive host selection, parallel commands, mux workspaces, file transfer, sync, diff, forwarding, and multi-host monitoring.
 - [mcfly](https://github.com/cantino/mcfly) Intelligent context-aware search engine for your shell history
+- [monolog](https://github.com/maksmas/monolog) Keyboard-driven personal backlog stored as one JSON file per task in a git repo you own, with conflict-free sync across devices
 - [multranslate](https://github.com/Lifailon/multranslate) A TUI for translating text in multiple translators simultaneously, with support for translation history and language detection
 - [mynav](https://github.com/GianlucaP106/mynav) Workspace and session management for terminal environments
 - [nless](https://github.com/mpryor/nothing-less) Terminal pager for exploring tabular data with vi keybindings and automatic delimiter inference
@@ -781,6 +828,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [slides](https://github.com/maaslalani/slides) A terminal based presentation tool, supporting markdown syntax.
 - [ssh-slides](https://github.com/ivantsepp/ssh-slides) Terminal-based presentations over SSH
 - [sshm](https://github.com/gu1llaum-3/sshm) SSH made easy and fast: browse, connect, and control from your terminal with a modern TUI
+- [Suvadu](https://github.com/AppachiTech/suvadu) Shell history search for Zsh and Bash that also records the commands AI coding agents run
 - [Tabiew](https://github.com/shshemi/tabiew) A lightweight app to view and query tabular data files, such as CSV, TSV, and parquet.
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
@@ -804,9 +852,9 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [tuidict](https://github.com/404Simon/tuidict) Fast offline dictionary with in-app downloads and multi-language support from FreeDict
 - [tuihub](https://github.com/ashis0013/tuihub) A utility hub/dashboard for personal use
 - [TUIOS](https://github.com/Gaurav-Gosain/tuios) A TUI window manager for managing multiple terminal sessions
-- [tuiserial](https://github.com/Horldsence/tuiserial) TUI Serial Port Tool for Edge Computing Devices
 - [tvterm](https://github.com/magiblot/tvterm) A terminal emulator that runs in your terminal
 - [Visidata](https://github.com/saulpw/visidata) A terminal spreadsheet multitool for discovering and arranging data
+- [xleak](https://github.com/bgreenwell/xleak) A fast terminal Excel viewer with an interactive TUI
 - [zeit](https://github.com/mrusme/zeit) A command line tool for tracking time spent on activities.
 - [zellij](https://github.com/zellij-org/zellij) A terminal workspace with batteries included
 
@@ -839,6 +887,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [CatenaVetus](https://github.com/jimbob88/CatenaVetus) A TUI for reading the Church Fathers
 - [Chawan](https://chawan.net) A TUI web (and (S)FTP, Gopher, Gemini) browser with CSS, inline image and JavaScript support.
 - [cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) Internet speed test via Cloudflare
+- [console-error-scanner](https://github.com/michaelblaess/console-error-scanner) Scans websites from a URL or sitemap for JavaScript console errors and HTTP failures (404, 5xx), with HTML and JSON reports
 - [eilmeldung](https://github.com/christo-auer/eilmeldung) RSS reader, supporting many RSS providers, bulk-operations and configuration options.
 - [elinks](https://github.com/rkd77/elinks) ELinks (HTTP/FTP/..) brower with mujs javascript support.
 - [hackernews-TUI](https://github.com/aome510/hackernews-TUI) A Terminal UI to browse Hacker News
@@ -853,6 +902,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
+- [sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker) Crawls websites and generates sitemap.xml files, with sitemap tree view and crawl history
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
 - [stegodon](https://github.com/deemkeen/stegodon) SSH-first federated microblog with ActivityPub, web UI, and RSS feeds
 - [surge](https://github.com/surge-downloader/surge) A blazing fast, beautiful TUI download manager built in Go.
