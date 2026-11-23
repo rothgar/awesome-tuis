@@ -593,6 +593,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [cgdisk](https://www.rodsbooks.com/gdisk/cgdisk-walkthrough.html) TUI partition editor for manipulating GUID partition tables, and modeled after cfdisk
 - [Clanki](https://github.com/alvenw/clanki) A TUI-based Anki review client, even supporting progress sync.
 - [codename-generator](https://github.com/michaelblaess/codename-generator) Generates project codenames from themes such as Greek gods, gemstones or constellations, with modifiers and phonetic mutations
+- [Cretopass](https://github.com/Dmitrytuk/cretopass) Offline terminal password manager storing a tree of secrets with custom fields in a single age-encrypted file.
 - [CrunchyCleaner](https://github.com/knuspii/crunchycleaner) A lightweight, software cache cleanup tool for Windows & Linux.
 - [csvlens](https://github.com/YS-L/csvlens) TUI CSV file viewer. It is like less but made for CSV.
 - [diary](https://github.com/actuday6418/Diary) A diary app written in Rust that encrypts both text and file data, and can decrypt and build a rich HTML representation of your diary when required.
