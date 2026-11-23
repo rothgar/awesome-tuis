@@ -41,7 +41,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [elia](https://github.com/darrenburns/elia) A terminal ChatGPT client build with Textual
 - [fast-resume](https://github.com/angristan/fast-resume) Index and fuzzy search coding agent sessions
 - [hcom](https://github.com/aannoo/hcom) CLI and TUI for real-time messaging, observation, and orchestration between AI coding agents (Claude Code, Antigravity, Codex, OpenCode, Kilo, Cursor) across terminals
-- [kagan](https://github.com/kagan-sh/kagan) AI-powered Kanban TUI for autonomous development workflows
 - [Keen Code](https://github.com/mochow13/keen-code) A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits
 - [lilbee](https://github.com/tobocop2/lilbee) A local model engine with a search engine and web crawler built in: chat with your files, notes, code, and crawled sites on your own GPUs, with answers that cite the source line
 - [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes
@@ -90,7 +89,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [flowrs](https://github.com/jvanbuel/flowrs) A TUI for monitoring, inspecting and managing Apache Airflow DAGs
 - [framework-tool-tui](https://github.com/grouzen/framework-tool-tui) TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [fubar](https://github.com/irishmaestro/fubar) Formidable Unix Binary Arsenal & Repository. TUI built for gtfobins power users.
-- [g5a](https://github.com/gengwg/g5a) Read-only terminal UI for live Grafana dashboards, with variables, repeated panels, and Braille time-series charts.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) A rich terminal UI for GitHub PRs and Issues
 - [Glances](https://github.com/nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
 - [Gloomberb](https://github.com/vincelwt/gloomberb) Open-source finance terminal for portfolios, watchlists, charts, news, research, and broker connections.
@@ -318,12 +316,10 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [maki](https://sr.ht/~bscit/maki/) A simple tabbed text editor with file navigation and an emphasis on preserving battery life
 - [markln](https://github.com/xqtr/markln) A terminal-based markdown editor built with Textual.
 - [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
-- [microNeo](https://github.com/sollawen/microNeo) A fork of Micro with in-place Markdown rendering — view and edit in the same window
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
 - [PNANA](https://github.com/Cyxuan0311/PNANA) A modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text.
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
-- [suplemon](https://github.com/leancode/suplemon) Text editor with multiple cursors, in the style of Sublime Text
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
 - [tilde](https://github.com/gphalkes/tilde) Intuitive text editor for the terminal
 - [treemd](https://github.com/Epistates/treemd) A markdown navigator with tree-based structural navigation
@@ -604,7 +600,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [diskonaut](https://github.com/imsnif/diskonaut) Terminal disk space navigator
 - [dua-cli](https://github.com/byron/dua-cli) View disk space usage and delete unwanted data, fast.
 - [distrobox-tui](https://github.com/phanirithvij/distrobox-tui) TUI for managing distrobox containers
-- [dtflow](https://github.com/KenyonY/dtflow) Terminal browser for LLM training data (SFT/DPO/agent JSONL): samples rendered as conversations, full-file search, Python-expression filters, mouse support, windowed loading for large files.
 - [dupster](https://github.com/karimz1/dupster) The lazy way to find duplicates in your Terminal. Easily find duplicates, preview them and delete them.
 - [ec2-instance-selector](https://github.com/aws/amazon-ec2-instance-selector) A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
 - [emu2](https://github.com/dmsc/emu2) A simple DOS emulator for the Linux text console, supporting basic DOS system calls and console I/O.
@@ -684,7 +679,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 
 <details open><summary><h2>Multimedia</h2></summary>
 
-- [Absotui](https://github.com/pdwaldrop/absotui) A TUI Audiobookshelf client for Linux and macOS, written in Rust
 - [ani-l](https://github.com/komposer-aml/ani-l) Rust-based anime browsing and streaming all without leaving the terminal
 - [asak](https://github.com/chaosprint/asak) A cross-platform audio recording/playback TUI
 - [bookokrat](https://github.com/bugzmanov/bookokrat) Full-featured EPUB books reader with Vim keybindings.
@@ -768,7 +762,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [doxx](https://github.com/bgreenwell/doxx) A TUI document viewer for Microsoft Word files
 - [drako](https://github.com/lucky7xz/drako) A grid-based, customizable and extendable command- and TUI-Deck launcher
 - [dvtm](https://github.com/martanne/dvtm) A terminal multiplexer with dwm like window management
-- [ekphos](https://github.com/hanebox/ekphos) A fast, lightweight, markdown research tool written in rust
 - [fjira](https://github.com/mk-5/fjira) TUI application for Atlassian Jira
 - [fuzz.fish](https://github.com/jedipunkz/fuzz.fish) A fuzzy finder for the Fish shell with preview panes for command history, files, git branches, worktrees, and commits
 - [GeekCalendar](https://github.com/fearlessgeekmedia/GeekCalendar) TUI calendar with vim key bindings, which can import from calcure or calcurse.
