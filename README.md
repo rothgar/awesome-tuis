@@ -194,6 +194,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [mitmproxy](https://www.mitmproxy.org) A free and open source interactive HTTPS proxy
 - [models](https://github.com/arimxyer/models) TUI for browsing AI models and coding agents
 - [nap](https://github.com/maaslalani/nap) Code snippets in your terminal
+- [Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2) Open-source AI coding agent with a full-screen terminal UI that reads, edits and tests code with permission prompts
 - [nodebro](https://github.com/jonaburg/nodebro) Easily view most recent Github releases/tags and release notes from the terminal
 - [opcilloscope](https://github.com/SquareWaveSystems/opcilloscope) OPC UA client TUI with real-time oscilloscope view for industrial automation
 - [opencode](https://github.com/sst/opencode) AI coding agent, built for the terminal
