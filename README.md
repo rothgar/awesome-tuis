@@ -669,6 +669,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [WifUI](https://github.com/sohamw03/wifui) TUI for managing Wi-Fi connections on Windows natively (Rust)
 - [wlctl](https://github.com/aashish-thapa/wlctl) TUI for managing wifi, ethernet and vpn on Linux with Network Manager
 - [wttr.in](https://github.com/chubin/wttr.in) The right way to check the weather
+- [wwlog](https://github.com/ali5ter/wwlog) Browse, compare, and export your Weight Watchers food log, with a local archive that outlives the subscription
 - [x-cmd](https://github.com/x-cmd/x-cmd) A vast and interesting collection of tools that can then bootstrap lots of other programs / functions in a consistent and structured way.
 - [xplr](https://github.com/sayanarijit/xplr) A hackable, minimal, fast TUI file explorer, stealing ideas from nnn and fzf.
 - [ytunnel](https://github.com/yetidevworks/ytunnel) A TUI for creating and managing Cloudflare Tunnels with custom domains
