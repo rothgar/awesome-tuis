@@ -153,6 +153,20 @@ def parse_iso_date_utc(iso_str: str) -> date | None:
     return dt.astimezone(timezone.utc).date()
 
 
+def effective_start(first_commit_iso: str, created_iso: str) -> str:
+    """
+    The date a project's age is measured from: the later of its first commit
+    and the GitHub repository's creation date. Commit dates are set by the
+    author and can be backdated (or imported from private history), so a repo
+    created on GitHub recently counts as young even if its history looks old.
+    """
+    first = parse_iso_date_utc(first_commit_iso)
+    created = parse_iso_date_utc(created_iso)
+    if first and created:
+        return created_iso if created > first else first_commit_iso
+    return first_commit_iso or created_iso or ""
+
+
 def go_no_go_for_first_commit(iso_date_str: str) -> tuple[str, str, str]:
     """
     Returns (display_date, emoji, status).
@@ -192,11 +206,19 @@ def get_first_commit_date(client: GithubClient, repo_url: str) -> str:
     return author or committer or ""
 
 
-def markdown_table_row(c1: str, c2: str, c3: str) -> str:
+def get_repo_created_date(client: GithubClient, repo_url: str) -> str:
+    owner_repo = repo_url.removeprefix("https://github.com/")
+    repo, _ = client.api(f"repos/{owner_repo}")
+    if not isinstance(repo, dict):
+        return ""
+    return repo.get("created_at", "") or ""
+
+
+def markdown_table_row(*cells: str) -> str:
     def esc(s: str) -> str:
         return s.replace("|", "\\|")
 
-    return f"| {esc(c1)} | {esc(c2)} | {esc(c3)} |"
+    return "| " + " | ".join(esc(c) for c in cells) + " |"
 
 
 def build_comment_table(readme_urls: list[str], client: GithubClient) -> tuple[str, list[tuple[str, str, str]]]:
@@ -206,33 +228,44 @@ def build_comment_table(readme_urls: list[str], client: GithubClient) -> tuple[s
     real GitHub repo. Non-GitHub URLs are excluded from the status list
     (they are treated as UNKNOWN and do not affect close decisions).
     """
-    first_commit_cache: dict[str, str] = {}
-    rows: list[tuple[date | None, str, str, str]] = []
+    date_cache: dict[str, tuple[str, str]] = {}
+    rows: list[tuple[date | None, str, str, str, str, str]] = []
     statuses: list[tuple[str, str, str]] = []
 
     for raw_url in readme_urls:
         repo_url = normalize_github_repo_url(raw_url)
         if not repo_url:
-            rows.append((None, "—", "⛔", raw_url))
+            rows.append((None, "—", "—", "—", "⛔", raw_url))
             continue
 
-        if repo_url not in first_commit_cache:
-            first_commit_cache[repo_url] = get_first_commit_date(client, repo_url)
+        if repo_url not in date_cache:
+            date_cache[repo_url] = (
+                get_first_commit_date(client, repo_url),
+                get_repo_created_date(client, repo_url),
+            )
 
-        iso = first_commit_cache[repo_url]
+        first_iso, created_iso = date_cache[repo_url]
+        iso = effective_start(first_iso, created_iso)
         display_date, emoji, status = go_no_go_for_first_commit(iso)
         sort_key = parse_iso_date_utc(iso)
-        rows.append((sort_key, display_date, emoji, repo_url))
+        first_display = first_iso[:10] if first_iso else "—"
+        created_display = created_iso[:10] if created_iso else "—"
+        rows.append((sort_key, display_date, first_display, created_display, emoji, repo_url))
         statuses.append((repo_url, status, iso))
 
     rows.sort(key=lambda r: (r[0] is None, r[0] or date.min))
 
     header = (
-        "| Start (sorted) | 🚦 | Repository URL |\n"
-        "| :------------: | :-: | ----------------------------------------------------------- |"
+        "| Start (sorted) | First commit | Repo created | 🚦 | Repository URL |\n"
+        "| :------------: | :----------: | :----------: | :-: | ----------------------------------------------------------- |"
     )
     body_lines = [MARKER, "", header]
-    body_lines.extend(markdown_table_row(c1, c2, c3) for _, c1, c2, c3 in rows)
+    body_lines.extend(markdown_table_row(*cells) for _, *cells in rows)
+    body_lines += [
+        "",
+        "Start is the later of the first commit and the GitHub repository's "
+        "creation date; it must be at least 6 months ago.",
+    ]
     return "\n".join(body_lines), statuses
 
 
@@ -244,7 +277,7 @@ def build_close_comment(too_young: list[tuple[str, str]]) -> str:
         "Closing this PR because every repository added by this change is "
         "younger than the 6-month minimum required by this list.",
         "",
-        "| Repository | First commit |",
+        "| Repository | Start |",
         "| ---------- | ------------ |",
     ]
     for repo_url, iso_date in too_young:
@@ -253,8 +286,8 @@ def build_close_comment(too_young: list[tuple[str, str]]) -> str:
     lines += [
         "",
         "What to do next: please reopen this PR once each of the above "
-        "repositories has been active for at least 6 months (by first "
-        "commit). The status table above will refresh automatically when "
+        "repositories has existed on GitHub and been active for at least "
+        "6 months. The status table above will refresh automatically when "
         "you reopen or push changes.",
     ]
     return "\n".join(lines)
