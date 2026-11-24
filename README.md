@@ -751,6 +751,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 <details open><summary><h2>Productivity</h2></summary>
 
 - [abook](https://abook.sourceforge.io/) TUI addressbook with [mutt](http://www.mutt.org/) integration
+- [atlassian](https://github.com/BiteFoundry/atlassian) Jira and Confluence TUI, CLI, local HTTP API, and MCP server written in Rust with Ratatui and SQLite FTS5 search
 - [awsui](https://github.com/junminhong/awsui) A powerful, user-friendly terminal interface for AWS Profile and SSO management.
 - [Bada](https://github.com/Han8931/bada) A minimalist, Vim-first task manager designed to help you focus without distraction.
 - [Bagels](https://github.com/EnhancedJax/Bagels) TUI expense tracker
