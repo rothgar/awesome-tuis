@@ -114,6 +114,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [nethogs](https://github.com/raboof/nethogs) 'net top' tool
 - [netscanner](https://github.com/Chleba/netscanner) Network scanner
 - [nvtop](https://github.com/Syllo/nvtop) GPUs process monitoring for AMD, Intel and NVIDIA
+- [octoscope](https://github.com/gfazioli/octoscope) Terminal dashboard for your GitHub account: profile, activity, repo health and network at a glance, auto-refreshed
 - [oryx](https://github.com/pythops/oryx) A TUI for sniffing network traffic using eBPF
 - [otel-tui](https://github.com/ymtdzzz/otel-tui) A terminal OpenTelemetry viewer
 - [process-compose](https://github.com/F1bonacc1/process-compose) TUI for running apps and processes
