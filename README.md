@@ -883,6 +883,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [rfc_reader](https://github.com/ozan2003/rfc_reader) A tool to read RFCs (Request for Comments) with a TUI, allowing you to fetch, cache, and browse RFC documents.
 - [rtorrent](https://github.com/rakshasa/rtorrent) A text-based BitTorrent client written in C++
 - [rttt](https://gitlab.com/BlackEdder/rttt) A Hackernews, RSS and Reddit reader for the terminal written in C++.
+- [rustor](https://github.com/gmagk/rustor) A simple TUI for viewing transmission-remote's torrents written in Rust. 
 - [searxngr](https://github.com/scross01/searxngr) Web search TUI for SearXNG
 - [sitemap-tracker](https://github.com/michaelblaess/sitemap-tracker) Crawls websites and generates sitemap.xml files, with sitemap tree view and crawl history
 - [Slumber](https://github.com/LucasPickering/slumber) Terminal-based HTTP/REST client
