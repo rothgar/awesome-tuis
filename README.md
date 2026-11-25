@@ -567,6 +567,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [SuperChat](https://github.com/serialexp/superchat) Terminal-based threaded chat application with a custom binary protocol.
 - [tele](https://github.com/sorokin-vladimir/tele) - A keyboard-first Telegram client with a TUI, CLI and background daemon
 - [tgt](https://github.com/FedericoBruzzone/tgt) A TUI for Telegram written in Rust
+- [tmpmail](https://github.com/qorvyx/tmpmail) Disposable email inbox: mail arrives live, the verification code is one key away
 - [toot](https://github.com/ihabunek/toot) Mastodon CLI & TUI
 - [toxic](https://github.com/JFreegman/toxic/) A Tox-based instant messaging and video chat client
 - [tuisky](https://github.com/sugyan/tuisky) TUI client for BlueSky
