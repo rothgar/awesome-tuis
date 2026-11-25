@@ -318,6 +318,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [micro](https://github.com/micro-editor/micro) A modern and intuitive terminal-based text editor
 - [nino](https://github.com/evanlin96069/nino) A small terminal-based text editor written in C.
 - [orbiton](https://github.com/xyproto/orbiton) Text editor limited by VT100, suitable for programming, writing git commit messages and editing Markdown
+- [Ordet](https://github.com/LeonardoAmadeo/Ordet) Offline, WordStar-style terminal word processor written in Rust with split windows, margin ruler, revision history, and film-inspired themes
 - [PNANA](https://github.com/Cyxuan0311/PNANA) A modern terminal text editor built with FTXUI, inspired by Nano, Micro, and Sublime Text.
 - [slap](https://github.com/slap-editor/slap) Sublime-like terminal-based text editor
 - [thymus](https://github.com/blademd/thymus) An interactive browser & editor for network configuration files.
