@@ -614,6 +614,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [impala](https://github.com/pythops/impala) TUI for managing wifi
 - [isw](https://gitlab.com/thom-cameron/isw) A simple terminal stopwatch application for pomodoro etc.
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
+- [keybr-tui](https://github.com/y0sif/keybr-tui) Adaptive touch-typing practice that finds the keys slowing you down and drills them, using the keybr.com algorithm.
 - [keydex](https://github.com/shikaan/keydex) TUI password manager for KeePass databases.
 - [lazynginx](https://github.com/giacomomasseron/lazynginx) Simple TUI for nginx management.
 - [LearnByExample](https://github.com/learnbyexample/TUI-apps) A TUI with tutorials and +300 exercises on python, grep, awk, sed & general terminal usage.
