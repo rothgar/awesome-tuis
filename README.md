@@ -46,6 +46,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [llm-cost-dashboard](https://github.com/Mattbusel/llm-cost-dashboard) Prices every LLM API call from OpenAI, Anthropic and Claude Code logs, with a budget, a month-end forecast and cost spikes
 - [models](https://github.com/reyamira/models) TUI for browsing AI models and coding agents
 - [Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2) Open-source AI coding agent with a full-screen terminal UI that reads, edits and tests code with permission prompts
+- [OMK](https://github.com/dmae97/omk) Open-source TypeScript AI coding agent for the terminal that switches models mid-session, adds subagents when needed, and finishes a goal only when your own check passes
 - [opencode](https://github.com/anomalyco/opencode) AI coding agent, built for the terminal
 - [qmax-code](https://github.com/Quality-Max/qmax-code) QA-focused AI terminal agent written in Go, with standalone repository workflows and optional QualityMax integration.
 - [Quorum](https://github.com/Detrol/quorum-cli) Multi-agent AI discussion system for structured debates between LLMs
